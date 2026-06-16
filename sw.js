@@ -1,10 +1,10 @@
-const CACHE_NAME = "zsb-knowledge-pwa-v8-less-files";
-const ASSETS = [
+const CACHE_NAME="zsb-knowledge-cardstyle-v1";
+const ASSETS=[
   "./",
   "./index.html",
-  "./styles.css?v=20260616-kp-8",
-  "./app.js?v=20260616-kp-8",
-  "./knowledge-data.js?v=20260616-kp-8",
+  "./styles.css?v=20260616-cardstyle-v1",
+  "./app.js?v=20260616-cardstyle-v1",
+  "./knowledge-data.js?v=20260616-cardstyle-v1",
   "./manifest.webmanifest",
   "./icon-192.png",
   "./icon-512.png",
@@ -60,6 +60,6 @@ const ASSETS = [
   "./mindmap-025.pdf",
   "./mindmap-025.png"
 ];
-self.addEventListener("install",event=>{event.waitUntil(caches.open(CACHE_NAME).then(cache=>cache.addAll(ASSETS)).then(()=>self.skipWaiting()))});
-self.addEventListener("activate",event=>{event.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(k=>k!==CACHE_NAME).map(k=>caches.delete(k)))).then(()=>self.clients.claim()))});
-self.addEventListener("fetch",event=>{if(event.request.method!=="GET")return;event.respondWith(caches.match(event.request).then(cached=>cached||fetch(event.request).then(res=>{if(res.ok&&new URL(event.request.url).origin===self.location.origin){const copy=res.clone();caches.open(CACHE_NAME).then(cache=>cache.put(event.request,copy));}return res;}).catch(()=>event.request.mode==="navigate"?caches.match("./index.html"):undefined)))});
+self.addEventListener("install",e=>{e.waitUntil(caches.open(CACHE_NAME).then(c=>c.addAll(ASSETS)).then(()=>self.skipWaiting()))});
+self.addEventListener("activate",e=>{e.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(k=>k!==CACHE_NAME).map(k=>caches.delete(k)))).then(()=>self.clients.claim()))});
+self.addEventListener("fetch",e=>{if(e.request.method!=="GET")return;e.respondWith(caches.match(e.request).then(c=>c||fetch(e.request).then(r=>{if(r.ok&&new URL(e.request.url).origin===self.location.origin){const copy=r.clone();caches.open(CACHE_NAME).then(cache=>cache.put(e.request,copy))}return r}).catch(()=>e.request.mode==="navigate"?caches.match("./index.html"):undefined)))});
