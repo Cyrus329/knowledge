@@ -1,10 +1,10 @@
-const CACHE_NAME="zsb-knowledge-cardstyle-v1";
+const CACHE_NAME="zsb-knowledge-dual-opt-v1";
 const ASSETS=[
   "./",
   "./index.html",
-  "./styles.css?v=20260616-cardstyle-v1",
-  "./app.js?v=20260616-cardstyle-v1",
-  "./knowledge-data.js?v=20260616-cardstyle-v1",
+  "./styles.css?v=20260616-dual-opt-v1",
+  "./app.js?v=20260616-dual-opt-v1",
+  "./knowledge-data.js?v=20260616-dual-opt-v1",
   "./manifest.webmanifest",
   "./icon-192.png",
   "./icon-512.png",
