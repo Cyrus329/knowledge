@@ -1,0 +1,11 @@
+{
+  "version": "v20",
+  "name": "完整图片修复版",
+  "based_on": "v19",
+  "fixes": [
+    "完整解压并保留 images 文件夹",
+    "完整保留 exam_video_v15 录屏考点图片",
+    "完整保留 pdfs 文件夹",
+    "修复仅预览 index.html 导致的图片缺失问题"
+  ]
+}
