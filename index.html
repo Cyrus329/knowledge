@@ -1,1 +1,74 @@
-<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover"><meta name="theme-color" content="#0f172a"><title>专升本知识点速记本</title><link rel="manifest" href="./manifest.webmanifest"><link rel="stylesheet" href="./styles.css?v=20260616-dual-opt-v1"></head><body><header class="top"><div><p>专升本 · 计算机</p><h1>知识点速记本</h1><span>电脑双栏 / 手机点一个看一个</span></div><button id="installBtn" class="install hidden">安装</button></header><section class="tools"><input id="searchInput" type="search" placeholder="搜索知识点、答案、关键词"><div class="filters"><select id="chapterFilter"><option value="">全部章节</option></select><select id="statusFilter"><option value="">全部状态</option><option value="unread">未看</option><option value="read">已看</option><option value="starred">重点</option><option value="mastered">已掌握</option></select></div><div class="tabs"><button data-status="" class="active">全部 <b id="totalCount">0</b></button><button data-status="unread">未看 <b id="unreadCount">0</b></button><button data-status="starred">重点 <b id="starCount">0</b></button><button data-status="mastered">掌握 <b id="masteredCount">0</b></button></div></section><main class="layout"><aside class="list-pane"><div class="list-head"><strong>知识点列表</strong><span id="shownCount">0</span></div><div id="itemList" class="item-list"></div></aside><article id="detailPane" class="detail-pane"><div class="empty">点左侧/列表中的一个知识点开始背。</div></article></main><footer class="bottom"><button id="exportBtn">导出记录</button><label>导入记录<input id="importInput" type="file" accept="application/json"></label></footer><dialog id="imageDialog" class="image-dialog"><button id="closeDialog" class="close-btn">关闭</button><img id="dialogImage" alt="放大图片"></dialog><script src="./knowledge-data.js?v=20260616-dual-opt-v1"></script><script src="./app.js?v=20260616-dual-opt-v1"></script></body></html>
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover" />
+  <title>专升本知识点速记本</title>
+  <meta name="theme-color" content="#0f766e" />
+  <link rel="manifest" href="./manifest.webmanifest" />
+  <link rel="icon" href="./icon-192.png" />
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+  <header class="top">
+    <div>
+      <p>专升本 · 计算机 + 英语 · PDF完整分区版</p>
+      <h1>知识点速记本</h1>
+      <span>计算机按章节，英语按语法章节；短讲义 PDF 完整保留，进度 ID 不改</span>
+    </div>
+    <button id="installBtn" class="install hidden" type="button">安装</button>
+  </header>
+
+  <section class="tools" aria-label="筛选工具">
+    <input id="searchInput" type="search" placeholder="搜索：如 计算机、英语、名词、代词、情态动词、二进制、CPU..." autocomplete="off" />
+
+    <div class="subject-tabs" role="tablist" aria-label="科目分区">
+      <button type="button" data-subject="">全部</button>
+      <button type="button" data-subject="计算机">计算机</button>
+      <button type="button" data-subject="英语">英语</button>
+    </div>
+    <div class="filters">
+      <select id="chapterFilter" aria-label="章节筛选"><option value="">全部章节</option></select>
+      <select id="statusFilter" aria-label="状态筛选">
+        <option value="">全部状态</option>
+        <option value="unread">未看</option>
+        <option value="read">已看</option>
+        <option value="starred">重点</option>
+        <option value="mastered">已掌握</option>
+      </select>
+    </div>
+    <div class="tabs" role="tablist" aria-label="学习状态快捷筛选">
+      <button type="button" data-status="">全部 <span id="totalCount">0</span></button>
+      <button type="button" data-status="unread">未看 <span id="unreadCount">0</span></button>
+      <button type="button" data-status="starred">重点 <span id="starCount">0</span></button>
+      <button type="button" data-status="mastered">掌握 <span id="masteredCount">0</span></button>
+    </div>
+  </section>
+
+  <main class="layout">
+    <aside class="list-pane">
+      <div class="list-head">
+        <strong>知识点列表</strong>
+        <span id="shownCount">0</span>
+      </div>
+      <div id="itemList" class="item-list"></div>
+    </aside>
+    <article id="detailPane" class="detail-pane">
+      <div class="empty">点左侧/列表中的一个知识点开始背。</div>
+    </article>
+  </main>
+
+  <footer class="bottom">
+    <button id="exportBtn" type="button">导出记录</button>
+    <label for="importInput">导入记录<input id="importInput" type="file" accept="application/json,.json" /></label>
+  </footer>
+
+  <dialog id="imageDialog" class="image-dialog">
+    <button id="closeDialog" class="close-btn" type="button">关闭</button>
+    <img id="dialogImage" alt="原图预览" />
+  </dialog>
+
+  <script src="./knowledge-data.js"></script>
+  <script src="./app.js"></script>
+</body>
+</html>

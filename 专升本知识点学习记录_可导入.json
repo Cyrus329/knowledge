@@ -1,0 +1,132 @@
+{
+  "version": 1,
+  "exportedAt": "2026-06-28T03:45:29.800Z",
+  "study": {
+    "HF-001": {
+      "read": true,
+      "starred": false,
+      "mastered": false,
+      "note": "",
+      "updatedAt": "2026-06-17T07:35:46.746Z"
+    },
+    "HF-002": {
+      "read": true,
+      "starred": false,
+      "mastered": false,
+      "note": "",
+      "updatedAt": "2026-06-17T07:52:31.081Z"
+    },
+    "HF-003": {
+      "read": true,
+      "starred": false,
+      "mastered": false,
+      "note": "",
+      "updatedAt": "2026-06-17T08:02:34.157Z"
+    },
+    "HF-004": {
+      "read": true,
+      "starred": false,
+      "mastered": false,
+      "note": "",
+      "updatedAt": "2026-06-17T08:07:40.355Z"
+    },
+    "HF-005": {
+      "read": true,
+      "starred": false,
+      "mastered": false,
+      "note": "",
+      "updatedAt": "2026-06-17T14:14:16.169Z"
+    },
+    "HF-006": {
+      "read": true,
+      "starred": false,
+      "mastered": false,
+      "note": "",
+      "updatedAt": "2026-06-18T04:16:37.183Z"
+    },
+    "HF-007": {
+      "read": true,
+      "starred": false,
+      "mastered": false,
+      "note": "",
+      "updatedAt": "2026-06-18T04:23:37.075Z"
+    },
+    "HF-008": {
+      "read": true,
+      "starred": false,
+      "mastered": false,
+      "note": "",
+      "updatedAt": "2026-06-18T05:55:02.425Z"
+    },
+    "HF-009": {
+      "read": true,
+      "starred": false,
+      "mastered": false,
+      "note": "",
+      "updatedAt": "2026-06-18T09:52:36.385Z"
+    },
+    "HF-010": {
+      "read": true,
+      "starred": false,
+      "mastered": false,
+      "note": "",
+      "updatedAt": "2026-06-18T09:59:08.234Z"
+    },
+    "HF-011": {
+      "read": true,
+      "starred": false,
+      "mastered": false,
+      "note": "",
+      "updatedAt": "2026-06-18T10:01:22.388Z"
+    },
+    "HF-012": {
+      "read": true,
+      "starred": false,
+      "mastered": false,
+      "note": "",
+      "updatedAt": "2026-06-18T10:01:29.978Z"
+    },
+    "HF-013": {
+      "read": true,
+      "starred": false,
+      "mastered": false,
+      "note": "",
+      "updatedAt": "2026-06-18T10:03:15.507Z"
+    },
+    "HF-014": {
+      "read": true,
+      "starred": false,
+      "mastered": false,
+      "note": "",
+      "updatedAt": "2026-06-18T10:04:59.536Z"
+    },
+    "HF-015": {
+      "read": true,
+      "starred": false,
+      "mastered": false,
+      "note": "",
+      "updatedAt": "2026-06-18T10:08:55.694Z"
+    },
+    "HF-016": {
+      "read": true,
+      "starred": false,
+      "mastered": false,
+      "note": "",
+      "updatedAt": "2026-06-18T10:12:38.953Z"
+    },
+    "HF-017": {
+      "read": true,
+      "starred": false,
+      "mastered": false,
+      "note": "",
+      "updatedAt": "2026-06-18T10:13:22.786Z"
+    },
+    "KP-001": {
+      "read": true,
+      "starred": true,
+      "mastered": false,
+      "note": "",
+      "updatedAt": "2026-06-18T10:32:18.550Z"
+    }
+  }
+}
