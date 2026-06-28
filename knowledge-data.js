@@ -17838,7 +17838,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 2.8s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9001,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -17868,8 +17868,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0001_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0001.jpg",
+      "masked": "exam_video_v15/video1/0001_hide.jpg",
+      "answer": "exam_video_v15/video1/0001.jpg",
       "boxCount": 14,
       "time": 2.8,
       "video": "录屏1",
@@ -17877,8 +17877,8 @@ window.KNOWLEDGE_ITEMS = [
     },
     "isVideoExam": true,
     "pageClozeTextLines": [
-      "冯.诺依有曼 o",
-      "历史人物 G",
+      "冯·诺依曼",
+      "历史人物",
       "1.冯·诺依曼被称为 ([[计算机]]) 之父",
       "2. 冯·诺依曼的核心原理是 (存储程序和程序",
       "控制) 原理",
@@ -17888,7 +17888,7 @@ window.KNOWLEDGE_ITEMS = [
       "([[内存]]) 中,需要时自动运行,提出并论证这",
       "个理论的研究小组领导是 ([[冯·诺依曼]])",
       "5. 冯·诺依曼理论体系表明,计算机内部采用",
-      "([[三进制]]) 编码"
+      "([[二进制]]) 编码"
     ],
     "pagePlainText": "冯.诺依有曼 o}\n历史人物 *® G\n1.冯'诺依曼被称为 ( 计算机 ) ZR.\n2. 冯`诺依曼的核心原理是 ( 存储程序和程序\n控制 ) 原理.\n3. 冯\"诺依曼理论中将计算机硬件分为 ( 运算\n器) 、 (控制器) 、 ( 存储器 ) 、( 输入\n设备 ) 、 ( 输出设备 ) .\n4. 在计算机运行中,把程序和数据一起存放在\n(AF) 中,需要时自动运行,提出并论证这\n个理论的研究小组领导是 ( 冯:诺依曼 ) .\n5. 冯\"诺依曼理论体系表明,计算机内部采用\n( 三进制 ) 编码.\n加| A wR) oe"
   },
@@ -17901,7 +17901,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 4.3s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9002,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -17931,8 +17931,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0002_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0002.jpg",
+      "masked": "exam_video_v15/video1/0002_hide.jpg",
+      "answer": "exam_video_v15/video1/0002.jpg",
       "boxCount": 13,
       "time": 4.3,
       "video": "录屏1",
@@ -17941,14 +17941,14 @@ window.KNOWLEDGE_ITEMS = [
     "isVideoExam": true,
     "pageClozeTextLines": [
       "第一章计算机基础知识 / 11 计算机文化基础",
-      "图灵 G",
+      "图灵",
       "1. 图灵被称为 ([[人工智能]]) 之父",
       "2. 图灵的两大主要贡献一是图灵机,二是",
       "工智能的研究",
       "3. 图灵测试通过 ([[人机对话]]) 的方式检验机",
       "器是否具有人工智能",
-      "4. 计算机界的“诺贝尔奖?叫做 ([[BRB]])",
-      "5. ([[BR]]) 机主要有两部分组成: 一条无限",
+      "4. 计算机界的诺贝尔奖?叫做 ([[图灵奖]])",
+      "5. ([[图灵]]) 机主要有两部分组成: 一条无限",
       "长的纸带,纸带分成了一个一个的小方格,用",
       "作无限存储; 其次有一个 ([[读写头]]),能在纸",
       "带上读、写和左右移动",
@@ -17967,7 +17967,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 4.6s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9003,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -17997,8 +17997,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0003_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0003.jpg",
+      "masked": "exam_video_v15/video1/0003_hide.jpg",
+      "answer": "exam_video_v15/video1/0003.jpg",
       "boxCount": 11,
       "time": 4.6,
       "video": "录屏1",
@@ -18007,7 +18007,7 @@ window.KNOWLEDGE_ITEMS = [
     "isVideoExam": true,
     "pageClozeTextLines": [
       "第一章计算机基础知识 / 1.1 计算机文化基础",
-      "图灵 G",
+      "图灵",
       "历史人物三",
       "1. 图灵被称为 (([[人工智能]]) 之父",
       "2. 图灵的两大主要贡献一是图灵机,二是",
@@ -18015,8 +18015,8 @@ window.KNOWLEDGE_ITEMS = [
       "工智能的研究",
       "3. 图灵测试通过 ([[人机对话]]) 的方式检验机",
       "器是否具有人工智能",
-      "4. 计算机界的“诺贝尔奖叫做 ([[AR]])",
-      "5. ([[BR]]) 机主要有两部分组成: 一条无限",
+      "4. 计算机界的诺贝尔奖叫做 ([[AR]])",
+      "5. ([[图灵]]) 机主要有两部分组成: 一条无限",
       "长的纸带,纸带分成了一个一个的小方格,用",
       "作无限存储; 其次有一个读写头),能在纸",
       "带上读、写和左右移动",
@@ -18035,7 +18035,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 5.3s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9004,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -18065,8 +18065,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0004_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0004.jpg",
+      "masked": "exam_video_v15/video1/0004_hide.jpg",
+      "answer": "exam_video_v15/video1/0004.jpg",
       "boxCount": 3,
       "time": 5.3,
       "video": "录屏1",
@@ -18085,7 +18085,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 7.1s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9005,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -18115,8 +18115,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0005_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0005.jpg",
+      "masked": "exam_video_v15/video1/0005_hide.jpg",
+      "answer": "exam_video_v15/video1/0005.jpg",
       "boxCount": 7,
       "time": 7.1,
       "video": "录屏1",
@@ -18124,7 +18124,7 @@ window.KNOWLEDGE_ITEMS = [
     },
     "isVideoExam": true,
     "pageClozeTextLines": [
-      "计算机的分代 G",
+      "计算机的分代",
       "历史事件 we",
       "1. 世界上第一台电子计算机所采用的逻辑元件",
       "是 ([[电子管]])",
@@ -18145,7 +18145,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 7.7s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9006,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -18175,8 +18175,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0006_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0006.jpg",
+      "masked": "exam_video_v15/video1/0006_hide.jpg",
+      "answer": "exam_video_v15/video1/0006.jpg",
       "boxCount": 3,
       "time": 7.7,
       "video": "录屏1",
@@ -18199,7 +18199,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 8.4s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9007,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -18229,8 +18229,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0007_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0007.jpg",
+      "masked": "exam_video_v15/video1/0007_hide.jpg",
+      "answer": "exam_video_v15/video1/0007.jpg",
       "boxCount": 3,
       "time": 8.4,
       "video": "录屏1",
@@ -18249,7 +18249,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 8.7s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9008,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -18279,8 +18279,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0008_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0008.jpg",
+      "masked": "exam_video_v15/video1/0008_hide.jpg",
+      "answer": "exam_video_v15/video1/0008.jpg",
       "boxCount": 3,
       "time": 8.7,
       "video": "录屏1",
@@ -18299,7 +18299,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 11.2s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9009,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -18329,8 +18329,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0009_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0009.jpg",
+      "masked": "exam_video_v15/video1/0009_hide.jpg",
+      "answer": "exam_video_v15/video1/0009.jpg",
       "boxCount": 7,
       "time": 11.2,
       "video": "录屏1",
@@ -18354,7 +18354,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 11.5s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9010,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -18384,8 +18384,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0010_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0010.jpg",
+      "masked": "exam_video_v15/video1/0010_hide.jpg",
+      "answer": "exam_video_v15/video1/0010.jpg",
       "boxCount": 7,
       "time": 11.5,
       "video": "录屏1",
@@ -18395,7 +18395,7 @@ window.KNOWLEDGE_ITEMS = [
     "pageClozeTextLines": [
       "第一章计算机基础知识 / 11 计算机文化基础",
       "四个化本",
-      "计算机的发展趋势 G",
+      "计算机的发展趋势",
       "1. 未来计算机的四个发展方向分别是 (巨型",
       "化)、 ([[微型化]])、 ([[网络化]]) 和 (智能"
     ],
@@ -18410,7 +18410,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 11.8s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9011,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -18440,8 +18440,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0011_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0011.jpg",
+      "masked": "exam_video_v15/video1/0011_hide.jpg",
+      "answer": "exam_video_v15/video1/0011.jpg",
       "boxCount": 7,
       "time": 11.8,
       "video": "录屏1",
@@ -18449,9 +18449,9 @@ window.KNOWLEDGE_ITEMS = [
     },
     "isVideoExam": true,
     "pageClozeTextLines": [
-      "按运算速度与性能分类 G",
+      "按运算速度与性能分类",
       "1目前,生活中应用最广泛的计算机类型是",
-      "2. 按照性能划分,中国国防科技大学研制的“银",
+      "2. 按照性能划分,中国国防科技大学研制的银",
       "河计算机属于([[巨型计算机]])",
       "3. 图形处理能力和任务并行能力更强的计算机",
       "类型是([[工作站]])",
@@ -18468,7 +18468,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 12.1s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9012,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -18498,8 +18498,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0012_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0012.jpg",
+      "masked": "exam_video_v15/video1/0012_hide.jpg",
+      "answer": "exam_video_v15/video1/0012.jpg",
       "boxCount": 7,
       "time": 12.1,
       "video": "录屏1",
@@ -18507,9 +18507,9 @@ window.KNOWLEDGE_ITEMS = [
     },
     "isVideoExam": true,
     "pageClozeTextLines": [
-      "按运算速度与性能分类 G",
+      "按运算速度与性能分类",
       "1. 目前,生活中应用最广泛的计算机类型是",
-      "2. 按照性能划分,中国国防科技大学研制的“银",
+      "2. 按照性能划分,中国国防科技大学研制的银",
       "河计算机属于 ([[巨型计算机]])",
       "3. 图形处理能力和任务并行能力更强的计算机",
       "类型是 ([[工作站]])",
@@ -18526,7 +18526,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 12.4s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9013,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -18556,8 +18556,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0013_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0013.jpg",
+      "masked": "exam_video_v15/video1/0013_hide.jpg",
+      "answer": "exam_video_v15/video1/0013.jpg",
       "boxCount": 2,
       "time": 12.4,
       "video": "录屏1",
@@ -18582,7 +18582,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 12.7s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9014,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -18612,8 +18612,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0014_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0014.jpg",
+      "masked": "exam_video_v15/video1/0014_hide.jpg",
+      "answer": "exam_video_v15/video1/0014.jpg",
       "boxCount": 2,
       "time": 12.7,
       "video": "录屏1",
@@ -18632,7 +18632,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 13.9s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9015,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -18662,8 +18662,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0015_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0015.jpg",
+      "masked": "exam_video_v15/video1/0015_hide.jpg",
+      "answer": "exam_video_v15/video1/0015.jpg",
       "boxCount": 4,
       "time": 13.9,
       "video": "录屏1",
@@ -18687,7 +18687,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 14.6s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9016,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -18717,8 +18717,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0016_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0016.jpg",
+      "masked": "exam_video_v15/video1/0016_hide.jpg",
+      "answer": "exam_video_v15/video1/0016.jpg",
       "boxCount": 4,
       "time": 14.6,
       "video": "录屏1",
@@ -18727,7 +18727,7 @@ window.KNOWLEDGE_ITEMS = [
     "isVideoExam": true,
     "pageClozeTextLines": [
       "第一章计算机基础知识 / 1.1 计算机文化基础",
-      "1. CPU在单位时间内的平均“动作次数称为",
+      "1. CPU在单位时间内的平均动作次数称为",
       "([[主频]]),单位一般为 ([[GHz]]),相同条件",
       "下,该参数越高,速度越 ([[快]])"
     ],
@@ -18742,7 +18742,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 15.2s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9017,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -18772,8 +18772,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0017_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0017.jpg",
+      "masked": "exam_video_v15/video1/0017_hide.jpg",
+      "answer": "exam_video_v15/video1/0017.jpg",
       "boxCount": 2,
       "time": 15.2,
       "video": "录屏1",
@@ -18797,7 +18797,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 17.7s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9018,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -18827,8 +18827,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0018_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0018.jpg",
+      "masked": "exam_video_v15/video1/0018_hide.jpg",
+      "answer": "exam_video_v15/video1/0018.jpg",
       "boxCount": 4,
       "time": 17.7,
       "video": "录屏1",
@@ -18836,7 +18836,7 @@ window.KNOWLEDGE_ITEMS = [
     },
     "isVideoExam": true,
     "pageClozeTextLines": [
-      "计算机的特点 G",
+      "计算机的特点",
       "计算机的特点 oe",
       "1. 计算机的特点有 ([[运算速度]]) 快,(计算",
       "精度) 高,具有逻辑判断能力,可靠性高,自",
@@ -18853,7 +18853,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 18.0s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9019,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -18883,8 +18883,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0019_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0019.jpg",
+      "masked": "exam_video_v15/video1/0019_hide.jpg",
+      "answer": "exam_video_v15/video1/0019.jpg",
       "boxCount": 2,
       "time": 18.0,
       "video": "录屏1",
@@ -18892,7 +18892,7 @@ window.KNOWLEDGE_ITEMS = [
     },
     "isVideoExam": true,
     "pageClozeTextLines": [
-      "自动控制 G",
+      "自动控制",
       "算机应用领域 eke 2",
       "1, 实现现代化工业生产过程自动化的主要手段",
       "是用计算机进行 ([[自动控制]])",
@@ -18909,7 +18909,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 18.3s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9020,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -18939,8 +18939,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0020_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0020.jpg",
+      "masked": "exam_video_v15/video1/0020_hide.jpg",
+      "answer": "exam_video_v15/video1/0020.jpg",
       "boxCount": 2,
       "time": 18.3,
       "video": "录屏1",
@@ -18963,7 +18963,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 18.6s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9021,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -18993,8 +18993,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0021_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0021.jpg",
+      "masked": "exam_video_v15/video1/0021_hide.jpg",
+      "answer": "exam_video_v15/video1/0021.jpg",
       "boxCount": 4,
       "time": 18.6,
       "video": "录屏1",
@@ -19003,7 +19003,7 @@ window.KNOWLEDGE_ITEMS = [
     "isVideoExam": true,
     "pageClozeTextLines": [
       "数据处理 cj",
-      "+算机应用领域 ee G",
+      "+算机应用领域 ee",
       "1. 按计算机应用的分类,办公自动化属于 (数",
       "据处理)",
       "2. 银行利用计算机进行存贷款业务管理属于计",
@@ -19020,7 +19020,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 18.9s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9022,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -19050,8 +19050,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0022_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0022.jpg",
+      "masked": "exam_video_v15/video1/0022_hide.jpg",
+      "answer": "exam_video_v15/video1/0022.jpg",
       "boxCount": 4,
       "time": 18.9,
       "video": "录屏1",
@@ -19076,7 +19076,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 19.2s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9023,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -19106,8 +19106,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0023_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0023.jpg",
+      "masked": "exam_video_v15/video1/0023_hide.jpg",
+      "answer": "exam_video_v15/video1/0023.jpg",
       "boxCount": 2,
       "time": 19.2,
       "video": "录屏1",
@@ -19126,7 +19126,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 19.8s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9024,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -19156,8 +19156,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0024_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0024.jpg",
+      "masked": "exam_video_v15/video1/0024_hide.jpg",
+      "answer": "exam_video_v15/video1/0024.jpg",
       "boxCount": 9,
       "time": 19.8,
       "video": "录屏1",
@@ -19187,7 +19187,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 20.1s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9025,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -19217,8 +19217,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0025_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0025.jpg",
+      "masked": "exam_video_v15/video1/0025_hide.jpg",
+      "answer": "exam_video_v15/video1/0025.jpg",
       "boxCount": 9,
       "time": 20.1,
       "video": "录屏1",
@@ -19249,7 +19249,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 20.4s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9026,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -19279,8 +19279,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0026_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0026.jpg",
+      "masked": "exam_video_v15/video1/0026_hide.jpg",
+      "answer": "exam_video_v15/video1/0026.jpg",
       "boxCount": 2,
       "time": 20.4,
       "video": "录屏1",
@@ -19289,7 +19289,7 @@ window.KNOWLEDGE_ITEMS = [
     "isVideoExam": true,
     "pageClozeTextLines": [
       "第一章计算机基础知识 / 1.2 进制转换",
-      "基数 G",
+      "基数",
       "数制的概念 We",
       "1.([[基数]]) 就是数码的个数"
     ],
@@ -19304,7 +19304,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 21.7s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9027,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -19334,8 +19334,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0027_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0027.jpg",
+      "masked": "exam_video_v15/video1/0027_hide.jpg",
+      "answer": "exam_video_v15/video1/0027.jpg",
       "boxCount": 6,
       "time": 21.7,
       "video": "录屏1",
@@ -19344,7 +19344,7 @@ window.KNOWLEDGE_ITEMS = [
     "isVideoExam": true,
     "pageClozeTextLines": [
       "第一章计算机基础知识 / 1.2 进制转换",
-      "位权 G",
+      "位权",
       "1 每个数码在其位置上表达的权值或价值称为",
       "([[AAR]]),表示为([[基数]]) 的([[数位]]) 次",
       "2. 二进制右起第10位上的1相当于2的 ([[9]]) 次"
@@ -19360,7 +19360,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 22.0s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9028,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -19390,8 +19390,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0028_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0028.jpg",
+      "masked": "exam_video_v15/video1/0028_hide.jpg",
+      "answer": "exam_video_v15/video1/0028.jpg",
       "boxCount": 5,
       "time": 22.0,
       "video": "录屏1",
@@ -19399,7 +19399,7 @@ window.KNOWLEDGE_ITEMS = [
     },
     "isVideoExam": true,
     "pageClozeTextLines": [
-      "位权 G",
+      "位权",
       "1. 每个数码在其位置上表达的权值或价值称为",
       "2. 二进制右起第10位上的1相当于2的 ([[9]]) 次"
     ],
@@ -19414,7 +19414,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 22.3s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9029,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -19444,8 +19444,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0029_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0029.jpg",
+      "masked": "exam_video_v15/video1/0029_hide.jpg",
+      "answer": "exam_video_v15/video1/0029.jpg",
       "boxCount": 5,
       "time": 22.3,
       "video": "录屏1",
@@ -19454,7 +19454,7 @@ window.KNOWLEDGE_ITEMS = [
     "isVideoExam": true,
     "pageClozeTextLines": [
       "第一章计算机到础知识 / 1.2 进制转换",
-      "数码 G",
+      "数码",
       "1. 每个数位上使用的数学符号称为 ([[数码]])",
       "2. R进制的基数是([[R]]),数码范围是 ([[0]])"
     ],
@@ -19469,7 +19469,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 22.6s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9030,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -19499,8 +19499,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0030_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0030.jpg",
+      "masked": "exam_video_v15/video1/0030_hide.jpg",
+      "answer": "exam_video_v15/video1/0030.jpg",
       "boxCount": 5,
       "time": 22.6,
       "video": "录屏1",
@@ -19509,7 +19509,7 @@ window.KNOWLEDGE_ITEMS = [
     "isVideoExam": true,
     "pageClozeTextLines": [
       "第一章计算机基础知识 / 1.2 进制转换",
-      "数码 G",
+      "数码",
       "数制的概念 tee",
       "1. 每个数位上使用的数学符号称为 ([[数码]])",
       "2. R进制的基数是 ([[R]]),数码范围是 ([[0]])"
@@ -19525,7 +19525,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 22.9s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9031,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -19555,8 +19555,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0031_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0031.jpg",
+      "masked": "exam_video_v15/video1/0031_hide.jpg",
+      "answer": "exam_video_v15/video1/0031.jpg",
       "boxCount": 6,
       "time": 22.9,
       "video": "录屏1",
@@ -19564,8 +19564,8 @@ window.KNOWLEDGE_ITEMS = [
     },
     "isVideoExam": true,
     "pageClozeTextLines": [
-      "进制的表示方法 G",
-      "1. 专升本计算机中常见的进制有 ([[三进制]])、",
+      "进制的表示方法",
+      "1. 专升本计算机中常见的进制有 ([[二进制]])、",
       "([[Ai]])、 ([[十进制]]) 和 (十六进",
       "制),分别用英文字母B、Q、D、H表示"
     ],
@@ -19580,7 +19580,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 23.2s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9032,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -19610,8 +19610,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0032_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0032.jpg",
+      "masked": "exam_video_v15/video1/0032_hide.jpg",
+      "answer": "exam_video_v15/video1/0032.jpg",
       "boxCount": 6,
       "time": 23.2,
       "video": "录屏1",
@@ -19619,7 +19619,7 @@ window.KNOWLEDGE_ITEMS = [
     },
     "isVideoExam": true,
     "pageClozeTextLines": [
-      "进制的表示方法 G",
+      "进制的表示方法",
       "1. 专升本计算机中常见的进制有 ([[二进制]])、",
       "([[八进制]])、 ([[十进制]]) 和 (十六进",
       "制),分别用英文字母B、Q、D、H表示"
@@ -19635,7 +19635,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 23.5s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9033,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -19665,8 +19665,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0033_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0033.jpg",
+      "masked": "exam_video_v15/video1/0033_hide.jpg",
+      "answer": "exam_video_v15/video1/0033.jpg",
       "boxCount": 3,
       "time": 23.5,
       "video": "录屏1",
@@ -19685,7 +19685,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 23.9s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9034,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -19715,8 +19715,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0034_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0034.jpg",
+      "masked": "exam_video_v15/video1/0034_hide.jpg",
+      "answer": "exam_video_v15/video1/0034.jpg",
       "boxCount": 3,
       "time": 23.9,
       "video": "录屏1",
@@ -19735,7 +19735,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 24.2s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9035,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -19765,8 +19765,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0035_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0035.jpg",
+      "masked": "exam_video_v15/video1/0035_hide.jpg",
+      "answer": "exam_video_v15/video1/0035.jpg",
       "boxCount": 3,
       "time": 24.2,
       "video": "录屏1",
@@ -19774,7 +19774,7 @@ window.KNOWLEDGE_ITEMS = [
     },
     "isVideoExam": true,
     "pageClozeTextLines": [
-      "加法运算 G",
+      "加法运算",
       "1. R进制的加法运算规则为: ([[R]]) 进一"
     ],
     "pagePlainText": "加法运算 G\nARIOIDIEM tek\n1. R进制的加法运算规则为: (R) 进一.\n2.1101B+1110B= ( 11011B )\nTI A iy a"
@@ -19788,7 +19788,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 24.5s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9036,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -19818,8 +19818,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0036_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0036.jpg",
+      "masked": "exam_video_v15/video1/0036_hide.jpg",
+      "answer": "exam_video_v15/video1/0036.jpg",
       "boxCount": 3,
       "time": 24.5,
       "video": "录屏1",
@@ -19828,7 +19828,7 @@ window.KNOWLEDGE_ITEMS = [
     "isVideoExam": true,
     "pageClozeTextLines": [
       "加法运算 y",
-      "二进制的位运算 woke G",
+      "二进制的位运算 woke",
       "1. R进制的加法运算规则为: ([[R]]) 进一"
     ],
     "pagePlainText": "加法运算 y\n二进制的位运算 woke G\n1. R进制的加法运算规则为: (R) 进一.\n2.1101B+1110B= ( 11011B )\n‘a | “As (fy) ee"
@@ -19842,7 +19842,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 24.8s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9037,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -19872,8 +19872,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0037_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0037.jpg",
+      "masked": "exam_video_v15/video1/0037_hide.jpg",
+      "answer": "exam_video_v15/video1/0037.jpg",
       "boxCount": 3,
       "time": 24.8,
       "video": "录屏1",
@@ -19883,7 +19883,7 @@ window.KNOWLEDGE_ITEMS = [
     "pageClozeTextLines": [
       "第一章计算机基础知识 / 1.2 进制转换",
       "或运算",
-      "进制的位运算 eak G",
+      "进制的位运算 eak",
       "2. 远辑或运算的符号是v,它的计算法则是",
       "([[有1则1]])"
     ],
@@ -19898,7 +19898,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 25.1s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9038,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -19928,8 +19928,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0038_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0038.jpg",
+      "masked": "exam_video_v15/video1/0038_hide.jpg",
+      "answer": "exam_video_v15/video1/0038.jpg",
       "boxCount": 3,
       "time": 25.1,
       "video": "录屏1",
@@ -19938,8 +19938,8 @@ window.KNOWLEDGE_ITEMS = [
     "isVideoExam": true,
     "pageClozeTextLines": [
       "或运算四",
-      "二进制的位运算 wee G",
-      "1“远辑或门”的两个输入端均为0时,其输出端",
+      "二进制的位运算 wee",
+      "1远辑或门的两个输入端均为0时,其输出端",
       "2. 逻辑或运算的符号是v,它的计算法则是",
       "([[有1则1]])"
     ],
@@ -19954,7 +19954,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 25.7s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9039,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -19984,8 +19984,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0039_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0039.jpg",
+      "masked": "exam_video_v15/video1/0039_hide.jpg",
+      "answer": "exam_video_v15/video1/0039.jpg",
       "boxCount": 2,
       "time": 25.7,
       "video": "录屏1",
@@ -19994,7 +19994,7 @@ window.KNOWLEDGE_ITEMS = [
     "isVideoExam": true,
     "pageClozeTextLines": [
       "第一章计算机基础知识 / 1.2 进制转换",
-      "减法运算 G",
+      "减法运算",
       "二进制的位运算 Wee tee",
       "1 R进制的减法运算规则为: HY ([[R]])"
     ],
@@ -20009,7 +20009,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 26.0s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9040,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -20039,8 +20039,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0040_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0040.jpg",
+      "masked": "exam_video_v15/video1/0040_hide.jpg",
+      "answer": "exam_video_v15/video1/0040.jpg",
       "boxCount": 2,
       "time": 26.0,
       "video": "录屏1",
@@ -20049,7 +20049,7 @@ window.KNOWLEDGE_ITEMS = [
     "isVideoExam": true,
     "pageClozeTextLines": [
       "减法运算 y",
-      "二进制的位运算 wee G",
+      "二进制的位运算 wee",
       "1. R进制的减法运算规则为: 借一当 ([[R]])"
     ],
     "pagePlainText": "减法运算 y\n二进制的位运算 wee G\n1. R进制的减法运算规则为: 借一当 (R) .\n‘a | A fay ae"
@@ -20063,7 +20063,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 26.3s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9041,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -20093,8 +20093,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0041_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0041.jpg",
+      "masked": "exam_video_v15/video1/0041_hide.jpg",
+      "answer": "exam_video_v15/video1/0041.jpg",
       "boxCount": 3,
       "time": 26.3,
       "video": "录屏1",
@@ -20113,7 +20113,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 26.6s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9042,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -20143,8 +20143,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0042_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0042.jpg",
+      "masked": "exam_video_v15/video1/0042_hide.jpg",
+      "answer": "exam_video_v15/video1/0042.jpg",
       "boxCount": 3,
       "time": 26.6,
       "video": "录屏1",
@@ -20163,7 +20163,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 27.0s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9043,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -20193,8 +20193,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0043_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0043.jpg",
+      "masked": "exam_video_v15/video1/0043_hide.jpg",
+      "answer": "exam_video_v15/video1/0043.jpg",
       "boxCount": 3,
       "time": 27.0,
       "video": "录屏1",
@@ -20213,7 +20213,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 27.3s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9044,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -20243,8 +20243,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0044_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0044.jpg",
+      "masked": "exam_video_v15/video1/0044_hide.jpg",
+      "answer": "exam_video_v15/video1/0044.jpg",
       "boxCount": 3,
       "time": 27.3,
       "video": "录屏1",
@@ -20263,7 +20263,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 27.6s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9045,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -20293,8 +20293,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0045_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0045.jpg",
+      "masked": "exam_video_v15/video1/0045_hide.jpg",
+      "answer": "exam_video_v15/video1/0045.jpg",
       "boxCount": 2,
       "time": 27.6,
       "video": "录屏1",
@@ -20318,7 +20318,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 27.9s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9046,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -20348,8 +20348,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0046_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0046.jpg",
+      "masked": "exam_video_v15/video1/0046_hide.jpg",
+      "answer": "exam_video_v15/video1/0046.jpg",
       "boxCount": 2,
       "time": 27.9,
       "video": "录屏1",
@@ -20372,7 +20372,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 28.2s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9047,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -20402,8 +20402,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0047_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0047.jpg",
+      "masked": "exam_video_v15/video1/0047_hide.jpg",
+      "answer": "exam_video_v15/video1/0047.jpg",
       "boxCount": 4,
       "time": 28.2,
       "video": "录屏1",
@@ -20427,7 +20427,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 28.5s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9048,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -20457,8 +20457,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0048_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0048.jpg",
+      "masked": "exam_video_v15/video1/0048_hide.jpg",
+      "answer": "exam_video_v15/video1/0048.jpg",
       "boxCount": 4,
       "time": 28.5,
       "video": "录屏1",
@@ -20466,7 +20466,7 @@ window.KNOWLEDGE_ITEMS = [
     },
     "isVideoExam": true,
     "pageClozeTextLines": [
-      "补0去0问题 G",
+      "补0去0问题",
       "1. R进制末尾补n个0,该数变为原来的([[Rn]])",
       "2. R进制末尾去n个0,该数变为原来的",
       "3. 在一个非零的无符号二进制整数后加两个零",
@@ -20483,7 +20483,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 28.8s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9049,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -20513,8 +20513,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0049_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0049.jpg",
+      "masked": "exam_video_v15/video1/0049_hide.jpg",
+      "answer": "exam_video_v15/video1/0049.jpg",
       "boxCount": 3,
       "time": 28.8,
       "video": "录屏1",
@@ -20522,7 +20522,7 @@ window.KNOWLEDGE_ITEMS = [
     },
     "isVideoExam": true,
     "pageClozeTextLines": [
-      "十六进制转二进制 G",
+      "十六进制转二进制",
       "1 一位十六进制对应 ([[4]]) 位二进制,用到的",
       "转换方法是 ([[8421]]) 法则"
     ],
@@ -20537,7 +20537,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 29.1s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9050,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -20567,8 +20567,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0050_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0050.jpg",
+      "masked": "exam_video_v15/video1/0050_hide.jpg",
+      "answer": "exam_video_v15/video1/0050.jpg",
       "boxCount": 3,
       "time": 29.1,
       "video": "录屏1",
@@ -20576,7 +20576,7 @@ window.KNOWLEDGE_ITEMS = [
     },
     "isVideoExam": true,
     "pageClozeTextLines": [
-      "十六进制转二进制 G",
+      "十六进制转二进制",
       "进制转换 ete",
       "1. 一位十六进制对应 ([[4]]) 位二进制,用到的",
       "转换方法是 ([[8421]]) 法则"
@@ -20592,7 +20592,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 29.4s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9051,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -20622,8 +20622,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0051_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0051.jpg",
+      "masked": "exam_video_v15/video1/0051_hide.jpg",
+      "answer": "exam_video_v15/video1/0051.jpg",
       "boxCount": 3,
       "time": 29.4,
       "video": "录屏1",
@@ -20632,7 +20632,6 @@ window.KNOWLEDGE_ITEMS = [
     "isVideoExam": true,
     "pageClozeTextLines": [
       "八进制转二进制",
-      "进制转换 eee te tee G",
       "1 一位八进制对应 ([[3]]) 位二进制,用到的转",
       "换方法是([[421]]) 法则"
     ],
@@ -20647,7 +20646,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 29.7s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9052,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -20677,8 +20676,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0052_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0052.jpg",
+      "masked": "exam_video_v15/video1/0052_hide.jpg",
+      "answer": "exam_video_v15/video1/0052.jpg",
       "boxCount": 3,
       "time": 29.7,
       "video": "录屏1",
@@ -20686,7 +20685,7 @@ window.KNOWLEDGE_ITEMS = [
     },
     "isVideoExam": true,
     "pageClozeTextLines": [
-      "八进制转二进制 G",
+      "八进制转二进制",
       "进制转换 Reto",
       "1. 一位八进制对应 ([[3]]) 位二进制,用到的转",
       "换方法是 ([[421]]) 法则"
@@ -20702,7 +20701,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 30.1s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9053,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -20732,8 +20731,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0053_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0053.jpg",
+      "masked": "exam_video_v15/video1/0053_hide.jpg",
+      "answer": "exam_video_v15/video1/0053.jpg",
       "boxCount": 3,
       "time": 30.1,
       "video": "录屏1",
@@ -20741,7 +20740,7 @@ window.KNOWLEDGE_ITEMS = [
     },
     "isVideoExam": true,
     "pageClozeTextLines": [
-      "八进制与十六进制的相互转换 G",
+      "八进制与十六进制的相互转换",
       "1. 八进制和十六进制的转换不能直接进行,需",
       "BARA ([[二进制]]) 或者 ([[十进制]])"
     ],
@@ -20756,7 +20755,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 30.4s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9054,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -20786,8 +20785,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0054_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0054.jpg",
+      "masked": "exam_video_v15/video1/0054_hide.jpg",
+      "answer": "exam_video_v15/video1/0054.jpg",
       "boxCount": 3,
       "time": 30.4,
       "video": "录屏1",
@@ -20795,7 +20794,7 @@ window.KNOWLEDGE_ITEMS = [
     },
     "isVideoExam": true,
     "pageClozeTextLines": [
-      "八进制与十六进制的相互转换 G",
+      "八进制与十六进制的相互转换",
       "1. 八进制和十六进制的转换不能直接进行,需",
       "BARA ([[二进制]]) 或者 ([[十进制]])"
     ],
@@ -20810,7 +20809,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 30.7s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9055,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -20840,8 +20839,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0055_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0055.jpg",
+      "masked": "exam_video_v15/video1/0055_hide.jpg",
+      "answer": "exam_video_v15/video1/0055.jpg",
       "boxCount": 3,
       "time": 30.7,
       "video": "录屏1",
@@ -20860,7 +20859,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 31.0s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9056,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -20890,8 +20889,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0056_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0056.jpg",
+      "masked": "exam_video_v15/video1/0056_hide.jpg",
+      "answer": "exam_video_v15/video1/0056.jpg",
       "boxCount": 3,
       "time": 31.0,
       "video": "录屏1",
@@ -20910,7 +20909,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 31.3s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9057,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -20940,8 +20939,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0057_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0057.jpg",
+      "masked": "exam_video_v15/video1/0057_hide.jpg",
+      "answer": "exam_video_v15/video1/0057.jpg",
       "boxCount": 4,
       "time": 31.3,
       "video": "录屏1",
@@ -20949,7 +20948,7 @@ window.KNOWLEDGE_ITEMS = [
     },
     "isVideoExam": true,
     "pageClozeTextLines": [
-      "奇偶判断 G",
+      "奇偶判断",
       "ABNER 二去页页",
       "1. 二进制整数末尾为0则为 ([[偶数]]),未尾为1",
       "则为([[奇数]])",
@@ -20966,7 +20965,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 31.6s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9058,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -20996,8 +20995,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0058_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0058.jpg",
+      "masked": "exam_video_v15/video1/0058_hide.jpg",
+      "answer": "exam_video_v15/video1/0058.jpg",
       "boxCount": 4,
       "time": 31.6,
       "video": "录屏1",
@@ -21006,7 +21005,7 @@ window.KNOWLEDGE_ITEMS = [
     "isVideoExam": true,
     "pageClozeTextLines": [
       "奇偶判断 DZ",
-      "进制转换 eke G",
+      "进制转换 eke",
       "1. 二进制整数末尾为0则为 ([[偶数]]), RBA",
       "则为([[奇数]])",
       "2. 二进制数111001101B是 ([[奇]]) 数"
@@ -21022,7 +21021,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 32.5s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9059,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -21052,8 +21051,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0059_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0059.jpg",
+      "masked": "exam_video_v15/video1/0059_hide.jpg",
+      "answer": "exam_video_v15/video1/0059.jpg",
       "boxCount": 4,
       "time": 32.5,
       "video": "录屏1",
@@ -21061,7 +21060,7 @@ window.KNOWLEDGE_ITEMS = [
     },
     "isVideoExam": true,
     "pageClozeTextLines": [
-      "十进制转R进制 G",
+      "十进制转R进制",
       "1. 十进制转任意进制用到的方法是除基取",
       "2. 十进制 ([[不一定]]) 能精确转换为二进制"
     ],
@@ -21076,7 +21075,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 33.2s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9060,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -21106,8 +21105,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0060_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0060.jpg",
+      "masked": "exam_video_v15/video1/0060_hide.jpg",
+      "answer": "exam_video_v15/video1/0060.jpg",
       "boxCount": 5,
       "time": 33.2,
       "video": "录屏1",
@@ -21115,7 +21114,7 @@ window.KNOWLEDGE_ITEMS = [
     },
     "isVideoExam": true,
     "pageClozeTextLines": [
-      "单位转换的计算 G",
+      "单位转换的计算",
       "息的存储单位 te",
       "1. 存储容量单位: 1Byte= ([[8]]) bit"
     ],
@@ -21130,7 +21129,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 33.8s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9061,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -21160,8 +21159,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0061_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0061.jpg",
+      "masked": "exam_video_v15/video1/0061_hide.jpg",
+      "answer": "exam_video_v15/video1/0061.jpg",
       "boxCount": 7,
       "time": 33.8,
       "video": "录屏1",
@@ -21173,7 +21172,7 @@ window.KNOWLEDGE_ITEMS = [
       "1. 计算机信息表示和处理的最小单位是",
       "([[ML]]),存储容量的基本单位 ([[SR]])",
       "CPU一次性传输或处理的二进制数据称为 (机",
-      "器字),而每个“字”占的二进制位称为 (F"
+      "器字),而每个字占的二进制位称为 (F"
     ],
     "pagePlainText": "i 名\n息的存储单位 wi k\n1. 计算机信息表示和处理的最小单位是\n(ML) ,存储容量的基本单位 (SR),\nCPU一次性传输或处理的二进制数据称为 ( 机\n器字 ) ,而每个“字”占的二进制位称为 (F\nim) .\n全 A (eo) a"
   },
@@ -21186,7 +21185,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 34.4s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9062,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -21216,8 +21215,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0062_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0062.jpg",
+      "masked": "exam_video_v15/video1/0062_hide.jpg",
+      "answer": "exam_video_v15/video1/0062.jpg",
       "boxCount": 6,
       "time": 34.4,
       "video": "录屏1",
@@ -21243,7 +21242,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 35.0s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9063,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -21273,8 +21272,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0063_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0063.jpg",
+      "masked": "exam_video_v15/video1/0063_hide.jpg",
+      "answer": "exam_video_v15/video1/0063.jpg",
       "boxCount": 9,
       "time": 35.0,
       "video": "录屏1",
@@ -21304,7 +21303,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 35.6s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9064,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -21334,8 +21333,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0064_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0064.jpg",
+      "masked": "exam_video_v15/video1/0064_hide.jpg",
+      "answer": "exam_video_v15/video1/0064.jpg",
       "boxCount": 3,
       "time": 35.6,
       "video": "录屏1",
@@ -21344,7 +21343,7 @@ window.KNOWLEDGE_ITEMS = [
     "isVideoExam": true,
     "pageClozeTextLines": [
       "第一章计算机基础知识 / 1.3 计算机中信息的表示",
-      "数符 G",
+      "数符",
       "整数在计算机中的表示 Ake",
       "1 在计算机中,数的正负号分别由数字 ([[0]])",
       "和数字 ([[1]]) 表示"
@@ -21360,7 +21359,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 35.9s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9065,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -21390,8 +21389,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0065_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0065.jpg",
+      "masked": "exam_video_v15/video1/0065_hide.jpg",
+      "answer": "exam_video_v15/video1/0065.jpg",
       "boxCount": 2,
       "time": 35.9,
       "video": "录屏1",
@@ -21410,7 +21409,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 36.3s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9066,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -21440,8 +21439,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0066_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0066.jpg",
+      "masked": "exam_video_v15/video1/0066_hide.jpg",
+      "answer": "exam_video_v15/video1/0066.jpg",
       "boxCount": 2,
       "time": 36.3,
       "video": "录屏1",
@@ -21460,7 +21459,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 36.6s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9067,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -21490,8 +21489,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0067_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0067.jpg",
+      "masked": "exam_video_v15/video1/0067_hide.jpg",
+      "answer": "exam_video_v15/video1/0067.jpg",
       "boxCount": 10,
       "time": 36.6,
       "video": "录屏1",
@@ -21518,7 +21517,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 36.9s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9068,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -21548,8 +21547,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0068_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0068.jpg",
+      "masked": "exam_video_v15/video1/0068_hide.jpg",
+      "answer": "exam_video_v15/video1/0068.jpg",
       "boxCount": 10,
       "time": 36.9,
       "video": "录屏1",
@@ -21557,7 +21556,7 @@ window.KNOWLEDGE_ITEMS = [
     },
     "isVideoExam": true,
     "pageClozeTextLines": [
-      "浮点数 G",
+      "浮点数",
       "数在计算机中的表示 ee",
       "1. 计算机中的数值计算基本分为两类: (整",
       "数) 和 ([[浮点数]])",
@@ -21577,7 +21576,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 37.2s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9069,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -21607,8 +21606,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0069_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0069.jpg",
+      "masked": "exam_video_v15/video1/0069_hide.jpg",
+      "answer": "exam_video_v15/video1/0069.jpg",
       "boxCount": 4,
       "time": 37.2,
       "video": "录屏1",
@@ -21616,7 +21615,7 @@ window.KNOWLEDGE_ITEMS = [
     },
     "isVideoExam": true,
     "pageClozeTextLines": [
-      "尾数和阶码 G",
+      "尾数和阶码",
       "j数在计算机中的要示 te",
       "1.([[浮点数]]) 是小数点的位置不固定的数,其",
       "中 ([[阶码]]) 确定数的范围,([[尾数]]) 确定数",
@@ -21633,7 +21632,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 37.5s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9070,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -21663,8 +21662,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0070_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0070.jpg",
+      "masked": "exam_video_v15/video1/0070_hide.jpg",
+      "answer": "exam_video_v15/video1/0070.jpg",
       "boxCount": 4,
       "time": 37.5,
       "video": "录屏1",
@@ -21672,7 +21671,7 @@ window.KNOWLEDGE_ITEMS = [
     },
     "isVideoExam": true,
     "pageClozeTextLines": [
-      "尾数和阶码 G",
+      "尾数和阶码",
       "1. ([[ERE]]) 是小数点的位置不固定的数,其",
       "中 ([[阶码]]) 确定数的范围,([[尾数]]) 确定数",
       "的精度"
@@ -21688,7 +21687,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 37.8s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9071,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -21718,8 +21717,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0071_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0071.jpg",
+      "masked": "exam_video_v15/video1/0071_hide.jpg",
+      "answer": "exam_video_v15/video1/0071.jpg",
       "boxCount": 3,
       "time": 37.8,
       "video": "录屏1",
@@ -21728,7 +21727,7 @@ window.KNOWLEDGE_ITEMS = [
     "isVideoExam": true,
     "pageClozeTextLines": [
       "最多状态数 gj",
-      "数的表示范围 te G",
+      "数的表示范围 te",
       "1. n位二进制能表示的最多状态数为",
       "2. 1位二进制能表示的最多状态数为([[2]])"
     ],
@@ -21743,7 +21742,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 38.4s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9072,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -21773,8 +21772,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0072_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0072.jpg",
+      "masked": "exam_video_v15/video1/0072_hide.jpg",
+      "answer": "exam_video_v15/video1/0072.jpg",
       "boxCount": 4,
       "time": 38.4,
       "video": "录屏1",
@@ -21783,7 +21782,7 @@ window.KNOWLEDGE_ITEMS = [
     "isVideoExam": true,
     "pageClozeTextLines": [
       "第一章算机基础知 1.3 计算机中信息的表示",
-      "无符号数 G",
+      "无符号数",
       "数的表示范围 we",
       "1. 计算机中的所有信息全由 ([[二]]) 进制表示",
       "2. n位无符号数能表示的十进制范围是",
@@ -21800,7 +21799,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 38.7s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9073,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -21830,8 +21829,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0073_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0073.jpg",
+      "masked": "exam_video_v15/video1/0073_hide.jpg",
+      "answer": "exam_video_v15/video1/0073.jpg",
       "boxCount": 4,
       "time": 38.7,
       "video": "录屏1",
@@ -21850,7 +21849,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 39.0s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9074,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -21880,8 +21879,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0074_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0074.jpg",
+      "masked": "exam_video_v15/video1/0074_hide.jpg",
+      "answer": "exam_video_v15/video1/0074.jpg",
       "boxCount": 4,
       "time": 39.0,
       "video": "录屏1",
@@ -21900,7 +21899,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 39.3s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9075,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -21930,8 +21929,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0075_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0075.jpg",
+      "masked": "exam_video_v15/video1/0075_hide.jpg",
+      "answer": "exam_video_v15/video1/0075.jpg",
       "boxCount": 6,
       "time": 39.3,
       "video": "录屏1",
@@ -21940,8 +21939,7 @@ window.KNOWLEDGE_ITEMS = [
     "isVideoExam": true,
     "pageClozeTextLines": [
       "1. Unicode编码具有跨语言、跨平台,与",
-      "([[AII]]) 码兼容的特征",
-      "2. Unicode码的实现方式有三种: (UTF"
+      "([[AII]]) 码兼容的特征"
     ],
     "pagePlainText": "Unicode 名\n1B tke\n1. Unicode编码具有跨语言、跨平台,与\n( ASCII ) 码兼容的特征.\n2. Unicode码的实现方式有三种: ( UTF-\n8) 、(UTF-16) 、(UTF-32) .\n国| A (or) a"
   },
@@ -21954,7 +21952,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 39.7s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9076,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -21984,8 +21982,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0076_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0076.jpg",
+      "masked": "exam_video_v15/video1/0076_hide.jpg",
+      "answer": "exam_video_v15/video1/0076.jpg",
       "boxCount": 6,
       "time": 39.7,
       "video": "录屏1",
@@ -21995,8 +21993,7 @@ window.KNOWLEDGE_ITEMS = [
     "pageClozeTextLines": [
       "第一章计算机基础知识 / 1.3 计算机中信息的表示",
       "1. Unicode编码具有跨语言、跨平台,与",
-      "([[AII]]) 码兼容的特征",
-      "2. Unicode码的实现方式有三种: (UTF"
+      "([[AII]]) 码兼容的特征"
     ],
     "pagePlainText": "第一章 计算机基础知识 / 1.3 计算机中信息的表示\nUnicode G\n符编码 etek\n1. Unicode编码具有跨语言、跨平台,与\n( ASCII ) 码兼容的特征.\n2. Unicode码的实现方式有三种: ( UTF-\n8) 、 (UTF-16) 、 (UTF-32) .\nfay | Aa (or) ae"
   },
@@ -22009,7 +22006,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 40.0s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9077,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -22039,8 +22036,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0077_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0077.jpg",
+      "masked": "exam_video_v15/video1/0077_hide.jpg",
+      "answer": "exam_video_v15/video1/0077.jpg",
       "boxCount": 5,
       "time": 40.0,
       "video": "录屏1",
@@ -22048,7 +22045,7 @@ window.KNOWLEDGE_ITEMS = [
     },
     "isVideoExam": true,
     "pageClozeTextLines": [
-      "字符编码 ok G",
+      "字符编码 ok",
       "1. 标准版AII码是 ([[7]]) 位参与编码,占",
       "([[1]]) B,共可以编 ([[128]]) 个字符",
       "2. 标准版AII码的码值范围是0~ ([[127]])"
@@ -22064,7 +22061,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 40.3s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9078,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -22094,8 +22091,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0078_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0078.jpg",
+      "masked": "exam_video_v15/video1/0078_hide.jpg",
+      "answer": "exam_video_v15/video1/0078.jpg",
       "boxCount": 5,
       "time": 40.3,
       "video": "录屏1",
@@ -22119,7 +22116,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 40.6s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9079,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -22149,8 +22146,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0079_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0079.jpg",
+      "masked": "exam_video_v15/video1/0079_hide.jpg",
+      "answer": "exam_video_v15/video1/0079.jpg",
       "boxCount": 3,
       "time": 40.6,
       "video": "录屏1",
@@ -22169,7 +22166,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 40.9s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9080,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -22199,8 +22196,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0080_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0080.jpg",
+      "masked": "exam_video_v15/video1/0080_hide.jpg",
+      "answer": "exam_video_v15/video1/0080.jpg",
       "boxCount": 10,
       "time": 40.9,
       "video": "录屏1",
@@ -22216,8 +22213,8 @@ window.KNOWLEDGE_ITEMS = [
       "2. 空格的AI的十进制值 ([[32]]) ; 大A字母",
       "AI的十六进制值 ([[41]]) H",
       "计算机中的字符,一般采用AII码编码方",
-      "若已知大写字母Y”的AI码值为59H",
-      "推算出“Z”的AI 码值为([[5A]]) H"
+      "若已知大写字母Y的AI码值为59H",
+      "推算出Z的AI 码值为([[5A]]) H"
     ],
     "pagePlainText": "算机基础 3 计算机中\n常见ASCII码值及计算 名\n3 tok\n1. 换行符的ASCII码值 (10 ) ;\n回车符的ASCI码值 (13 ) ;\n空格符的ASCIIl得值 ( 32 ) ;\n“0\"的ASCI码值 (48 ) ;\n“A\"的ASCI码值 (65) ;\n“a\"的ASCI码值 (97) .\n2. 空格的ASCI的十进制值 ( 32 ) ; 大A字母\nASCI的十六进制值 ( 41) H.\n计算机中的字符,一般采用ASCII码编码方\n若已知大写字母\"Y”的ASCI码值为59H,\n推算出“Z”的ASCI|码值为(5A ) H.\nns Ba oe"
   },
@@ -22230,7 +22227,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 41.2s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9081,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -22260,8 +22257,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0081_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0081.jpg",
+      "masked": "exam_video_v15/video1/0081_hide.jpg",
+      "answer": "exam_video_v15/video1/0081.jpg",
       "boxCount": 12,
       "time": 41.2,
       "video": "录屏1",
@@ -22269,15 +22266,15 @@ window.KNOWLEDGE_ITEMS = [
     },
     "isVideoExam": true,
     "pageClozeTextLines": [
-      "常见AII码值及计算 G",
+      "常见AII码值及计算",
       "1. 换行符的AI码值 ([[10]])",
       "回车符的AII双值 ([[13]])",
       "空格符的AII码值 ([[32]])",
       "2. 空格的AII的十进制值 ([[32]]) ; 大A字母",
       "AI的十六进制值 ([[41]]) H",
       "3. 计算机中的字符,一般采用AI码编码方",
-      "案.若已知大写字母“Y”的AI 码值为59H",
-      "则可以推算出“Z的AII码值为([[5A]]) H"
+      "案.若已知大写字母Y的AI 码值为59H",
+      "则可以推算出Z的AII码值为([[5A]]) H"
     ],
     "pagePlainText": "常见ASCII码值及计算 G\nTRS kk\n1. 换行符的ASCI码值 (10 ) ;\n回车符的ASCII双值 ( 13 ) ;\n空格符的ASCII码值 ( 32 ) ;\n“0\"的ASCI(码值 ( 48 ) ;\n“A”的ASCII码值 (65) ;\n“a\"的ASCI码值 (97) .\n2. 空格的ASCII的十进制值 ( 32 ) ; 大A字母\nASCI的十六进制值 ( 41 ) H.\n3. 计算机中的字符,一般采用ASCI码编码方\n案.若已知大写字母“Y”的ASCI|码值为59H,\n则可以推算出“Z\"的ASCII码值为(5A ) H.\nmM A GY a"
   },
@@ -22290,7 +22287,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 41.5s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9082,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -22320,8 +22317,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0082_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0082.jpg",
+      "masked": "exam_video_v15/video1/0082_hide.jpg",
+      "answer": "exam_video_v15/video1/0082.jpg",
       "boxCount": 4,
       "time": 41.5,
       "video": "录屏1",
@@ -22330,8 +22327,7 @@ window.KNOWLEDGE_ITEMS = [
     "isVideoExam": true,
     "pageClozeTextLines": [
       "第一章计算机基础知识 / 1.3 计算机中信息的表示",
-      "字符编码 wee",
-      "1. UTF-8是 ([[Unicode]]) 的一种变长字符编"
+      "字符编码 wee"
     ],
     "pagePlainText": "第一章 计算机基础知识 / 1.3 计算机中信息的表示\nUTF-8 G\n字符编码 wee\n1. UTF-8是 ( Unicode) 的一种变长字符编\nto | A Gy ae"
   },
@@ -22344,7 +22340,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 41.8s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9083,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -22374,8 +22370,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0083_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0083.jpg",
+      "masked": "exam_video_v15/video1/0083_hide.jpg",
+      "answer": "exam_video_v15/video1/0083.jpg",
       "boxCount": 3,
       "time": 41.8,
       "video": "录屏1",
@@ -22384,8 +22380,7 @@ window.KNOWLEDGE_ITEMS = [
     "isVideoExam": true,
     "pageClozeTextLines": [
       "第一章计算机基础知识 / 1.3 计算机中信息的表示",
-      "字符编码 kkk G",
-      "1. UTF-8% ([[Unicode]]) 的一种变长字符编"
+      "字符编码 kkk"
     ],
     "pagePlainText": "第一章 计算机基础知识 / 1.3 计算机中信息的表示\nUTF-8 YG\n字符编码 kkk G\n1. UTF-8% (Unicode) 的一种变长字符编\nmM A fy ae"
   },
@@ -22398,7 +22393,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 42.1s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9084,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -22428,8 +22423,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0084_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0084.jpg",
+      "masked": "exam_video_v15/video1/0084_hide.jpg",
+      "answer": "exam_video_v15/video1/0084.jpg",
       "boxCount": 9,
       "time": 42.1,
       "video": "录屏1",
@@ -22438,7 +22433,7 @@ window.KNOWLEDGE_ITEMS = [
     "isVideoExam": true,
     "pageClozeTextLines": [
       "第一章计算机基础知识 / 1.3 计算机中信息的表",
-      "扩充版AII码 G",
+      "扩充版AII码",
       "字符编码 toe",
       "1. 扩充版AI码是 ([[8]]) 位参与编码,占",
       "([[1]]) B,共可以编 ([[256]]) 个字符",
@@ -22456,7 +22451,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 42.4s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9085,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -22486,8 +22481,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0085_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0085.jpg",
+      "masked": "exam_video_v15/video1/0085_hide.jpg",
+      "answer": "exam_video_v15/video1/0085.jpg",
       "boxCount": 8,
       "time": 42.4,
       "video": "录屏1",
@@ -22495,7 +22490,7 @@ window.KNOWLEDGE_ITEMS = [
     },
     "isVideoExam": true,
     "pageClozeTextLines": [
-      "扩充版AII码 G",
+      "扩充版AII码",
       "1. 扩充版AI码是 ([[8]]) 位参与编码,占",
       "([[1]]) B,共可以编 ([[256]]) 个字符",
       "2. 扩充版AI 码的码值范围是0~ ([[255]])",
@@ -22512,7 +22507,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 42.8s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9086,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -22542,8 +22537,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0086_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0086.jpg",
+      "masked": "exam_video_v15/video1/0086_hide.jpg",
+      "answer": "exam_video_v15/video1/0086.jpg",
       "boxCount": 6,
       "time": 42.8,
       "video": "录屏1",
@@ -22568,7 +22563,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 43.1s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9087,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -22598,8 +22593,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0087_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0087.jpg",
+      "masked": "exam_video_v15/video1/0087_hide.jpg",
+      "answer": "exam_video_v15/video1/0087.jpg",
       "boxCount": 6,
       "time": 43.1,
       "video": "录屏1",
@@ -22607,7 +22602,7 @@ window.KNOWLEDGE_ITEMS = [
     },
     "isVideoExam": true,
     "pageClozeTextLines": [
-      "点阵式输出码的计算 G",
+      "点阵式输出码的计算",
       "1 汉字字库中主要存放的是汉字的点阵",
       "2. 一个nn的点阵汉字,需要的存储空间是",
       "3. 要存放5个汉字的24x24的点阵字模,需要",
@@ -22624,7 +22619,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 43.4s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9088,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -22654,8 +22649,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0088_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0088.jpg",
+      "masked": "exam_video_v15/video1/0088_hide.jpg",
+      "answer": "exam_video_v15/video1/0088.jpg",
       "boxCount": 3,
       "time": 43.4,
       "video": "录屏1",
@@ -22663,7 +22658,7 @@ window.KNOWLEDGE_ITEMS = [
     },
     "isVideoExam": true,
     "pageClozeTextLines": [
-      "点阵和矢量的区别 G",
+      "点阵和矢量的区别",
       "汉字编码 took",
       "1. 矢量字体缩放([[不失真]]),点阵字体缩放"
     ],
@@ -22678,7 +22673,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 44.3s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9089,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -22708,8 +22703,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0089_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0089.jpg",
+      "masked": "exam_video_v15/video1/0089_hide.jpg",
+      "answer": "exam_video_v15/video1/0089.jpg",
       "boxCount": 6,
       "time": 44.3,
       "video": "录屏1",
@@ -22717,7 +22712,7 @@ window.KNOWLEDGE_ITEMS = [
     },
     "isVideoExam": true,
     "pageClozeTextLines": [
-      "机内码 G",
+      "机内码",
       "1 汉字机内码是计算机内部 ([[存储]])、处理和",
       "传输汉字时使用的二进制) 编码",
       "2. 根据汉字国标码GB2312-80的规定,一个汉",
@@ -22736,7 +22731,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 44.6s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9090,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -22766,8 +22761,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0090_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0090.jpg",
+      "masked": "exam_video_v15/video1/0090_hide.jpg",
+      "answer": "exam_video_v15/video1/0090.jpg",
       "boxCount": 6,
       "time": 44.6,
       "video": "录屏1",
@@ -22775,7 +22770,7 @@ window.KNOWLEDGE_ITEMS = [
     },
     "isVideoExam": true,
     "pageClozeTextLines": [
-      "汉字编码 kkk G",
+      "汉字编码 kkk",
       "1 汉字机内码是计算机内部 ([[存储]])、处理和",
       "传输汉字时使用的([[二进制]]) 编码",
       "2. 根据汉字国标码GB2312-80的规定,一个汉",
@@ -22794,7 +22789,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 44.9s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9091,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -22824,8 +22819,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0091_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0091.jpg",
+      "masked": "exam_video_v15/video1/0091_hide.jpg",
+      "answer": "exam_video_v15/video1/0091.jpg",
       "boxCount": 4,
       "time": 44.9,
       "video": "录屏1",
@@ -22834,7 +22829,7 @@ window.KNOWLEDGE_ITEMS = [
     "isVideoExam": true,
     "pageClozeTextLines": [
       "第一章计算机基础知识 / 1.3 计算机中信息的表示",
-      "区位码 G",
+      "区位码",
       "1. 区位码的范围是 ([[0101]]) D~ ([[9494]])",
       "D, 占 ([[2]]) 个字节"
     ],
@@ -22849,7 +22844,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 45.2s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9092,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -22879,8 +22874,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0092_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0092.jpg",
+      "masked": "exam_video_v15/video1/0092_hide.jpg",
+      "answer": "exam_video_v15/video1/0092.jpg",
       "boxCount": 4,
       "time": 45.2,
       "video": "录屏1",
@@ -22889,7 +22884,7 @@ window.KNOWLEDGE_ITEMS = [
     "isVideoExam": true,
     "pageClozeTextLines": [
       "第一章计算机基础知识 / 1.3 计算机中信息的表示",
-      "汉字编码 wee G",
+      "汉字编码 wee",
       "1. 区位码的范围是 ([[0101]]) D~ ([[9494]])",
       "D, 占 ([[2]]) 个字节"
     ],
@@ -22904,7 +22899,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 45.5s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9093,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -22934,8 +22929,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0093_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0093.jpg",
+      "masked": "exam_video_v15/video1/0093_hide.jpg",
+      "answer": "exam_video_v15/video1/0093.jpg",
       "boxCount": 4,
       "time": 45.5,
       "video": "录屏1",
@@ -22959,7 +22954,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 45.9s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9094,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -22989,8 +22984,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0094_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0094.jpg",
+      "masked": "exam_video_v15/video1/0094_hide.jpg",
+      "answer": "exam_video_v15/video1/0094.jpg",
       "boxCount": 4,
       "time": 45.9,
       "video": "录屏1",
@@ -23000,7 +22995,7 @@ window.KNOWLEDGE_ITEMS = [
     "pageClozeTextLines": [
       "第一章计算机基础知识 / 1.3 计算机中信息的表示",
       "国标码忆",
-      "汉字编码 keke G",
+      "汉字编码 keke",
       "1. 国标码每个字节最高位为 (([[0]]),机内码每",
       "个字节最高位为 ([[1]])",
       "2. 每个汉字的国标码占 ([[2]]) 个字节"
@@ -23016,7 +23011,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 46.2s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9095,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -23046,8 +23041,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0095_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0095.jpg",
+      "masked": "exam_video_v15/video1/0095_hide.jpg",
+      "answer": "exam_video_v15/video1/0095.jpg",
       "boxCount": 6,
       "time": 46.2,
       "video": "录屏1",
@@ -23055,9 +23050,9 @@ window.KNOWLEDGE_ITEMS = [
     },
     "isVideoExam": true,
     "pageClozeTextLines": [
-      "区位码/国标码/机内码的计算 G",
+      "区位码/国标码/机内码的计算",
       "汉字编码 ke",
-      "1. 汉字“国”的区位码为2590,其机内码是",
+      "1. 汉字国的区位码为2590,其机内码是",
       "2. 区位码+ ([[2020]]) H=国标码",
       "3. 国标码+ ([[8080]]) H=机内码",
       "4. 区位码+ ([[AOAO]]) H=机内码"
@@ -23073,7 +23068,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 46.5s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9096,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -23103,8 +23098,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0096_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0096.jpg",
+      "masked": "exam_video_v15/video1/0096_hide.jpg",
+      "answer": "exam_video_v15/video1/0096.jpg",
       "boxCount": 8,
       "time": 46.5,
       "video": "录屏1",
@@ -23127,7 +23122,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 46.8s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9097,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -23157,8 +23152,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0097_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0097.jpg",
+      "masked": "exam_video_v15/video1/0097_hide.jpg",
+      "answer": "exam_video_v15/video1/0097.jpg",
       "boxCount": 7,
       "time": 46.8,
       "video": "录屏1",
@@ -23183,7 +23178,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 47.1s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9098,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -23213,8 +23208,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0098_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0098.jpg",
+      "masked": "exam_video_v15/video1/0098_hide.jpg",
+      "answer": "exam_video_v15/video1/0098.jpg",
       "boxCount": 6,
       "time": 47.1,
       "video": "录屏1",
@@ -23225,7 +23220,6 @@ window.KNOWLEDGE_ITEMS = [
       "区位码/国标码/机内码的范围名",
       "1. 区位码范围: ([[O101H~SESEH]])",
       "2. 国标码范围; ([[2121H~7E7EH]])",
-      "3. 机内码范围: ATAIH-FEFEH)",
       "n A a a"
     ],
     "pagePlainText": "区位码/国标码/机内码的范围 名\nFIG toe\n1. 区位码范围: ( O101H~SESEH ) .\n2. 国标码范围; ( 2121H~7E7EH) .\n3. 机内码范围: { ATAIH-FEFEH ) .\nn A a a"
@@ -23239,7 +23233,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 47.4s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9099,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -23269,8 +23263,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0099_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0099.jpg",
+      "masked": "exam_video_v15/video1/0099_hide.jpg",
+      "answer": "exam_video_v15/video1/0099.jpg",
       "boxCount": 5,
       "time": 47.4,
       "video": "录屏1",
@@ -23281,8 +23275,7 @@ window.KNOWLEDGE_ITEMS = [
       "区位码/国标码/机内码的范围名",
       "汉字编码 keke",
       "1. 区位码范围: ([[0101H~5E5EH]])",
-      "2. 国标码范围: ([[2121H~7E7EH]])",
-      "3. 机内码范围: ([[AIAIH~FEFEH]])"
+      "2. 国标码范围: ([[2121H~7E7EH]])"
     ],
     "pagePlainText": "区位码/国标码/机内码的范围 名\n汉字编码 keke\n1. 区位码范围: ( 0101H~5E5EH ) .\n2. 国标码范围: ( 2121H~7E7EH ) .\n3. 机内码范围: ( AIAIH~FEFEH ) .\nmM A (eo) oe"
   },
@@ -23295,7 +23288,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 47.7s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9100,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -23325,8 +23318,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0100_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0100.jpg",
+      "masked": "exam_video_v15/video1/0100_hide.jpg",
+      "answer": "exam_video_v15/video1/0100.jpg",
       "boxCount": 3,
       "time": 47.7,
       "video": "录屏1",
@@ -23334,7 +23327,7 @@ window.KNOWLEDGE_ITEMS = [
     },
     "isVideoExam": true,
     "pageClozeTextLines": [
-      "产生乱码的原因 G",
+      "产生乱码的原因",
       "汉字编码 e tee",
       "1. 乱码是指计算机显示或输出文本时,出现了",
       "无法识别的、无意义的字符.其根本原因是",
@@ -23352,7 +23345,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 48.0s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9101,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -23382,8 +23375,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0101_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0101.jpg",
+      "masked": "exam_video_v15/video1/0101_hide.jpg",
+      "answer": "exam_video_v15/video1/0101.jpg",
       "boxCount": 3,
       "time": 48.0,
       "video": "录屏1",
@@ -23391,7 +23384,7 @@ window.KNOWLEDGE_ITEMS = [
     },
     "isVideoExam": true,
     "pageClozeTextLines": [
-      "产生乱码的原因 G",
+      "产生乱码的原因",
       "汉字编码 tke",
       "1. 乱码是指计算机显示或输出文本时,出现了",
       "无法识别的、无意义的字符.其根本原因是",
@@ -23409,7 +23402,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 48.3s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9102,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -23439,8 +23432,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0102_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0102.jpg",
+      "masked": "exam_video_v15/video1/0102_hide.jpg",
+      "answer": "exam_video_v15/video1/0102.jpg",
       "boxCount": 10,
       "time": 48.3,
       "video": "录屏1",
@@ -23449,7 +23442,7 @@ window.KNOWLEDGE_ITEMS = [
     "isVideoExam": true,
     "pageClozeTextLines": [
       "第一章计算机基础知识 / 1.3 计算机中信息的表示",
-      "输入码 G",
+      "输入码",
       "2. 输入码主要分为两类: ([[HB]]) 类和 (TH",
       "3. 汉字在计算机中的处理流程分别是: (输",
       "AB) -国标码- ([[机内码]]) ~字形码"
@@ -23465,7 +23458,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 49.0s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9103,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -23495,8 +23488,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0103_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0103.jpg",
+      "masked": "exam_video_v15/video1/0103_hide.jpg",
+      "answer": "exam_video_v15/video1/0103.jpg",
       "boxCount": 8,
       "time": 49.0,
       "video": "录屏1",
@@ -23504,7 +23497,7 @@ window.KNOWLEDGE_ITEMS = [
     },
     "isVideoExam": true,
     "pageClozeTextLines": [
-      "完整的计算机系统 G",
+      "完整的计算机系统",
       "1. 计算机系统是由 ([[硬件系统]]) 和 (软件系",
       "统) 组成",
       "2. 计算机硬件系统由 ([[主机]]) 和 ([[外设]]) 构"
@@ -23520,7 +23513,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 49.9s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9104,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -23550,8 +23543,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0104_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0104.jpg",
+      "masked": "exam_video_v15/video1/0104_hide.jpg",
+      "answer": "exam_video_v15/video1/0104.jpg",
       "boxCount": 4,
       "time": 49.9,
       "video": "录屏1",
@@ -23575,7 +23568,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 50.2s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9105,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -23605,8 +23598,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0105_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0105.jpg",
+      "masked": "exam_video_v15/video1/0105_hide.jpg",
+      "answer": "exam_video_v15/video1/0105.jpg",
       "boxCount": 4,
       "time": 50.2,
       "video": "录屏1",
@@ -23630,7 +23623,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 50.5s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9106,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -23660,8 +23653,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0106_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0106.jpg",
+      "masked": "exam_video_v15/video1/0106_hide.jpg",
+      "answer": "exam_video_v15/video1/0106.jpg",
       "boxCount": 9,
       "time": 50.5,
       "video": "录屏1",
@@ -23687,7 +23680,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 50.8s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9107,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -23717,8 +23710,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0107_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0107.jpg",
+      "masked": "exam_video_v15/video1/0107_hide.jpg",
+      "answer": "exam_video_v15/video1/0107.jpg",
       "boxCount": 10,
       "time": 50.8,
       "video": "录屏1",
@@ -23727,7 +23720,7 @@ window.KNOWLEDGE_ITEMS = [
     "isVideoExam": true,
     "pageClozeTextLines": [
       "第一章计算机基础知识 / 1.4 计算机系统组成",
-      "硬件系统一主机 wk G",
+      "硬件系统一主机 wk",
       "1. Cache的主要作用是解决 ([[CPU]]) 与 (内",
       "存) 之间的速度差问题",
       "2. 计算机多层次的存储体系结构包括 (内",
@@ -23744,7 +23737,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 51.1s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9108,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -23774,8 +23767,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0108_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0108.jpg",
+      "masked": "exam_video_v15/video1/0108_hide.jpg",
+      "answer": "exam_video_v15/video1/0108.jpg",
       "boxCount": 8,
       "time": 51.1,
       "video": "录屏1",
@@ -23783,7 +23776,7 @@ window.KNOWLEDGE_ITEMS = [
     },
     "isVideoExam": true,
     "pageClozeTextLines": [
-      "内存的功能 G",
+      "内存的功能",
       "1. 计算机中的地址是存储单元的有序 (编",
       "2. ATR ([[字节]]) 进行编码,其中1个编码=",
       "([[1]]) 个地址= ([[1]]) 个字节",
@@ -23800,7 +23793,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 51.7s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9109,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -23830,8 +23823,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0109_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0109.jpg",
+      "masked": "exam_video_v15/video1/0109_hide.jpg",
+      "answer": "exam_video_v15/video1/0109.jpg",
       "boxCount": 4,
       "time": 51.7,
       "video": "录屏1",
@@ -23850,7 +23843,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 52.1s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9110,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -23880,8 +23873,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0110_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0110.jpg",
+      "masked": "exam_video_v15/video1/0110_hide.jpg",
+      "answer": "exam_video_v15/video1/0110.jpg",
       "boxCount": 6,
       "time": 52.1,
       "video": "录屏1",
@@ -23906,7 +23899,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 52.4s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9111,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -23936,8 +23929,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0111_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0111.jpg",
+      "masked": "exam_video_v15/video1/0111_hide.jpg",
+      "answer": "exam_video_v15/video1/0111.jpg",
       "boxCount": 6,
       "time": 52.4,
       "video": "录屏1",
@@ -23961,7 +23954,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 52.7s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9112,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -23991,8 +23984,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0112_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0112.jpg",
+      "masked": "exam_video_v15/video1/0112_hide.jpg",
+      "answer": "exam_video_v15/video1/0112.jpg",
       "boxCount": 6,
       "time": 52.7,
       "video": "录屏1",
@@ -24017,7 +24010,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 53.0s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9113,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -24047,8 +24040,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0113_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0113.jpg",
+      "masked": "exam_video_v15/video1/0113_hide.jpg",
+      "answer": "exam_video_v15/video1/0113.jpg",
       "boxCount": 7,
       "time": 53.0,
       "video": "录屏1",
@@ -24072,7 +24065,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 53.6s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9114,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -24102,8 +24095,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0114_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0114.jpg",
+      "masked": "exam_video_v15/video1/0114_hide.jpg",
+      "answer": "exam_video_v15/video1/0114.jpg",
       "boxCount": 5,
       "time": 53.6,
       "video": "录屏1",
@@ -24113,7 +24106,7 @@ window.KNOWLEDGE_ITEMS = [
     "pageClozeTextLines": [
       "第一章计算机基础知识 / 1.4 计算机系统组成",
       "内存的特点",
-      "硬件系统一主机 tee G",
+      "硬件系统一主机 tee",
       "1 能被CPU直接访问的是 ([[内存储器]])",
       "2. ([[AE]]) 的速度相对外存来说更 ([[快]])"
     ],
@@ -24128,7 +24121,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 53.9s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9115,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -24158,8 +24151,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0115_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0115.jpg",
+      "masked": "exam_video_v15/video1/0115_hide.jpg",
+      "answer": "exam_video_v15/video1/0115.jpg",
       "boxCount": 5,
       "time": 53.9,
       "video": "录屏1",
@@ -24182,7 +24175,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 54.2s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9116,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -24212,8 +24205,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0116_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0116.jpg",
+      "masked": "exam_video_v15/video1/0116_hide.jpg",
+      "answer": "exam_video_v15/video1/0116.jpg",
       "boxCount": 6,
       "time": 54.2,
       "video": "录屏1",
@@ -24239,7 +24232,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 54.8s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9117,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -24269,8 +24262,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0117_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0117.jpg",
+      "masked": "exam_video_v15/video1/0117_hide.jpg",
+      "answer": "exam_video_v15/video1/0117.jpg",
       "boxCount": 3,
       "time": 54.8,
       "video": "录屏1",
@@ -24279,7 +24272,7 @@ window.KNOWLEDGE_ITEMS = [
     "isVideoExam": true,
     "pageClozeTextLines": [
       "第一章计算机基础知识 / 1.4 计算机系统组成",
-      "运算器 G",
+      "运算器",
       "硬件系统一主机 tok",
       "1. 算术还辑单元 ([[简称 ALU]]) 主要提供算术运"
     ],
@@ -24294,7 +24287,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 55.2s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9118,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -24324,8 +24317,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0118_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0118.jpg",
+      "masked": "exam_video_v15/video1/0118_hide.jpg",
+      "answer": "exam_video_v15/video1/0118.jpg",
       "boxCount": 8,
       "time": 55.2,
       "video": "录屏1",
@@ -24333,7 +24326,7 @@ window.KNOWLEDGE_ITEMS = [
     },
     "isVideoExam": true,
     "pageClozeTextLines": [
-      "读盘和写盘 G",
+      "读盘和写盘",
       "1M ([[存储设备]]) BR. SSD. HAS, hip",
       "取数据到计算机 ([[内存]]) 的过程称为读盘",
       "2. 将([[内存]]) 中的数据保存到 ([[存储设备]])",
@@ -24350,7 +24343,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 55.5s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9119,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -24380,8 +24373,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0119_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0119.jpg",
+      "masked": "exam_video_v15/video1/0119_hide.jpg",
+      "answer": "exam_video_v15/video1/0119.jpg",
       "boxCount": 7,
       "time": 55.5,
       "video": "录屏1",
@@ -24390,7 +24383,6 @@ window.KNOWLEDGE_ITEMS = [
     "isVideoExam": true,
     "pageClozeTextLines": [
       "读盘和写盘 y",
-      "1. 从 ([[存储设备]]) HR. SSD. HAS, PIR",
       "取数据到计算机 ([[内存]]) 的过程称为读盘",
       "2. 将 (A) 中的数据保存到 ([[存储设备]])",
       "的过程称为写盘"
@@ -24406,7 +24398,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 55.8s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9120,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -24436,8 +24428,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0120_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0120.jpg",
+      "masked": "exam_video_v15/video1/0120_hide.jpg",
+      "answer": "exam_video_v15/video1/0120.jpg",
       "boxCount": 12,
       "time": 55.8,
       "video": "录屏1",
@@ -24446,7 +24438,7 @@ window.KNOWLEDGE_ITEMS = [
     "isVideoExam": true,
     "pageClozeTextLines": [
       "第一章计算机基础知.4 计算机系统组成",
-      "硬件系统一主机 week G",
+      "硬件系统一主机 week",
       "1 运算器和控制器的总称是 ([[CPU]]),是计",
       "算机的核心部件",
       "2. CPU的时钟频率是指CPU在 ([[单位时间]])",
@@ -24468,7 +24460,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 56.1s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9121,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -24498,8 +24490,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0121_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0121.jpg",
+      "masked": "exam_video_v15/video1/0121_hide.jpg",
+      "answer": "exam_video_v15/video1/0121.jpg",
       "boxCount": 10,
       "time": 56.1,
       "video": "录屏1",
@@ -24528,7 +24520,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 56.4s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9122,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -24558,8 +24550,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0122_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0122.jpg",
+      "masked": "exam_video_v15/video1/0122_hide.jpg",
+      "answer": "exam_video_v15/video1/0122.jpg",
       "boxCount": 13,
       "time": 56.4,
       "video": "录屏1",
@@ -24568,7 +24560,7 @@ window.KNOWLEDGE_ITEMS = [
     "isVideoExam": true,
     "pageClozeTextLines": [
       "第一章计算机基础知识 / 1.4 计算机系统组成",
-      "总线分类 G",
+      "总线分类",
       "硬件系统一外设 tote",
       "1. 总线按传输方式分为 ([[并行]]) 总线和 (串",
       "行) 总线",
@@ -24589,7 +24581,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 56.7s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9123,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -24619,8 +24611,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0123_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0123.jpg",
+      "masked": "exam_video_v15/video1/0123_hide.jpg",
+      "answer": "exam_video_v15/video1/0123.jpg",
       "boxCount": 14,
       "time": 56.7,
       "video": "录屏1",
@@ -24648,7 +24640,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 57.0s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9124,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -24678,8 +24670,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0124_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0124.jpg",
+      "masked": "exam_video_v15/video1/0124_hide.jpg",
+      "answer": "exam_video_v15/video1/0124.jpg",
       "boxCount": 11,
       "time": 57.0,
       "video": "录屏1",
@@ -24687,7 +24679,7 @@ window.KNOWLEDGE_ITEMS = [
     },
     "isVideoExam": true,
     "pageClozeTextLines": [
-      "地址总线 G",
+      "地址总线",
       "硬件系统一外设 tke",
       "1. n位地址总线的寻址能力为([[2 ]]) 字节",
       "2. 地址总线传送地址信息,是自 ([[CPU]]) 向",
@@ -24708,7 +24700,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 57.3s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9125,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -24738,8 +24730,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0125_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0125.jpg",
+      "masked": "exam_video_v15/video1/0125_hide.jpg",
+      "answer": "exam_video_v15/video1/0125.jpg",
       "boxCount": 10,
       "time": 57.3,
       "video": "录屏1",
@@ -24748,7 +24740,7 @@ window.KNOWLEDGE_ITEMS = [
     "isVideoExam": true,
     "pageClozeTextLines": [
       "第一章计算机基础知识 / 1.4 计算机系统组成",
-      "醒件系统一外设 tok tok G",
+      "醒件系统一外设 tok tok",
       "1. 常见的显示器接口有VGA、DYVI、",
       "2. 常见的硬盘接口有 ([[SATA]]). ([[M2]])",
       "3. USB接口中文名称叫做通用囊行总线)"
@@ -24764,7 +24756,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 57.6s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9126,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -24794,8 +24786,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0126_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0126.jpg",
+      "masked": "exam_video_v15/video1/0126_hide.jpg",
+      "answer": "exam_video_v15/video1/0126.jpg",
       "boxCount": 8,
       "time": 57.6,
       "video": "录屏1",
@@ -24804,7 +24796,7 @@ window.KNOWLEDGE_ITEMS = [
     "isVideoExam": true,
     "pageClozeTextLines": [
       "接口 Y",
-      "硬件系统一外设 Woke G",
+      "硬件系统一外设 Woke",
       "1. 常见的显示器接口有VGA、DYVI、",
       "2. 常见的硬盘接口有 ([[SATA]]). ([[M2]])",
       "3. USB接口中文名称叫做 ([[通用串行总线]])"
@@ -24820,7 +24812,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 57.9s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9127,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -24850,8 +24842,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0127_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0127.jpg",
+      "masked": "exam_video_v15/video1/0127_hide.jpg",
+      "answer": "exam_video_v15/video1/0127.jpg",
       "boxCount": 5,
       "time": 57.9,
       "video": "录屏1",
@@ -24859,7 +24851,7 @@ window.KNOWLEDGE_ITEMS = [
     },
     "isVideoExam": true,
     "pageClozeTextLines": [
-      "数据总线 G",
+      "数据总线",
       "硬件系统一外设 tek",
       "1. 数据总线是CPU与 ([[主存储器]])、",
       "([[YO]]) 接口之间相互传送数据的通道"
@@ -24875,7 +24867,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 58.2s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9128,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -24905,8 +24897,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0128_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0128.jpg",
+      "masked": "exam_video_v15/video1/0128_hide.jpg",
+      "answer": "exam_video_v15/video1/0128.jpg",
       "boxCount": 6,
       "time": 58.2,
       "video": "录屏1",
@@ -24930,7 +24922,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 58.9s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9129,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -24960,8 +24952,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0129_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0129.jpg",
+      "masked": "exam_video_v15/video1/0129_hide.jpg",
+      "answer": "exam_video_v15/video1/0129.jpg",
       "boxCount": 5,
       "time": 58.9,
       "video": "录屏1",
@@ -24969,7 +24961,7 @@ window.KNOWLEDGE_ITEMS = [
     },
     "isVideoExam": true,
     "pageClozeTextLines": [
-      "总线的技术指标 G",
+      "总线的技术指标",
       "1. ([[总线带宽]]) 是指单位时间内总线上传送的",
       "数据量,反映总线数据的([[传输速率]]),单位",
       "2.,([[总线位宽]]) 是指能够同时传送的二进制",
@@ -24986,7 +24978,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 59.2s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9130,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -25016,8 +25008,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0130_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0130.jpg",
+      "masked": "exam_video_v15/video1/0130_hide.jpg",
+      "answer": "exam_video_v15/video1/0130.jpg",
       "boxCount": 6,
       "time": 59.2,
       "video": "录屏1",
@@ -25026,7 +25018,7 @@ window.KNOWLEDGE_ITEMS = [
     "isVideoExam": true,
     "pageClozeTextLines": [
       "第一章计算机基础知识 / 1.4 计算机系统组成",
-      "总线的技术指标 G",
+      "总线的技术指标",
       "硬件系统一外设 tok ike",
       "1. ([[总线带宽]]) 是指单位时间内总线上传送的",
       "数据量,反映总线数据的([[传输速率]]),单位",
@@ -25044,7 +25036,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 59.8s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9131,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -25074,8 +25066,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0131_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0131.jpg",
+      "masked": "exam_video_v15/video1/0131_hide.jpg",
+      "answer": "exam_video_v15/video1/0131.jpg",
       "boxCount": 5,
       "time": 59.8,
       "video": "录屏1",
@@ -25100,7 +25092,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 60.1s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9132,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -25130,8 +25122,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0132_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0132.jpg",
+      "masked": "exam_video_v15/video1/0132_hide.jpg",
+      "answer": "exam_video_v15/video1/0132.jpg",
       "boxCount": 5,
       "time": 60.1,
       "video": "录屏1",
@@ -25155,7 +25147,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 60.4s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9133,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -25185,8 +25177,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0133_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0133.jpg",
+      "masked": "exam_video_v15/video1/0133_hide.jpg",
+      "answer": "exam_video_v15/video1/0133.jpg",
       "boxCount": 3,
       "time": 60.4,
       "video": "录屏1",
@@ -25194,7 +25186,7 @@ window.KNOWLEDGE_ITEMS = [
     },
     "isVideoExam": true,
     "pageClozeTextLines": [
-      "外存的功能 G",
+      "外存的功能",
       "硬件系统一外设 tote",
       "1. 在微型计算机中,硬盘连同其驱动器属于",
       "([[外存储器]])"
@@ -25210,7 +25202,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 61.0s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9134,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -25240,8 +25232,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0134_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0134.jpg",
+      "masked": "exam_video_v15/video1/0134_hide.jpg",
+      "answer": "exam_video_v15/video1/0134.jpg",
       "boxCount": 7,
       "time": 61.0,
       "video": "录屏1",
@@ -25251,7 +25243,7 @@ window.KNOWLEDGE_ITEMS = [
     "pageClozeTextLines": [
       "第一章计算机基础知识 / 1.4 计算机系统组成",
       "打印机已",
-      "硬件系统一外设 toto G",
+      "硬件系统一外设 toto",
       "1. 打印机属于 ([[输出设备]]),打印效果最佳的",
       "打印机是 ([[激光打印机]])",
       "2. 打印机一般分为两种: ([[击打式]]) 和 (非",
@@ -25268,7 +25260,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 61.3s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9135,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -25298,8 +25290,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0135_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0135.jpg",
+      "masked": "exam_video_v15/video1/0135_hide.jpg",
+      "answer": "exam_video_v15/video1/0135.jpg",
       "boxCount": 5,
       "time": 61.3,
       "video": "录屏1",
@@ -25323,7 +25315,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 61.7s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9136,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -25353,8 +25345,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0136_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0136.jpg",
+      "masked": "exam_video_v15/video1/0136_hide.jpg",
+      "answer": "exam_video_v15/video1/0136.jpg",
       "boxCount": 5,
       "time": 61.7,
       "video": "录屏1",
@@ -25363,7 +25355,7 @@ window.KNOWLEDGE_ITEMS = [
     "isVideoExam": true,
     "pageClozeTextLines": [
       "控制总线 gj",
-      "硬件系统一外设 tt G",
+      "硬件系统一外设 tt",
       "1. 控制总线的作用是 ([[传输控制信号]]),其信",
       "号的传递是([[双向]]) 进行的"
     ],
@@ -25378,7 +25370,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 62.0s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9137,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -25408,8 +25400,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0137_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0137.jpg",
+      "masked": "exam_video_v15/video1/0137_hide.jpg",
+      "answer": "exam_video_v15/video1/0137.jpg",
       "boxCount": 8,
       "time": 62.0,
       "video": "录屏1",
@@ -25417,7 +25409,7 @@ window.KNOWLEDGE_ITEMS = [
     },
     "isVideoExam": true,
     "pageClozeTextLines": [
-      "常见显示器分类 G",
+      "常见显示器分类",
       "1. 计算机中的LCD是指 ([[液晶显示器]])",
       "2. 常见的显示器包括CRT显示器、 (LCD显"
     ],
@@ -25432,7 +25424,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 62.3s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9138,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -25462,8 +25454,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0138_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0138.jpg",
+      "masked": "exam_video_v15/video1/0138_hide.jpg",
+      "answer": "exam_video_v15/video1/0138.jpg",
       "boxCount": 9,
       "time": 62.3,
       "video": "录屏1",
@@ -25472,7 +25464,7 @@ window.KNOWLEDGE_ITEMS = [
     "isVideoExam": true,
     "pageClozeTextLines": [
       "第一章计算机基础知识 / 1.4 计算机系统组成",
-      "常见显示器分类 G",
+      "常见显示器分类",
       "硬件系统一外设 tok tok",
       "1. 计算机中的LCD是指 ([[液晶显示器]])",
       "2. 常见的显示器包括CRT显示器、 (LCD显",
@@ -25489,7 +25481,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 62.6s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9139,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -25519,8 +25511,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0139_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0139.jpg",
+      "masked": "exam_video_v15/video1/0139_hide.jpg",
+      "answer": "exam_video_v15/video1/0139.jpg",
       "boxCount": 5,
       "time": 62.6,
       "video": "录屏1",
@@ -25543,7 +25535,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 63.2s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9140,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -25573,8 +25565,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0140_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0140.jpg",
+      "masked": "exam_video_v15/video1/0140_hide.jpg",
+      "answer": "exam_video_v15/video1/0140.jpg",
       "boxCount": 8,
       "time": 63.2,
       "video": "录屏1",
@@ -25582,7 +25574,7 @@ window.KNOWLEDGE_ITEMS = [
     },
     "isVideoExam": true,
     "pageClozeTextLines": [
-      "显示器的性能指标 G",
+      "显示器的性能指标",
       "1. 显示屏幕上光栅的列数和行数被称为显示器",
       "的([[分辨率]]),该指标越高,则图标越",
       "2. 颜色质量也称 ([[色位深度]]),颜色质量的",
@@ -25602,7 +25594,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 63.5s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9141,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -25632,8 +25624,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0141_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0141.jpg",
+      "masked": "exam_video_v15/video1/0141_hide.jpg",
+      "answer": "exam_video_v15/video1/0141.jpg",
       "boxCount": 8,
       "time": 63.5,
       "video": "录屏1",
@@ -25658,7 +25650,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 63.8s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9142,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -25688,8 +25680,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0142_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0142.jpg",
+      "masked": "exam_video_v15/video1/0142_hide.jpg",
+      "answer": "exam_video_v15/video1/0142.jpg",
       "boxCount": 8,
       "time": 63.8,
       "video": "录屏1",
@@ -25699,7 +25691,7 @@ window.KNOWLEDGE_ITEMS = [
     "pageClozeTextLines": [
       "第一章计算机基础知识 /14 计算机系统组成",
       "移动存储器 y",
-      "硬件系统一外设 took G",
+      "硬件系统一外设 took",
       "1. 常见的移动存储设备有 ([[UR]]). (光",
       "盘)、 ([[Flash存储器]]) 和 ([[移动硬盘]])"
     ],
@@ -25714,7 +25706,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 64.1s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9143,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -25744,8 +25736,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0143_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0143.jpg",
+      "masked": "exam_video_v15/video1/0143_hide.jpg",
+      "answer": "exam_video_v15/video1/0143.jpg",
       "boxCount": 5,
       "time": 64.1,
       "video": "录屏1",
@@ -25754,7 +25746,7 @@ window.KNOWLEDGE_ITEMS = [
     "isVideoExam": true,
     "pageClozeTextLines": [
       "第一章计算机基础知识 /1.4 计算机系统组成",
-      "输入设备 G",
+      "输入设备",
       "硬件系统一外设 eke",
       "1常见 ([[MA]]) 设备有: A, Bi, KS",
       "扫描仪",
@@ -25771,7 +25763,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 64.4s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9144,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -25801,8 +25793,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0144_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0144.jpg",
+      "masked": "exam_video_v15/video1/0144_hide.jpg",
+      "answer": "exam_video_v15/video1/0144.jpg",
       "boxCount": 5,
       "time": 64.4,
       "video": "录屏1",
@@ -25827,7 +25819,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 64.8s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9145,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -25857,8 +25849,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0145_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0145.jpg",
+      "masked": "exam_video_v15/video1/0145_hide.jpg",
+      "answer": "exam_video_v15/video1/0145.jpg",
       "boxCount": 4,
       "time": 64.8,
       "video": "录屏1",
@@ -25866,7 +25858,7 @@ window.KNOWLEDGE_ITEMS = [
     },
     "isVideoExam": true,
     "pageClozeTextLines": [
-      "机械硬盘的概念 G",
+      "机械硬盘的概念",
       "硬件系统一外设 tote",
       "1. 同一盘片不同半径的同心圆称为 ([[磁道]])",
       "2. 磁盘存储器存,取信息的最基本单位是"
@@ -25882,7 +25874,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 65.1s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9146,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -25912,8 +25904,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0146_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0146.jpg",
+      "masked": "exam_video_v15/video1/0146_hide.jpg",
+      "answer": "exam_video_v15/video1/0146.jpg",
       "boxCount": 5,
       "time": 65.1,
       "video": "录屏1",
@@ -25921,7 +25913,7 @@ window.KNOWLEDGE_ITEMS = [
     },
     "isVideoExam": true,
     "pageClozeTextLines": [
-      "机械硬盘的概念 G",
+      "机械硬盘的概念",
       "硬件系统一外设 tot",
       "1. 同一盘片不同半径的同心圆称为 ([[磁道]])",
       "2. 磁盘存储器存,取信息的最基本单位是"
@@ -25937,7 +25929,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 65.4s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9147,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -25967,8 +25959,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0147_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0147.jpg",
+      "masked": "exam_video_v15/video1/0147_hide.jpg",
+      "answer": "exam_video_v15/video1/0147.jpg",
       "boxCount": 10,
       "time": 65.4,
       "video": "录屏1",
@@ -25976,9 +25968,8 @@ window.KNOWLEDGE_ITEMS = [
     },
     "isVideoExam": true,
     "pageClozeTextLines": [
-      "固态硬盘 G",
+      "固态硬盘",
       "硬件系统一外设 ett",
-      "1. BAER ([[SSD]]) 的物理 ([[硬件底层]]) RS",
       "单位是 ([[TL]]),物理擦除单位是 ([[块]]) ; 但",
       "SSD对外膛辑层面,还是以([[扁区]]) 为单位和",
       "2. 硬盘一般分为([[机械硬盘]]) 和 (固态硬"
@@ -25994,7 +25985,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 65.7s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9148,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -26024,8 +26015,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0148_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0148.jpg",
+      "masked": "exam_video_v15/video1/0148_hide.jpg",
+      "answer": "exam_video_v15/video1/0148.jpg",
       "boxCount": 11,
       "time": 65.7,
       "video": "录屏1",
@@ -26034,7 +26025,7 @@ window.KNOWLEDGE_ITEMS = [
     "isVideoExam": true,
     "pageClozeTextLines": [
       "固态硬盘本",
-      "硬件系统一外设 tek tee G",
+      "硬件系统一外设 tek tee",
       "1. 固态硬盘 ([[SSD]]) 的物理 ([[硬件底层]]) RS",
       "单位是([[页]]),物理擦除单位是(([[块]]) ; 但",
       "SSD对外有远辑层面,还是以([[扇区]]) 为单位和",
@@ -26051,7 +26042,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 66.0s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9149,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -26081,8 +26072,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0149_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0149.jpg",
+      "masked": "exam_video_v15/video1/0149_hide.jpg",
+      "answer": "exam_video_v15/video1/0149.jpg",
       "boxCount": 5,
       "time": 66.0,
       "video": "录屏1",
@@ -26106,7 +26097,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 66.3s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9150,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -26136,8 +26127,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0150_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0150.jpg",
+      "masked": "exam_video_v15/video1/0150_hide.jpg",
+      "answer": "exam_video_v15/video1/0150.jpg",
       "boxCount": 5,
       "time": 66.3,
       "video": "录屏1",
@@ -26145,7 +26136,7 @@ window.KNOWLEDGE_ITEMS = [
     },
     "isVideoExam": true,
     "pageClozeTextLines": [
-      "外存的特点 G",
+      "外存的特点",
       "硬件系统一外设 tot",
       "1. 外存中的数据 ([[不能]]) 直接被CPU访问",
       "CPU访问时,需要先将数据调入 ([[内存]])"
@@ -26161,7 +26152,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 66.6s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9151,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -26191,8 +26182,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0151_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0151.jpg",
+      "masked": "exam_video_v15/video1/0151_hide.jpg",
+      "answer": "exam_video_v15/video1/0151.jpg",
       "boxCount": 5,
       "time": 66.6,
       "video": "录屏1",
@@ -26200,7 +26191,7 @@ window.KNOWLEDGE_ITEMS = [
     },
     "isVideoExam": true,
     "pageClozeTextLines": [
-      "输出设备 G",
+      "输出设备",
       "硬件系统一外设 tok",
       "1. 输出设备可以将计算机处理后的([[二进制]])",
       "结果转换为人们能识别的形式",
@@ -26220,7 +26211,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 66.9s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9152,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -26250,8 +26241,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0152_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0152.jpg",
+      "masked": "exam_video_v15/video1/0152_hide.jpg",
+      "answer": "exam_video_v15/video1/0152.jpg",
       "boxCount": 4,
       "time": 66.9,
       "video": "录屏1",
@@ -26260,7 +26251,7 @@ window.KNOWLEDGE_ITEMS = [
     "isVideoExam": true,
     "pageClozeTextLines": [
       "输出设备 CH",
-      "硬件系统一外设 tot G",
+      "硬件系统一外设 tot",
       "1. 输出设备可以将计算机处理后的([[二进制]])",
       "结果转换为人们能识别的形式",
       "2. 常见([[输出]]) 设备有: 显示器,打印机",
@@ -26279,7 +26270,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 67.2s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9153,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -26309,8 +26300,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0153_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0153.jpg",
+      "masked": "exam_video_v15/video1/0153_hide.jpg",
+      "answer": "exam_video_v15/video1/0153.jpg",
       "boxCount": 7,
       "time": 67.2,
       "video": "录屏1",
@@ -26340,7 +26331,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 67.9s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9154,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -26370,8 +26361,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0154_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0154.jpg",
+      "masked": "exam_video_v15/video1/0154_hide.jpg",
+      "answer": "exam_video_v15/video1/0154.jpg",
       "boxCount": 5,
       "time": 67.9,
       "video": "录屏1",
@@ -26395,7 +26386,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 68.2s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9155,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -26425,8 +26416,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0155_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0155.jpg",
+      "masked": "exam_video_v15/video1/0155_hide.jpg",
+      "answer": "exam_video_v15/video1/0155.jpg",
       "boxCount": 4,
       "time": 68.2,
       "video": "录屏1",
@@ -26451,7 +26442,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 68.5s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9156,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -26481,8 +26472,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0156_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0156.jpg",
+      "masked": "exam_video_v15/video1/0156_hide.jpg",
+      "answer": "exam_video_v15/video1/0156.jpg",
       "boxCount": 4,
       "time": 68.5,
       "video": "录屏1",
@@ -26506,7 +26497,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 68.8s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9157,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -26536,8 +26527,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0157_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0157.jpg",
+      "masked": "exam_video_v15/video1/0157_hide.jpg",
+      "answer": "exam_video_v15/video1/0157.jpg",
       "boxCount": 4,
       "time": 68.8,
       "video": "录屏1",
@@ -26556,7 +26547,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 69.1s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9158,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -26586,8 +26577,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0158_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0158.jpg",
+      "masked": "exam_video_v15/video1/0158_hide.jpg",
+      "answer": "exam_video_v15/video1/0158.jpg",
       "boxCount": 4,
       "time": 69.1,
       "video": "录屏1",
@@ -26606,7 +26597,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 69.4s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9159,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -26636,8 +26627,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0159_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0159.jpg",
+      "masked": "exam_video_v15/video1/0159_hide.jpg",
+      "answer": "exam_video_v15/video1/0159.jpg",
       "boxCount": 9,
       "time": 69.4,
       "video": "录屏1",
@@ -26666,7 +26657,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 69.7s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9160,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -26696,8 +26687,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0160_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0160.jpg",
+      "masked": "exam_video_v15/video1/0160_hide.jpg",
+      "answer": "exam_video_v15/video1/0160.jpg",
       "boxCount": 11,
       "time": 69.7,
       "video": "录屏1",
@@ -26705,7 +26696,7 @@ window.KNOWLEDGE_ITEMS = [
     },
     "isVideoExam": true,
     "pageClozeTextLines": [
-      "系统软件的概念 G",
+      "系统软件的概念",
       "1. 系统软件包括 ([[操作系统]])、程序设计语",
       "言、([[语言处理程序]]) 和 (数据库管理系",
       "2. 系统软件中的核心部分是 ([[操作系统]])",
@@ -26725,7 +26716,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 70.0s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9161,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -26755,8 +26746,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0161_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0161.jpg",
+      "masked": "exam_video_v15/video1/0161_hide.jpg",
+      "answer": "exam_video_v15/video1/0161.jpg",
       "boxCount": 6,
       "time": 70.0,
       "video": "录屏1",
@@ -26780,7 +26771,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 70.6s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9162,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -26810,8 +26801,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0162_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0162.jpg",
+      "masked": "exam_video_v15/video1/0162_hide.jpg",
+      "answer": "exam_video_v15/video1/0162.jpg",
       "boxCount": 8,
       "time": 70.6,
       "video": "录屏1",
@@ -26837,7 +26828,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 71.0s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9163,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -26867,8 +26858,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0163_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0163.jpg",
+      "masked": "exam_video_v15/video1/0163_hide.jpg",
+      "answer": "exam_video_v15/video1/0163.jpg",
       "boxCount": 6,
       "time": 71.0,
       "video": "录屏1",
@@ -26894,7 +26885,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 71.3s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9164,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -26924,8 +26915,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0164_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0164.jpg",
+      "masked": "exam_video_v15/video1/0164_hide.jpg",
+      "answer": "exam_video_v15/video1/0164.jpg",
       "boxCount": 5,
       "time": 71.3,
       "video": "录屏1",
@@ -26950,7 +26941,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 71.9s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9165,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -26980,8 +26971,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0165_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0165.jpg",
+      "masked": "exam_video_v15/video1/0165_hide.jpg",
+      "answer": "exam_video_v15/video1/0165.jpg",
       "boxCount": 7,
       "time": 71.9,
       "video": "录屏1",
@@ -27006,7 +26997,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 72.2s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9166,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -27036,8 +27027,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0166_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0166.jpg",
+      "masked": "exam_video_v15/video1/0166_hide.jpg",
+      "answer": "exam_video_v15/video1/0166.jpg",
       "boxCount": 8,
       "time": 72.2,
       "video": "录屏1",
@@ -27063,7 +27054,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 72.5s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9167,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -27093,8 +27084,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0167_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0167.jpg",
+      "masked": "exam_video_v15/video1/0167_hide.jpg",
+      "answer": "exam_video_v15/video1/0167.jpg",
       "boxCount": 8,
       "time": 72.5,
       "video": "录屏1",
@@ -27119,7 +27110,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 72.8s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9168,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -27149,8 +27140,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0168_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0168.jpg",
+      "masked": "exam_video_v15/video1/0168_hide.jpg",
+      "answer": "exam_video_v15/video1/0168.jpg",
       "boxCount": 4,
       "time": 72.8,
       "video": "录屏1",
@@ -27175,7 +27166,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 73.1s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9169,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -27205,8 +27196,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0169_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0169.jpg",
+      "masked": "exam_video_v15/video1/0169_hide.jpg",
+      "answer": "exam_video_v15/video1/0169.jpg",
       "boxCount": 3,
       "time": 73.1,
       "video": "录屏1",
@@ -27232,7 +27223,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 73.4s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9170,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -27262,8 +27253,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0170_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0170.jpg",
+      "masked": "exam_video_v15/video1/0170_hide.jpg",
+      "answer": "exam_video_v15/video1/0170.jpg",
       "boxCount": 7,
       "time": 73.4,
       "video": "录屏1",
@@ -27290,7 +27281,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 73.7s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9171,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -27320,8 +27311,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0171_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0171.jpg",
+      "masked": "exam_video_v15/video1/0171_hide.jpg",
+      "answer": "exam_video_v15/video1/0171.jpg",
       "boxCount": 7,
       "time": 73.7,
       "video": "录屏1",
@@ -27348,7 +27339,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 74.1s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9172,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -27378,8 +27369,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0172_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0172.jpg",
+      "masked": "exam_video_v15/video1/0172_hide.jpg",
+      "answer": "exam_video_v15/video1/0172.jpg",
       "boxCount": 5,
       "time": 74.1,
       "video": "录屏1",
@@ -27402,7 +27393,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 74.4s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9173,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -27432,8 +27423,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0173_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0173.jpg",
+      "masked": "exam_video_v15/video1/0173_hide.jpg",
+      "answer": "exam_video_v15/video1/0173.jpg",
       "boxCount": 5,
       "time": 74.4,
       "video": "录屏1",
@@ -27457,7 +27448,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 74.7s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9174,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -27487,8 +27478,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0174_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0174.jpg",
+      "masked": "exam_video_v15/video1/0174_hide.jpg",
+      "answer": "exam_video_v15/video1/0174.jpg",
       "boxCount": 5,
       "time": 74.7,
       "video": "录屏1",
@@ -27512,7 +27503,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 75.6s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9175,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -27542,8 +27533,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0175_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0175.jpg",
+      "masked": "exam_video_v15/video1/0175_hide.jpg",
+      "answer": "exam_video_v15/video1/0175.jpg",
       "boxCount": 10,
       "time": 75.6,
       "video": "录屏1",
@@ -27572,7 +27563,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 75.9s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9176,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -27602,8 +27593,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0176_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0176.jpg",
+      "masked": "exam_video_v15/video1/0176_hide.jpg",
+      "answer": "exam_video_v15/video1/0176.jpg",
       "boxCount": 5,
       "time": 75.9,
       "video": "录屏1",
@@ -27628,7 +27619,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 76.2s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9177,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -27658,8 +27649,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0177_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0177.jpg",
+      "masked": "exam_video_v15/video1/0177_hide.jpg",
+      "answer": "exam_video_v15/video1/0177.jpg",
       "boxCount": 6,
       "time": 76.2,
       "video": "录屏1",
@@ -27684,7 +27675,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 76.5s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9178,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -27714,8 +27705,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0178_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0178.jpg",
+      "masked": "exam_video_v15/video1/0178_hide.jpg",
+      "answer": "exam_video_v15/video1/0178.jpg",
       "boxCount": 6,
       "time": 76.5,
       "video": "录屏1",
@@ -27734,7 +27725,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 76.8s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9179,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -27764,8 +27755,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0179_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0179.jpg",
+      "masked": "exam_video_v15/video1/0179_hide.jpg",
+      "answer": "exam_video_v15/video1/0179.jpg",
       "boxCount": 6,
       "time": 76.8,
       "video": "录屏1",
@@ -27791,7 +27782,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 77.1s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9180,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -27821,8 +27812,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0180_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0180.jpg",
+      "masked": "exam_video_v15/video1/0180_hide.jpg",
+      "answer": "exam_video_v15/video1/0180.jpg",
       "boxCount": 8,
       "time": 77.1,
       "video": "录屏1",
@@ -27848,7 +27839,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 77.5s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9181,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -27878,8 +27869,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0181_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0181.jpg",
+      "masked": "exam_video_v15/video1/0181_hide.jpg",
+      "answer": "exam_video_v15/video1/0181.jpg",
       "boxCount": 8,
       "time": 77.5,
       "video": "录屏1",
@@ -27906,7 +27897,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 77.8s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9182,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -27936,8 +27927,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0182_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0182.jpg",
+      "masked": "exam_video_v15/video1/0182_hide.jpg",
+      "answer": "exam_video_v15/video1/0182.jpg",
       "boxCount": 4,
       "time": 77.8,
       "video": "录屏1",
@@ -27963,7 +27954,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 78.1s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9183,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -27993,8 +27984,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0183_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0183.jpg",
+      "masked": "exam_video_v15/video1/0183_hide.jpg",
+      "answer": "exam_video_v15/video1/0183.jpg",
       "boxCount": 5,
       "time": 78.1,
       "video": "录屏1",
@@ -28017,7 +28008,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 78.4s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9184,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -28047,8 +28038,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0184_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0184.jpg",
+      "masked": "exam_video_v15/video1/0184_hide.jpg",
+      "answer": "exam_video_v15/video1/0184.jpg",
       "boxCount": 6,
       "time": 78.4,
       "video": "录屏1",
@@ -28070,7 +28061,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 78.7s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9185,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -28100,8 +28091,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0185_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0185.jpg",
+      "masked": "exam_video_v15/video1/0185_hide.jpg",
+      "answer": "exam_video_v15/video1/0185.jpg",
       "boxCount": 6,
       "time": 78.7,
       "video": "录屏1",
@@ -28125,7 +28116,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 79.0s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9186,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -28155,8 +28146,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0186_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0186.jpg",
+      "masked": "exam_video_v15/video1/0186_hide.jpg",
+      "answer": "exam_video_v15/video1/0186.jpg",
       "boxCount": 6,
       "time": 79.0,
       "video": "录屏1",
@@ -28180,7 +28171,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 79.3s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9187,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -28210,8 +28201,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0187_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0187.jpg",
+      "masked": "exam_video_v15/video1/0187_hide.jpg",
+      "answer": "exam_video_v15/video1/0187.jpg",
       "boxCount": 5,
       "time": 79.3,
       "video": "录屏1",
@@ -28236,7 +28227,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 79.6s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9188,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -28266,8 +28257,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0188_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0188.jpg",
+      "masked": "exam_video_v15/video1/0188_hide.jpg",
+      "answer": "exam_video_v15/video1/0188.jpg",
       "boxCount": 4,
       "time": 79.6,
       "video": "录屏1",
@@ -28292,7 +28283,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 79.9s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9189,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -28322,8 +28313,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0189_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0189.jpg",
+      "masked": "exam_video_v15/video1/0189_hide.jpg",
+      "answer": "exam_video_v15/video1/0189.jpg",
       "boxCount": 4,
       "time": 79.9,
       "video": "录屏1",
@@ -28346,7 +28337,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 80.2s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9190,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -28376,8 +28367,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0190_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0190.jpg",
+      "masked": "exam_video_v15/video1/0190_hide.jpg",
+      "answer": "exam_video_v15/video1/0190.jpg",
       "boxCount": 4,
       "time": 80.2,
       "video": "录屏1",
@@ -28400,7 +28391,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 80.6s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9191,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -28430,8 +28421,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0191_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0191.jpg",
+      "masked": "exam_video_v15/video1/0191_hide.jpg",
+      "answer": "exam_video_v15/video1/0191.jpg",
       "boxCount": 5,
       "time": 80.6,
       "video": "录屏1",
@@ -28457,7 +28448,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 80.9s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9192,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -28487,8 +28478,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0192_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0192.jpg",
+      "masked": "exam_video_v15/video1/0192_hide.jpg",
+      "answer": "exam_video_v15/video1/0192.jpg",
       "boxCount": 4,
       "time": 80.9,
       "video": "录屏1",
@@ -28515,7 +28506,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 81.2s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9193,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -28545,8 +28536,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0193_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0193.jpg",
+      "masked": "exam_video_v15/video1/0193_hide.jpg",
+      "answer": "exam_video_v15/video1/0193.jpg",
       "boxCount": 5,
       "time": 81.2,
       "video": "录屏1",
@@ -28572,7 +28563,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 81.8s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9194,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -28602,8 +28593,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0194_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0194.jpg",
+      "masked": "exam_video_v15/video1/0194_hide.jpg",
+      "answer": "exam_video_v15/video1/0194.jpg",
       "boxCount": 4,
       "time": 81.8,
       "video": "录屏1",
@@ -28627,7 +28618,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 82.1s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9195,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -28657,8 +28648,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0195_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0195.jpg",
+      "masked": "exam_video_v15/video1/0195_hide.jpg",
+      "answer": "exam_video_v15/video1/0195.jpg",
       "boxCount": 4,
       "time": 82.1,
       "video": "录屏1",
@@ -28681,7 +28672,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 82.4s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9196,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -28711,8 +28702,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0196_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0196.jpg",
+      "masked": "exam_video_v15/video1/0196_hide.jpg",
+      "answer": "exam_video_v15/video1/0196.jpg",
       "boxCount": 4,
       "time": 82.4,
       "video": "录屏1",
@@ -28737,7 +28728,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 82.7s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9197,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -28767,8 +28758,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0197_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0197.jpg",
+      "masked": "exam_video_v15/video1/0197_hide.jpg",
+      "answer": "exam_video_v15/video1/0197.jpg",
       "boxCount": 5,
       "time": 82.7,
       "video": "录屏1",
@@ -28793,7 +28784,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 83.0s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9198,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -28823,8 +28814,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0198_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0198.jpg",
+      "masked": "exam_video_v15/video1/0198_hide.jpg",
+      "answer": "exam_video_v15/video1/0198.jpg",
       "boxCount": 6,
       "time": 83.0,
       "video": "录屏1",
@@ -28849,7 +28840,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 83.3s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9199,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -28879,8 +28870,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0199_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0199.jpg",
+      "masked": "exam_video_v15/video1/0199_hide.jpg",
+      "answer": "exam_video_v15/video1/0199.jpg",
       "boxCount": 6,
       "time": 83.3,
       "video": "录屏1",
@@ -28889,7 +28880,6 @@ window.KNOWLEDGE_ITEMS = [
     "isVideoExam": true,
     "pageClozeTextLines": [
       "DOS操作系统 wv",
-      "1. ([[DOS]]) 磁盘操作系统是美国Microsoft公",
       "司研制的安装在个人计算机上的 (单用户命令",
       "行界面) 操作系统"
     ],
@@ -28904,7 +28894,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 84.0s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9200,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -28934,8 +28924,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0200_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0200.jpg",
+      "masked": "exam_video_v15/video1/0200_hide.jpg",
+      "answer": "exam_video_v15/video1/0200.jpg",
       "boxCount": 4,
       "time": 84.0,
       "video": "录屏1",
@@ -28943,7 +28933,6 @@ window.KNOWLEDGE_ITEMS = [
     },
     "isVideoExam": true,
     "pageClozeTextLines": [
-      "1. macOS是 ([[苹果]]) 公司为Mac系列电脑开",
       "发的基于 ([[Unix]]) 的图形化操作系统,以流畅",
       "稳定、简洁美观、安全高效及与苹果生态深度",
       "整合著称"
@@ -28959,7 +28948,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 84.3s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9201,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -28989,8 +28978,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0201_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0201.jpg",
+      "masked": "exam_video_v15/video1/0201_hide.jpg",
+      "answer": "exam_video_v15/video1/0201.jpg",
       "boxCount": 4,
       "time": 84.3,
       "video": "录屏1",
@@ -29015,7 +29004,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 84.6s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9202,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -29045,8 +29034,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0202_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0202.jpg",
+      "masked": "exam_video_v15/video1/0202_hide.jpg",
+      "answer": "exam_video_v15/video1/0202.jpg",
       "boxCount": 5,
       "time": 84.6,
       "video": "录屏1",
@@ -29071,7 +29060,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 84.9s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9203,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -29101,8 +29090,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0203_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0203.jpg",
+      "masked": "exam_video_v15/video1/0203_hide.jpg",
+      "answer": "exam_video_v15/video1/0203.jpg",
       "boxCount": 6,
       "time": 84.9,
       "video": "录屏1",
@@ -29126,7 +29115,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 85.2s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9204,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -29156,8 +29145,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0204_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0204.jpg",
+      "masked": "exam_video_v15/video1/0204_hide.jpg",
+      "answer": "exam_video_v15/video1/0204.jpg",
       "boxCount": 6,
       "time": 85.2,
       "video": "录屏1",
@@ -29181,7 +29170,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 85.8s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9205,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -29211,8 +29200,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0205_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0205.jpg",
+      "masked": "exam_video_v15/video1/0205_hide.jpg",
+      "answer": "exam_video_v15/video1/0205.jpg",
       "boxCount": 8,
       "time": 85.8,
       "video": "录屏1",
@@ -29239,7 +29228,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 86.1s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9206,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -29269,8 +29258,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0206_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0206.jpg",
+      "masked": "exam_video_v15/video1/0206_hide.jpg",
+      "answer": "exam_video_v15/video1/0206.jpg",
       "boxCount": 6,
       "time": 86.1,
       "video": "录屏1",
@@ -29296,7 +29285,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 86.4s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9207,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -29326,8 +29315,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0207_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0207.jpg",
+      "masked": "exam_video_v15/video1/0207_hide.jpg",
+      "answer": "exam_video_v15/video1/0207.jpg",
       "boxCount": 5,
       "time": 86.4,
       "video": "录屏1",
@@ -29354,7 +29343,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 86.8s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9208,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -29384,8 +29373,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0208_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0208.jpg",
+      "masked": "exam_video_v15/video1/0208_hide.jpg",
+      "answer": "exam_video_v15/video1/0208.jpg",
       "boxCount": 6,
       "time": 86.8,
       "video": "录屏1",
@@ -29412,7 +29401,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 87.1s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9209,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -29442,8 +29431,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0209_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0209.jpg",
+      "masked": "exam_video_v15/video1/0209_hide.jpg",
+      "answer": "exam_video_v15/video1/0209.jpg",
       "boxCount": 4,
       "time": 87.1,
       "video": "录屏1",
@@ -29466,7 +29455,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 88.0s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9210,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -29496,8 +29485,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0210_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0210.jpg",
+      "masked": "exam_video_v15/video1/0210_hide.jpg",
+      "answer": "exam_video_v15/video1/0210.jpg",
       "boxCount": 5,
       "time": 88.0,
       "video": "录屏1",
@@ -29516,7 +29505,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 88.3s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9211,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -29546,8 +29535,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0211_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0211.jpg",
+      "masked": "exam_video_v15/video1/0211_hide.jpg",
+      "answer": "exam_video_v15/video1/0211.jpg",
       "boxCount": 4,
       "time": 88.3,
       "video": "录屏1",
@@ -29566,7 +29555,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 88.6s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9212,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -29596,8 +29585,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0212_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0212.jpg",
+      "masked": "exam_video_v15/video1/0212_hide.jpg",
+      "answer": "exam_video_v15/video1/0212.jpg",
       "boxCount": 5,
       "time": 88.6,
       "video": "录屏1",
@@ -29620,7 +29609,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 88.9s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9213,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -29650,8 +29639,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0213_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0213.jpg",
+      "masked": "exam_video_v15/video1/0213_hide.jpg",
+      "answer": "exam_video_v15/video1/0213.jpg",
       "boxCount": 6,
       "time": 88.9,
       "video": "录屏1",
@@ -29675,7 +29664,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 89.2s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9214,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -29705,8 +29694,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0214_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0214.jpg",
+      "masked": "exam_video_v15/video1/0214_hide.jpg",
+      "answer": "exam_video_v15/video1/0214.jpg",
       "boxCount": 4,
       "time": 89.2,
       "video": "录屏1",
@@ -29730,7 +29719,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 89.9s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9215,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -29760,8 +29749,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0215_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0215.jpg",
+      "masked": "exam_video_v15/video1/0215_hide.jpg",
+      "answer": "exam_video_v15/video1/0215.jpg",
       "boxCount": 5,
       "time": 89.9,
       "video": "录屏1",
@@ -29787,7 +29776,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 90.2s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9216,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -29817,8 +29806,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0216_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0216.jpg",
+      "masked": "exam_video_v15/video1/0216_hide.jpg",
+      "answer": "exam_video_v15/video1/0216.jpg",
       "boxCount": 4,
       "time": 90.2,
       "video": "录屏1",
@@ -29843,7 +29832,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 90.5s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9217,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -29873,8 +29862,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0217_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0217.jpg",
+      "masked": "exam_video_v15/video1/0217_hide.jpg",
+      "answer": "exam_video_v15/video1/0217.jpg",
       "boxCount": 9,
       "time": 90.5,
       "video": "录屏1",
@@ -29900,7 +29889,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 91.1s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9218,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -29930,8 +29919,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0218_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0218.jpg",
+      "masked": "exam_video_v15/video1/0218_hide.jpg",
+      "answer": "exam_video_v15/video1/0218.jpg",
       "boxCount": 6,
       "time": 91.1,
       "video": "录屏1",
@@ -29955,7 +29944,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 91.4s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9219,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -29985,8 +29974,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0219_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0219.jpg",
+      "masked": "exam_video_v15/video1/0219_hide.jpg",
+      "answer": "exam_video_v15/video1/0219.jpg",
       "boxCount": 3,
       "time": 91.4,
       "video": "录屏1",
@@ -30009,7 +29998,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 91.7s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9220,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -30039,8 +30028,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0220_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0220.jpg",
+      "masked": "exam_video_v15/video1/0220_hide.jpg",
+      "answer": "exam_video_v15/video1/0220.jpg",
       "boxCount": 3,
       "time": 91.7,
       "video": "录屏1",
@@ -30063,7 +30052,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 92.0s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9221,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -30093,8 +30082,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0221_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0221.jpg",
+      "masked": "exam_video_v15/video1/0221_hide.jpg",
+      "answer": "exam_video_v15/video1/0221.jpg",
       "boxCount": 11,
       "time": 92.0,
       "video": "录屏1",
@@ -30125,7 +30114,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 92.3s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9222,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -30155,8 +30144,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0222_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0222.jpg",
+      "masked": "exam_video_v15/video1/0222_hide.jpg",
+      "answer": "exam_video_v15/video1/0222.jpg",
       "boxCount": 10,
       "time": 92.3,
       "video": "录屏1",
@@ -30187,7 +30176,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 92.6s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9223,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -30217,8 +30206,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0223_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0223.jpg",
+      "masked": "exam_video_v15/video1/0223_hide.jpg",
+      "answer": "exam_video_v15/video1/0223.jpg",
       "boxCount": 5,
       "time": 92.6,
       "video": "录屏1",
@@ -30243,7 +30232,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 93.3s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9224,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -30273,8 +30262,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0224_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0224.jpg",
+      "masked": "exam_video_v15/video1/0224_hide.jpg",
+      "answer": "exam_video_v15/video1/0224.jpg",
       "boxCount": 7,
       "time": 93.3,
       "video": "录屏1",
@@ -30299,7 +30288,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 93.9s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9225,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -30329,8 +30318,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0225_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0225.jpg",
+      "masked": "exam_video_v15/video1/0225_hide.jpg",
+      "answer": "exam_video_v15/video1/0225.jpg",
       "boxCount": 6,
       "time": 93.9,
       "video": "录屏1",
@@ -30354,7 +30343,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 94.5s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9226,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -30384,8 +30373,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0226_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0226.jpg",
+      "masked": "exam_video_v15/video1/0226_hide.jpg",
+      "answer": "exam_video_v15/video1/0226.jpg",
       "boxCount": 8,
       "time": 94.5,
       "video": "录屏1",
@@ -30397,7 +30386,6 @@ window.KNOWLEDGE_ITEMS = [
       "文件管理 ee",
       "1. Windows支持的常用文件系统有",
       "2. Windows默认文件系统为 ([[NTFS]])",
-      "3. exFAT全称为扩展FAT,是为了解决",
       "([[FAT32不支持B以上文件]]) 推出的文件系"
     ],
     "pagePlainText": "文件系统类型 wv\n文件管理 ee\n1. Windows支持的常用文件系统有\n(FAT32) 、(exFAT) 和 (NTFS) .\n2. Windows默认文件系统为 ( NTFS ) .\n3. exFAT全称为扩展FAT,是为了解决\n( FAT32不支持4GB以上文件 ) 推出的文件系\nfa | A Ly oe"
@@ -30411,7 +30399,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 94.8s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9227,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -30441,8 +30429,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0227_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0227.jpg",
+      "masked": "exam_video_v15/video1/0227_hide.jpg",
+      "answer": "exam_video_v15/video1/0227.jpg",
       "boxCount": 3,
       "time": 94.8,
       "video": "录屏1",
@@ -30465,7 +30453,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 95.1s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9228,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -30495,8 +30483,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0228_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0228.jpg",
+      "masked": "exam_video_v15/video1/0228_hide.jpg",
+      "answer": "exam_video_v15/video1/0228.jpg",
       "boxCount": 3,
       "time": 95.1,
       "video": "录屏1",
@@ -30520,7 +30508,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 95.4s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9229,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -30550,8 +30538,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0229_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0229.jpg",
+      "masked": "exam_video_v15/video1/0229_hide.jpg",
+      "answer": "exam_video_v15/video1/0229.jpg",
       "boxCount": 5,
       "time": 95.4,
       "video": "录屏1",
@@ -30575,7 +30563,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 95.7s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9230,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -30605,8 +30593,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0230_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0230.jpg",
+      "masked": "exam_video_v15/video1/0230_hide.jpg",
+      "answer": "exam_video_v15/video1/0230.jpg",
       "boxCount": 5,
       "time": 95.7,
       "video": "录屏1",
@@ -30631,7 +30619,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 96.0s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9231,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -30661,8 +30649,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0231_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0231.jpg",
+      "masked": "exam_video_v15/video1/0231_hide.jpg",
+      "answer": "exam_video_v15/video1/0231.jpg",
       "boxCount": 5,
       "time": 96.0,
       "video": "录屏1",
@@ -30673,8 +30661,7 @@ window.KNOWLEDGE_ITEMS = [
       "文件的删除 Ww",
       "1. 删除文件或文件夹可以选中后使用快捷键",
       "([[Delete]]),就将文件或文件夹放到了回收",
-      "站,若想越过回收站,直接永久删除,使用的",
-      "快捷键是([[Shift+Delete]])"
+      "站,若想越过回收站,直接永久删除,使用的"
     ],
     "pagePlainText": "文件的删除 Ww\n1. 删除文件或文件夹可以选中后使用快捷键\n(Delete) ,就将文件或文件夹放到了回收\n站,若想越过回收站,直接永久删除,使用的\n快捷键是( Shift+Delete ) ."
   },
@@ -30687,7 +30674,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 96.4s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9232,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -30717,8 +30704,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0232_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0232.jpg",
+      "masked": "exam_video_v15/video1/0232_hide.jpg",
+      "answer": "exam_video_v15/video1/0232.jpg",
       "boxCount": 4,
       "time": 96.4,
       "video": "录屏1",
@@ -30730,8 +30717,7 @@ window.KNOWLEDGE_ITEMS = [
       "文件管理 ae",
       "1 删除文件或文件夹可以选中后使用快捷刍",
       "([[Delete]]),就将文件或文件夹放到了回收",
-      "站,若想越过回收站,直接永久删除,使用的",
-      "快捷键是 ([[ShifttDelete]])"
+      "站,若想越过回收站,直接永久删除,使用的"
     ],
     "pagePlainText": "文件的删除 六\n文件管理 ae\n1 删除文件或文件夹可以选中后使用快捷刍\n(Delete) ,就将文件或文件夹放到了回收\n站,若想越过回收站,直接永久删除,使用的\n快捷键是 ( ShifttDelete ) .\n| A ay a"
   },
@@ -30744,7 +30730,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 96.7s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9233,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -30774,8 +30760,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0233_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0233.jpg",
+      "masked": "exam_video_v15/video1/0233_hide.jpg",
+      "answer": "exam_video_v15/video1/0233.jpg",
       "boxCount": 3,
       "time": 96.7,
       "video": "录屏1",
@@ -30797,7 +30783,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 97.3s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9234,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -30827,8 +30813,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0234_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0234.jpg",
+      "masked": "exam_video_v15/video1/0234_hide.jpg",
+      "answer": "exam_video_v15/video1/0234.jpg",
       "boxCount": 6,
       "time": 97.3,
       "video": "录屏1",
@@ -30837,9 +30823,7 @@ window.KNOWLEDGE_ITEMS = [
     "isVideoExam": true,
     "pageClozeTextLines": [
       "文件的复制与移动 Ww",
-      "文件管理 eke",
-      "1. 复制粘贴: ([[Ctrl+C]])、 ([[CtrlHV]])",
-      "2. 剪切粘贴: ([[CtrlHX]])、 ([[CtrlHV]])"
+      "文件管理 eke"
     ],
     "pagePlainText": "文件的复制与移动 Ww\n文件管理 eke\n1. 复制粘贴: (Ctrl+C) 、 (CtrlHV )\n2. 剪切粘贴: (CtrlHX) 、 (CtrlHV )"
   },
@@ -30852,7 +30836,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 97.9s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9235,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -30882,8 +30866,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0235_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0235.jpg",
+      "masked": "exam_video_v15/video1/0235_hide.jpg",
+      "answer": "exam_video_v15/video1/0235.jpg",
       "boxCount": 5,
       "time": 97.9,
       "video": "录屏1",
@@ -30906,7 +30890,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 98.5s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9236,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -30936,8 +30920,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0236_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0236.jpg",
+      "masked": "exam_video_v15/video1/0236_hide.jpg",
+      "answer": "exam_video_v15/video1/0236.jpg",
       "boxCount": 5,
       "time": 98.5,
       "video": "录屏1",
@@ -30963,7 +30947,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 98.8s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9237,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -30993,8 +30977,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0237_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0237.jpg",
+      "masked": "exam_video_v15/video1/0237_hide.jpg",
+      "answer": "exam_video_v15/video1/0237.jpg",
       "boxCount": 4,
       "time": 98.8,
       "video": "录屏1",
@@ -31017,7 +31001,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 99.1s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9238,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -31047,8 +31031,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0238_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0238.jpg",
+      "masked": "exam_video_v15/video1/0238_hide.jpg",
+      "answer": "exam_video_v15/video1/0238.jpg",
       "boxCount": 4,
       "time": 99.1,
       "video": "录屏1",
@@ -31072,7 +31056,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 99.5s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9239,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -31102,8 +31086,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0239_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0239.jpg",
+      "masked": "exam_video_v15/video1/0239_hide.jpg",
+      "answer": "exam_video_v15/video1/0239.jpg",
       "boxCount": 6,
       "time": 99.5,
       "video": "录屏1",
@@ -31127,7 +31111,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 99.8s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9240,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -31157,8 +31141,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0240_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0240.jpg",
+      "masked": "exam_video_v15/video1/0240_hide.jpg",
+      "answer": "exam_video_v15/video1/0240.jpg",
       "boxCount": 7,
       "time": 99.8,
       "video": "录屏1",
@@ -31169,7 +31153,6 @@ window.KNOWLEDGE_ITEMS = [
       "第二章操作系统 2.3 Windows简介",
       "Windows与CPU与应用程序位数的",
       "比较 w",
-      "1. ([[CPU位数]]) = ([[Windows位数]]) = (应",
       "用程序位数)"
     ],
     "pagePlainText": "第二章 操作系统 | 2.3 Windows简介\nWindows与CPU与应用程序位数的\n比较 w\n1. (CPU位数) = ( Windows位数) = (应\n用程序位数 ) .\n(ee A F Pa oe"
@@ -31183,7 +31166,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 100.1s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9241,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -31213,8 +31196,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0241_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0241.jpg",
+      "masked": "exam_video_v15/video1/0241_hide.jpg",
+      "answer": "exam_video_v15/video1/0241.jpg",
       "boxCount": 6,
       "time": 100.1,
       "video": "录屏1",
@@ -31237,7 +31220,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 100.4s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9242,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -31267,8 +31250,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0242_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0242.jpg",
+      "masked": "exam_video_v15/video1/0242_hide.jpg",
+      "answer": "exam_video_v15/video1/0242.jpg",
       "boxCount": 5,
       "time": 100.4,
       "video": "录屏1",
@@ -31278,7 +31261,7 @@ window.KNOWLEDGE_ITEMS = [
     "pageClozeTextLines": [
       "第二章操作系统 / 2.3 Windows简介",
       "Windows的启动与退出 Ww",
-      "1. 开机的一般流程: 加电一([[BR]]) 一(启",
+      "1. 开机的一般流程: 加电一([[图灵]]) 一(启",
       "动引导程序) 一加载操作系统一登录操作系"
     ],
     "pagePlainText": "第二章 操作系统 / 2.3 Windows简介\nWindows的启动与退出 Ww\n1. 开机的一般流程: 加电一( BR) 一(启\n动引导程序 ) 一加载操作系统一登录操作系\nts | A F cP ae"
@@ -31292,7 +31275,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 100.7s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9243,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -31322,8 +31305,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0243_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0243.jpg",
+      "masked": "exam_video_v15/video1/0243_hide.jpg",
+      "answer": "exam_video_v15/video1/0243.jpg",
       "boxCount": 4,
       "time": 100.7,
       "video": "录屏1",
@@ -31346,7 +31329,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 101.3s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9244,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -31376,8 +31359,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0244_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0244.jpg",
+      "masked": "exam_video_v15/video1/0244_hide.jpg",
+      "answer": "exam_video_v15/video1/0244.jpg",
       "boxCount": 4,
       "time": 101.3,
       "video": "录屏1",
@@ -31387,7 +31370,7 @@ window.KNOWLEDGE_ITEMS = [
     "pageClozeTextLines": [
       "第二章操作系统 / 2.3 Windows简介",
       "任务栏 a",
-      "1. 任务栏一般位于([[桌面底端]]),包含“开始”",
+      "1. 任务栏一般位于([[桌面底端]]),包含开始",
       "按钮、 ([[快捷启动区]])、程序按钮区、系统通",
       "ABA ([[显示桌面按钮]])"
     ],
@@ -31402,7 +31385,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 101.9s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9245,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -31432,8 +31415,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0245_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0245.jpg",
+      "masked": "exam_video_v15/video1/0245_hide.jpg",
+      "answer": "exam_video_v15/video1/0245.jpg",
       "boxCount": 5,
       "time": 101.9,
       "video": "录屏1",
@@ -31458,7 +31441,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 102.9s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9246,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -31488,8 +31471,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0246_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0246.jpg",
+      "masked": "exam_video_v15/video1/0246_hide.jpg",
+      "answer": "exam_video_v15/video1/0246.jpg",
       "boxCount": 4,
       "time": 102.9,
       "video": "录屏1",
@@ -31513,7 +31496,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 103.2s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9247,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -31543,8 +31526,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0247_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0247.jpg",
+      "masked": "exam_video_v15/video1/0247_hide.jpg",
+      "answer": "exam_video_v15/video1/0247.jpg",
       "boxCount": 4,
       "time": 103.2,
       "video": "录屏1",
@@ -31569,7 +31552,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 103.5s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9248,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -31599,8 +31582,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0248_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0248.jpg",
+      "masked": "exam_video_v15/video1/0248_hide.jpg",
+      "answer": "exam_video_v15/video1/0248.jpg",
       "boxCount": 4,
       "time": 103.5,
       "video": "录屏1",
@@ -31624,7 +31607,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 103.8s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9249,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -31654,8 +31637,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0249_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0249.jpg",
+      "masked": "exam_video_v15/video1/0249_hide.jpg",
+      "answer": "exam_video_v15/video1/0249.jpg",
       "boxCount": 4,
       "time": 103.8,
       "video": "录屏1",
@@ -31679,7 +31662,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 104.1s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9250,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -31709,8 +31692,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0250_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0250.jpg",
+      "masked": "exam_video_v15/video1/0250_hide.jpg",
+      "answer": "exam_video_v15/video1/0250.jpg",
       "boxCount": 6,
       "time": 104.1,
       "video": "录屏1",
@@ -31729,7 +31712,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 104.7s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9251,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -31759,8 +31742,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0251_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0251.jpg",
+      "masked": "exam_video_v15/video1/0251_hide.jpg",
+      "answer": "exam_video_v15/video1/0251.jpg",
       "boxCount": 6,
       "time": 104.7,
       "video": "录屏1",
@@ -31769,9 +31752,7 @@ window.KNOWLEDGE_ITEMS = [
     "isVideoExam": true,
     "pageClozeTextLines": [
       "第二章操作系统 / 2.3 Windows简介",
-      "快捷键",
-      "1.([[截取整个屏幕]]) : Printreen",
-      "截取活动窗口: ([[Alt+Printreen]])"
+      "快捷键"
     ],
     "pagePlainText": "第二章 操作系统 / 2.3 Windows简介\n快捷键\nAR 朗 w\n1.( 截取整个屏幕 ) : Printscreen;\n截取活动窗口: ( Alt+Printscreen ) ;\n2. ( 复制) : Ctrl+C;\n( S39) ) : CtrlHX.\n| A fey oe"
   },
@@ -31784,7 +31765,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 105.0s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9252,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -31814,8 +31795,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0252_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0252.jpg",
+      "masked": "exam_video_v15/video1/0252_hide.jpg",
+      "answer": "exam_video_v15/video1/0252.jpg",
       "boxCount": 9,
       "time": 105.0,
       "video": "录屏1",
@@ -31824,17 +31805,15 @@ window.KNOWLEDGE_ITEMS = [
     "isVideoExam": true,
     "pageClozeTextLines": [
       "不进回收站的情况 Ww",
-      "1在Windows的“资源管理器”窗口中,当选定",
-      "文件夹并按了 ([[Shift+Delete]]) 后,所选定的",
-      "文件夹将被删除但不放入“回收站”",
+      "1在Windows的资源管理器窗口中,当选定",
+      "文件夹将被删除但不放入回收站",
       "2. 以下几种情况删除的文件不进入回收站",
       "加删除 ([[移动硬盘]]) 上的文件",
       "@ ([[回收站]]) 空间已满",
       "加设置了删除后不放入回收站",
       "ORAS ([[内存]]) 回收站空间",
       "OWT ([[DOS]]) 方式或者 ([[网络方式]]) 删除",
-      "的文件",
-      "加使用快捷键Shift+delet删除的文件"
+      "的文件"
     ],
     "pagePlainText": "不进回收站的情况 Ww\n1在Windows的“资源管理器”窗口中,当选定\n文件夹并按了 ( Shift+Delete ) 后,所选定的\n文件夹将被删除但不放入“回收站”.\n2. 以下几种情况删除的文件不进入回收站:\n加删除 ( 移动硬盘 ) 上的文件;\n@ ( 回收站 ) 空间已满;\n加设置了删除后不放入回收站;\nORAS (AF) 回收站空间;\nOWT (DOS) 方式或者 ( 网络方式 ) 删除\n的文件;\n加使用快捷键Shift+delet删除的文件.\n门 A Gr a"
   },
@@ -31847,7 +31826,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 105.3s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9253,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -31877,8 +31856,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0253_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0253.jpg",
+      "masked": "exam_video_v15/video1/0253_hide.jpg",
+      "answer": "exam_video_v15/video1/0253.jpg",
       "boxCount": 10,
       "time": 105.3,
       "video": "录屏1",
@@ -31888,9 +31867,8 @@ window.KNOWLEDGE_ITEMS = [
     "pageClozeTextLines": [
       "第二章操作天 2.3 Windows简",
       "不进回收站的情况",
-      "1. 在Windows的“资源管理器窗口中,当选定",
-      "文件夹并按了 ([[Shift+Delete]]) 后,所选定的",
-      "文件夹将被删除但不放入“回收站”",
+      "1. 在Windows的资源管理器窗口中,当选定",
+      "文件夹将被删除但不放入回收站",
       "2. 以下几种情况删除的文件不进入回收站",
       "名删除 ([[移动硬盘]]) 上的文件",
       "@ ([[回收站]]) 空间已满",
@@ -31898,7 +31876,6 @@ window.KNOWLEDGE_ITEMS = [
       "@文件本身 ([[内存]]) 回收站空间",
       "OM ([[DOS]]) 方式或者 ([[网络方式]]) 删除",
       "的文件",
-      "@@使用快捷键Shift+delet删除的文件",
       "A 人 a"
     ],
     "pagePlainText": "第二章 操作天 2.3 Windows简\n不进回收站的情况\n1. 在Windows的“资源管理器\"窗口中,当选定\n文件夹并按了 ( Shift+Delete ) 后,所选定的\n文件夹将被删除但不放入“回收站”.\n2. 以下几种情况删除的文件不进入回收站:\n名删除 ( 移动硬盘 ) 上的文件;\n@ ( 回收站 ) 空间已满;\n图设置了删除后不放入回收站;\n@文件本身 (AF) 回收站空间;\nOM (DOS) 方式或者 ( 网络方式 ) 删除\n的文件;\n@@使用快捷键Shift+delet删除的文件.\n\"A 人 a"
@@ -31912,7 +31889,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 105.7s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9254,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -31942,8 +31919,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0254_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0254.jpg",
+      "masked": "exam_video_v15/video1/0254_hide.jpg",
+      "answer": "exam_video_v15/video1/0254.jpg",
       "boxCount": 5,
       "time": 105.7,
       "video": "录屏1",
@@ -31967,7 +31944,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 106.0s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9255,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -31997,8 +31974,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0255_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0255.jpg",
+      "masked": "exam_video_v15/video1/0255_hide.jpg",
+      "answer": "exam_video_v15/video1/0255.jpg",
       "boxCount": 5,
       "time": 106.0,
       "video": "录屏1",
@@ -32023,7 +32000,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 106.3s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9256,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -32053,8 +32030,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0256_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0256.jpg",
+      "masked": "exam_video_v15/video1/0256_hide.jpg",
+      "answer": "exam_video_v15/video1/0256.jpg",
       "boxCount": 6,
       "time": 106.3,
       "video": "录屏1",
@@ -32077,7 +32054,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 106.6s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9257,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -32107,8 +32084,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0257_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0257.jpg",
+      "masked": "exam_video_v15/video1/0257_hide.jpg",
+      "answer": "exam_video_v15/video1/0257.jpg",
       "boxCount": 6,
       "time": 106.6,
       "video": "录屏1",
@@ -32133,7 +32110,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 106.9s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9258,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -32163,8 +32140,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0258_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0258.jpg",
+      "masked": "exam_video_v15/video1/0258_hide.jpg",
+      "answer": "exam_video_v15/video1/0258.jpg",
       "boxCount": 4,
       "time": 106.9,
       "video": "录屏1",
@@ -32188,7 +32165,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 107.2s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9259,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -32218,8 +32195,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0259_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0259.jpg",
+      "masked": "exam_video_v15/video1/0259_hide.jpg",
+      "answer": "exam_video_v15/video1/0259.jpg",
       "boxCount": 4,
       "time": 107.2,
       "video": "录屏1",
@@ -32242,7 +32219,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 107.5s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9260,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -32272,8 +32249,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0260_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0260.jpg",
+      "masked": "exam_video_v15/video1/0260_hide.jpg",
+      "answer": "exam_video_v15/video1/0260.jpg",
       "boxCount": 5,
       "time": 107.5,
       "video": "录屏1",
@@ -32296,7 +32273,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 107.8s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9261,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -32326,8 +32303,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0261_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0261.jpg",
+      "masked": "exam_video_v15/video1/0261_hide.jpg",
+      "answer": "exam_video_v15/video1/0261.jpg",
       "boxCount": 4,
       "time": 107.8,
       "video": "录屏1",
@@ -32351,7 +32328,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 108.1s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9262,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -32381,8 +32358,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0262_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0262.jpg",
+      "masked": "exam_video_v15/video1/0262_hide.jpg",
+      "answer": "exam_video_v15/video1/0262.jpg",
       "boxCount": 4,
       "time": 108.1,
       "video": "录屏1",
@@ -32392,8 +32369,7 @@ window.KNOWLEDGE_ITEMS = [
     "pageClozeTextLines": [
       "打开任务管理器的方法 wv",
       "王务管理器 kaKK",
-      "1. 直接打开任务管理器的方法是使用快捷键",
-      "([[Ctrl+Shift+E]]),间接打开的快捷键是"
+      "1. 直接打开任务管理器的方法是使用快捷键"
     ],
     "pagePlainText": "打开任务管理器的方法 wv\n王务管理器 kaKK\n1. 直接打开任务管理器的方法是使用快捷键\n( Ctrl+Shift+Esc ) ,间接打开的快捷键是\n( Ctrl+AltrDelete ) .\n| a) A Gy) ae"
   },
@@ -32406,7 +32382,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 108.4s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9263,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -32436,8 +32412,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0263_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0263.jpg",
+      "masked": "exam_video_v15/video1/0263_hide.jpg",
+      "answer": "exam_video_v15/video1/0263.jpg",
       "boxCount": 8,
       "time": 108.4,
       "video": "录屏1",
@@ -32463,7 +32439,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 108.8s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9264,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -32493,8 +32469,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0264_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0264.jpg",
+      "masked": "exam_video_v15/video1/0264_hide.jpg",
+      "answer": "exam_video_v15/video1/0264.jpg",
       "boxCount": 9,
       "time": 108.8,
       "video": "录屏1",
@@ -32505,7 +32481,6 @@ window.KNOWLEDGE_ITEMS = [
       "第三章办公自动化131 word",
       "标尺 w",
       "1. 最直观地调整缩进的方式是使用 ([[标尺]])",
-      "2. 标尺分为 ([[ACHR]]) 和 ([[BERR]])",
       "3. 标尺上包含四个滑块,分别是 (BT",
       "进)、 ([[悬挂缩进]])、左缩进和右缩进"
     ],
@@ -32520,7 +32495,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 109.1s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9265,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -32550,8 +32525,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0265_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0265.jpg",
+      "masked": "exam_video_v15/video1/0265_hide.jpg",
+      "answer": "exam_video_v15/video1/0265.jpg",
       "boxCount": 4,
       "time": 109.1,
       "video": "录屏1",
@@ -32575,7 +32550,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 109.7s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9266,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -32605,8 +32580,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0266_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0266.jpg",
+      "masked": "exam_video_v15/video1/0266_hide.jpg",
+      "answer": "exam_video_v15/video1/0266.jpg",
       "boxCount": 6,
       "time": 109.7,
       "video": "录屏1",
@@ -32616,7 +32591,6 @@ window.KNOWLEDGE_ITEMS = [
     "pageClozeTextLines": [
       "换行标记和段落标记 wv",
       "1. 只换行不分段的换行操作叫做 ([[软回车]])",
-      "快捷键是 ([[Shift+Enter]])",
       "2. 换行又分段的操作叫做 ([[硬回车]]),快捷"
     ],
     "pagePlainText": "换行标记和段落标记 wv\n1. 只换行不分段的换行操作叫做 ( 软回车 ) ,\n快捷键是 ( Shift+Enter) .\n2. 换行又分段的操作叫做 ( 硬回车 ) ,快捷\n键 (Enter) .\n) “As ty aes"
@@ -32630,7 +32604,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 110.0s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9267,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -32660,8 +32634,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0267_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0267.jpg",
+      "masked": "exam_video_v15/video1/0267_hide.jpg",
+      "answer": "exam_video_v15/video1/0267.jpg",
       "boxCount": 7,
       "time": 110.0,
       "video": "录屏1",
@@ -32672,7 +32646,6 @@ window.KNOWLEDGE_ITEMS = [
       "第三章办公自动化1 3.1 word",
       "换行标记和段落标记 wv",
       "1. 只换行不分段的换行操作叫做 ([[软回车]])",
-      "快捷键是 ([[Shift+Enter]])",
       "2. 换行又分段的操作叫做 ([[硬回车]]),快捷"
     ],
     "pagePlainText": "第三章 办公自动化1 3.1 word\n换行标记和段落标记 wv\n1. 只换行不分段的换行操作叫做 ( 软回车 ) ,\n快捷键是 ( Shift+Enter ) .\n2. 换行又分段的操作叫做 ( 硬回车 ) ,快捷\n键 (Enter) .\n图|] & fe) a"
@@ -32686,7 +32659,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 110.6s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9268,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -32716,8 +32689,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0268_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0268.jpg",
+      "masked": "exam_video_v15/video1/0268_hide.jpg",
+      "answer": "exam_video_v15/video1/0268.jpg",
       "boxCount": 3,
       "time": 110.6,
       "video": "录屏1",
@@ -32741,7 +32714,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 110.9s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9269,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -32771,8 +32744,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0269_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0269.jpg",
+      "masked": "exam_video_v15/video1/0269_hide.jpg",
+      "answer": "exam_video_v15/video1/0269.jpg",
       "boxCount": 4,
       "time": 110.9,
       "video": "录屏1",
@@ -32782,7 +32755,6 @@ window.KNOWLEDGE_ITEMS = [
     "pageClozeTextLines": [
       "第三章办公自动化 / 3.1 word",
       "保存文档人",
-      "word基本把作 dete",
       "1. 保存文档的快捷键是([[Ctrl+S]])"
     ],
     "pagePlainText": "第三章 办公自动化 / 3.1 word\n保存文档 人\nword基本把作 dete\n1. 保存文档的快捷键是( Ctrl+S ) .\nos Ce 人 oe"
@@ -32796,7 +32768,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 111.2s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9270,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -32826,8 +32798,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0270_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0270.jpg",
+      "masked": "exam_video_v15/video1/0270_hide.jpg",
+      "answer": "exam_video_v15/video1/0270.jpg",
       "boxCount": 5,
       "time": 111.2,
       "video": "录屏1",
@@ -32852,7 +32824,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 111.5s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9271,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -32882,8 +32854,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0271_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0271.jpg",
+      "masked": "exam_video_v15/video1/0271_hide.jpg",
+      "answer": "exam_video_v15/video1/0271.jpg",
       "boxCount": 4,
       "time": 111.5,
       "video": "录屏1",
@@ -32907,7 +32879,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 111.9s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9272,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -32937,8 +32909,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0272_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0272.jpg",
+      "masked": "exam_video_v15/video1/0272_hide.jpg",
+      "answer": "exam_video_v15/video1/0272.jpg",
       "boxCount": 3,
       "time": 111.9,
       "video": "录屏1",
@@ -32957,7 +32929,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 112.2s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9273,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -32987,8 +32959,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0273_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0273.jpg",
+      "masked": "exam_video_v15/video1/0273_hide.jpg",
+      "answer": "exam_video_v15/video1/0273.jpg",
       "boxCount": 3,
       "time": 112.2,
       "video": "录屏1",
@@ -33007,7 +32979,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 113.4s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9274,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -33037,8 +33009,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0274_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0274.jpg",
+      "masked": "exam_video_v15/video1/0274_hide.jpg",
+      "answer": "exam_video_v15/video1/0274.jpg",
       "boxCount": 13,
       "time": 113.4,
       "video": "录屏1",
@@ -33047,9 +33019,7 @@ window.KNOWLEDGE_ITEMS = [
     "isVideoExam": true,
     "pageClozeTextLines": [
       "选择文本要",
-      "word基本操作 tewe",
       "1. 文本选定区: BH ([[选行]]) ; 双击 (选",
-      "段) ; SH ORS) ; ([[Ctrl+单击]]) 选",
       "2. 文本编辑区: BH ([[插入光标]]) ; 双击",
       "([[选词]]) Sth ([[选段]])",
       "3. 将鼠标移动到文档左边,双击空白处的功能",
@@ -33066,7 +33036,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 113.7s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9275,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -33096,8 +33066,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0275_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0275.jpg",
+      "masked": "exam_video_v15/video1/0275_hide.jpg",
+      "answer": "exam_video_v15/video1/0275.jpg",
       "boxCount": 3,
       "time": 113.7,
       "video": "录屏1",
@@ -33106,8 +33076,7 @@ window.KNOWLEDGE_ITEMS = [
     "isVideoExam": true,
     "pageClozeTextLines": [
       "新建文档 a",
-      "1新建空折文档的快捷键是 ([[CtrN]])",
-      "2. Word文档的后旨名是 ([[.docx]])"
+      "1新建空折文档的快捷键是 ([[CtrN]])"
     ],
     "pagePlainText": "新建文档 a\n1新建空折文档的快捷键是 ( CtrN ) .\n2. Word文档的后旨名是 ( .docx ) .\nc) A (oc) oo"
   },
@@ -33120,7 +33089,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 114.0s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9276,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -33150,8 +33119,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0276_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0276.jpg",
+      "masked": "exam_video_v15/video1/0276_hide.jpg",
+      "answer": "exam_video_v15/video1/0276.jpg",
       "boxCount": 3,
       "time": 114.0,
       "video": "录屏1",
@@ -33162,8 +33131,7 @@ window.KNOWLEDGE_ITEMS = [
       "第三章办公自动化1 3.1 word",
       "新建文档 wv",
       "vord基本操作 ek",
-      "1. 新建空白文档的快捷键是(([[Ctrl+yN]])",
-      "2. Word文档的后缀名是 ([[docx]])"
+      "1. 新建空白文档的快捷键是(([[Ctrl+yN]])"
     ],
     "pagePlainText": "第三章 办公自动化1 3.1 word\n新建文档 wv\nvord基本操作 ek\n1. 新建空白文档的快捷键是(( Ctrl+yN ) .\n2. Word文档的后缀名是 (docx) .\n; | A GY a"
   },
@@ -33176,7 +33144,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 114.9s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9277,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -33206,8 +33174,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0277_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0277.jpg",
+      "masked": "exam_video_v15/video1/0277_hide.jpg",
+      "answer": "exam_video_v15/video1/0277.jpg",
       "boxCount": 3,
       "time": 114.9,
       "video": "录屏1",
@@ -33231,7 +33199,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 115.3s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9278,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -33261,8 +33229,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0278_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0278.jpg",
+      "masked": "exam_video_v15/video1/0278_hide.jpg",
+      "answer": "exam_video_v15/video1/0278.jpg",
       "boxCount": 4,
       "time": 115.3,
       "video": "录屏1",
@@ -33272,7 +33240,6 @@ window.KNOWLEDGE_ITEMS = [
     "pageClozeTextLines": [
       "BEM 办公自动化1 3 word",
       "关闭文档 wv",
-      "vard基本操作 Heke",
       "1. 关闭文档不退出Word程序的快捷键是",
       "2. ([[关闭文档并退出Word程序]]) 的快捷键是"
     ],
@@ -33287,7 +33254,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 115.6s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9279,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -33317,8 +33284,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0279_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0279.jpg",
+      "masked": "exam_video_v15/video1/0279_hide.jpg",
+      "answer": "exam_video_v15/video1/0279.jpg",
       "boxCount": 5,
       "time": 115.6,
       "video": "录屏1",
@@ -33343,7 +33310,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 116.2s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9280,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -33373,8 +33340,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0280_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0280.jpg",
+      "masked": "exam_video_v15/video1/0280_hide.jpg",
+      "answer": "exam_video_v15/video1/0280.jpg",
       "boxCount": 2,
       "time": 116.2,
       "video": "录屏1",
@@ -33398,7 +33365,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 116.8s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9281,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -33428,8 +33395,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0281_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0281.jpg",
+      "masked": "exam_video_v15/video1/0281_hide.jpg",
+      "answer": "exam_video_v15/video1/0281.jpg",
       "boxCount": 3,
       "time": 116.8,
       "video": "录屏1",
@@ -33442,7 +33409,7 @@ window.KNOWLEDGE_ITEMS = [
       "ES ([[自动修改]]) 错误内容,拼写检查仅",
       "([[标注错误]])",
       "2. 使用Word时,在输入过程中,用户输入",
-      "“南,文档中出现“南开大学.这是利用了工",
+      "南,文档中出现南开大学.这是利用了工",
       "具菜单中的([[自动更正]]) 功能"
     ],
     "pagePlainText": "自动更正 wv\n1. 自动更正与自动拼写检查的区别是: 自动更\nES ( 自动修改 ) 错误内容,拼写检查仅\n( 标注错误 ) .\n2. 使用Word时,在输入过程中,用户输入\n“南\",文档中出现“南开大学\".这是利用了\"工\n具\"菜单中的( 自动更正 ) 功能.\n; | A GY a"
@@ -33456,7 +33423,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 117.4s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9282,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -33486,8 +33453,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0282_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0282.jpg",
+      "masked": "exam_video_v15/video1/0282_hide.jpg",
+      "answer": "exam_video_v15/video1/0282.jpg",
       "boxCount": 9,
       "time": 117.4,
       "video": "录屏1",
@@ -33512,7 +33479,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 118.0s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9283,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -33542,8 +33509,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0283_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0283.jpg",
+      "masked": "exam_video_v15/video1/0283_hide.jpg",
+      "answer": "exam_video_v15/video1/0283.jpg",
       "boxCount": 4,
       "time": 118.0,
       "video": "录屏1",
@@ -33567,7 +33534,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 118.7s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9284,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -33597,8 +33564,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0284_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0284.jpg",
+      "masked": "exam_video_v15/video1/0284_hide.jpg",
+      "answer": "exam_video_v15/video1/0284.jpg",
       "boxCount": 4,
       "time": 118.7,
       "video": "录屏1",
@@ -33607,7 +33574,6 @@ window.KNOWLEDGE_ITEMS = [
     "isVideoExam": true,
     "pageClozeTextLines": [
       "查找与高级查找 wv",
-      "word开始选项卡 tek tok",
       "1. 高级查找中可以进行的设置包括 (字体格",
       "式) 和 ([[特殊格式]])"
     ],
@@ -33622,7 +33588,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 119.0s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9285,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -33652,8 +33618,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0285_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0285.jpg",
+      "masked": "exam_video_v15/video1/0285_hide.jpg",
+      "answer": "exam_video_v15/video1/0285.jpg",
       "boxCount": 4,
       "time": 119.0,
       "video": "录屏1",
@@ -33663,7 +33629,6 @@ window.KNOWLEDGE_ITEMS = [
     "pageClozeTextLines": [
       "第三章办公自动化/ 3.1 word",
       "项目符号全",
-      "ord开始选项卡 Wete ete",
       "1 ([[项目符号]]) Fs 以 ([[段落]]) 为单位",
       "每段设置相同的符号、字符或图片"
     ],
@@ -33678,7 +33643,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 119.3s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9286,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -33708,8 +33673,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0286_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0286.jpg",
+      "masked": "exam_video_v15/video1/0286_hide.jpg",
+      "answer": "exam_video_v15/video1/0286.jpg",
       "boxCount": 4,
       "time": 119.3,
       "video": "录屏1",
@@ -33719,8 +33684,6 @@ window.KNOWLEDGE_ITEMS = [
     "pageClozeTextLines": [
       "第三章办公自动化1 3.1 word",
       "项目符号 a",
-      "Word开始选项卡 teweiew",
-      "1 ([[MESS]]) FS: 以 ([[eee]]) 为单位",
       "每段设置相同的符号、字符或图片"
     ],
     "pagePlainText": "第三章 办公自动化1 3.1 word\n项目符号 a\nWord开始选项卡 teweiew\n1 (MESS) FS: 以 (eee) 为单位,\n每段设置相同的符号、字符或图片.\nTi An eo a"
@@ -33734,7 +33697,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 119.6s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9287,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -33764,8 +33727,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0287_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0287.jpg",
+      "masked": "exam_video_v15/video1/0287_hide.jpg",
+      "answer": "exam_video_v15/video1/0287.jpg",
       "boxCount": 5,
       "time": 119.6,
       "video": "录屏1",
@@ -33775,7 +33738,6 @@ window.KNOWLEDGE_ITEMS = [
     "pageClozeTextLines": [
       "第三章办公自动化1 3.1 word",
       "多级列表",
-      "Word开始选项卡 te te wea w",
       "1. ([[多级列表]]) Fe ([[标题层次]]) @",
       "号,最多 ([[9个级别]])"
     ],
@@ -33790,7 +33752,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 119.9s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9288,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -33820,8 +33782,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0288_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0288.jpg",
+      "masked": "exam_video_v15/video1/0288_hide.jpg",
+      "answer": "exam_video_v15/video1/0288.jpg",
       "boxCount": 5,
       "time": 119.9,
       "video": "录屏1",
@@ -33831,7 +33793,6 @@ window.KNOWLEDGE_ITEMS = [
     "pageClozeTextLines": [
       "第三章办公自动化 / 3.1 word",
       "多级列表有",
-      "word开始选项卡 tte tm",
       "1.,([[多级列表]]) FF: 按 (标题层次 ta",
       "号,最多 ([[9个级别]])"
     ],
@@ -33846,7 +33807,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 120.2s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9289,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -33876,8 +33837,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0289_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0289.jpg",
+      "masked": "exam_video_v15/video1/0289_hide.jpg",
+      "answer": "exam_video_v15/video1/0289.jpg",
       "boxCount": 3,
       "time": 120.2,
       "video": "录屏1",
@@ -33900,7 +33861,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 120.5s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9290,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -33930,8 +33891,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0290_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0290.jpg",
+      "masked": "exam_video_v15/video1/0290_hide.jpg",
+      "answer": "exam_video_v15/video1/0290.jpg",
       "boxCount": 4,
       "time": 120.5,
       "video": "录屏1",
@@ -33941,7 +33902,6 @@ window.KNOWLEDGE_ITEMS = [
     "pageClozeTextLines": [
       "第三章办公自动化13.1 word",
       "中文版式-合并字符 wv",
-      "word开始选项卡 toate",
       "1. 合并字符 ([[最多合并6个字符]]),合并后",
       "([[占一个汉字]]) 大小"
     ],
@@ -33956,7 +33916,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 121.8s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9291,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -33986,8 +33946,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0291_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0291.jpg",
+      "masked": "exam_video_v15/video1/0291_hide.jpg",
+      "answer": "exam_video_v15/video1/0291.jpg",
       "boxCount": 16,
       "time": 121.8,
       "video": "录屏1",
@@ -34020,7 +33980,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 122.1s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9292,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -34050,8 +34010,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0292_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0292.jpg",
+      "masked": "exam_video_v15/video1/0292_hide.jpg",
+      "answer": "exam_video_v15/video1/0292.jpg",
       "boxCount": 13,
       "time": 122.1,
       "video": "录屏1",
@@ -34070,7 +34030,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 122.7s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9293,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -34100,8 +34060,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0293_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0293.jpg",
+      "masked": "exam_video_v15/video1/0293_hide.jpg",
+      "answer": "exam_video_v15/video1/0293.jpg",
       "boxCount": 14,
       "time": 122.7,
       "video": "录屏1",
@@ -34120,7 +34080,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 123.0s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9294,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -34150,8 +34110,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0294_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0294.jpg",
+      "masked": "exam_video_v15/video1/0294_hide.jpg",
+      "answer": "exam_video_v15/video1/0294.jpg",
       "boxCount": 12,
       "time": 123.0,
       "video": "录屏1",
@@ -34170,7 +34130,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 123.6s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9295,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -34200,8 +34160,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0295_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0295.jpg",
+      "masked": "exam_video_v15/video1/0295_hide.jpg",
+      "answer": "exam_video_v15/video1/0295.jpg",
       "boxCount": 3,
       "time": 123.6,
       "video": "录屏1",
@@ -34220,7 +34180,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 123.9s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9296,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -34250,8 +34210,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0296_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0296.jpg",
+      "masked": "exam_video_v15/video1/0296_hide.jpg",
+      "answer": "exam_video_v15/video1/0296.jpg",
       "boxCount": 5,
       "time": 123.9,
       "video": "录屏1",
@@ -34270,7 +34230,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 124.2s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9297,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -34300,8 +34260,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0297_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0297.jpg",
+      "masked": "exam_video_v15/video1/0297_hide.jpg",
+      "answer": "exam_video_v15/video1/0297.jpg",
       "boxCount": 5,
       "time": 124.2,
       "video": "录屏1",
@@ -34320,7 +34280,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 124.6s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9298,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -34350,8 +34310,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0298_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0298.jpg",
+      "masked": "exam_video_v15/video1/0298_hide.jpg",
+      "answer": "exam_video_v15/video1/0298.jpg",
       "boxCount": 6,
       "time": 124.6,
       "video": "录屏1",
@@ -34370,7 +34330,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 125.2s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9299,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -34400,8 +34360,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0299_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0299.jpg",
+      "masked": "exam_video_v15/video1/0299_hide.jpg",
+      "answer": "exam_video_v15/video1/0299.jpg",
       "boxCount": 4,
       "time": 125.2,
       "video": "录屏1",
@@ -34420,7 +34380,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 125.5s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9300,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -34450,8 +34410,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0300_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0300.jpg",
+      "masked": "exam_video_v15/video1/0300_hide.jpg",
+      "answer": "exam_video_v15/video1/0300.jpg",
       "boxCount": 3,
       "time": 125.5,
       "video": "录屏1",
@@ -34470,7 +34430,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 125.8s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9301,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -34500,8 +34460,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0301_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0301.jpg",
+      "masked": "exam_video_v15/video1/0301_hide.jpg",
+      "answer": "exam_video_v15/video1/0301.jpg",
       "boxCount": 3,
       "time": 125.8,
       "video": "录屏1",
@@ -34520,7 +34480,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 126.7s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9302,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -34550,8 +34510,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0302_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0302.jpg",
+      "masked": "exam_video_v15/video1/0302_hide.jpg",
+      "answer": "exam_video_v15/video1/0302.jpg",
       "boxCount": 6,
       "time": 126.7,
       "video": "录屏1",
@@ -34568,7 +34528,7 @@ window.KNOWLEDGE_ITEMS = [
       "第四章网络",
       "第五章数据",
       "第六章多召",
-      "nr “ a 第七章计算"
+      "nr a 第七章计算"
     ],
     "pagePlainText": "体样式 科学计\nd 先项卡 ee mH\n字形设置包括 ( 加粗) 、 ( 倾斜 ) lg\n下划线 ) .\n> 1.2 Hi\n> 1.3 计算\n> 1.4 its\n> 1.5 +9\n> 第二章 操作\n第三章 办公\n> 3.1wo\n> 3.2 Exe\n> 3.3 PP\n> 第四章 网络\n> 第五章 数据\n> 第六章 多召\nnr “ a > 第七章 计算"
   },
@@ -34581,7 +34541,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 127.0s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9303,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -34611,8 +34571,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0303_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0303.jpg",
+      "masked": "exam_video_v15/video1/0303_hide.jpg",
+      "answer": "exam_video_v15/video1/0303.jpg",
       "boxCount": 6,
       "time": 127.0,
       "video": "录屏1",
@@ -34621,7 +34581,6 @@ window.KNOWLEDGE_ITEMS = [
     "isVideoExam": true,
     "pageClozeTextLines": [
       "字体样式人",
-      "word开始选项卡 tet tet",
       "1. 字形设置包括 ([[ONE]])、([[倾斜]]) 和",
       "([[下划线]])"
     ],
@@ -34636,7 +34595,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 128.0s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9304,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -34666,8 +34625,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0304_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0304.jpg",
+      "masked": "exam_video_v15/video1/0304_hide.jpg",
+      "answer": "exam_video_v15/video1/0304.jpg",
       "boxCount": 7,
       "time": 128.0,
       "video": "录屏1",
@@ -34677,7 +34636,6 @@ window.KNOWLEDGE_ITEMS = [
     "pageClozeTextLines": [
       "第三章办公自动化1 3.1 word",
       "段落对齐 ony",
-      "CBR) CRORE) 和(分散对",
       "齐).其中默认的是([[两端对齐]]), Ele"
     ],
     "pagePlainText": "第三章 办公自动化1 3.1 word\n段落对齐 ony\nwordFFtaici teat\nLAASRASH, OSIRENA. GRA\nCBR) CRORE) 和(分散对\n齐) .其中默认的是(两端对齐) , Ele\n(BAH) .\nno wn 和 a"
@@ -34691,7 +34649,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 128.3s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9305,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -34721,8 +34679,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0305_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0305.jpg",
+      "masked": "exam_video_v15/video1/0305_hide.jpg",
+      "answer": "exam_video_v15/video1/0305.jpg",
       "boxCount": 7,
       "time": 128.3,
       "video": "录屏1",
@@ -34732,7 +34690,6 @@ window.KNOWLEDGE_ITEMS = [
     "pageClozeTextLines": [
       "第三章办公自动化1 3.1 word",
       "段落对齐可",
-      "word开始选项卡 tewetew",
       "1 对齐方式有5种,分别是左对齐、右对齐、",
       "([[居中对齐]])、 ([[Fai]]) 和分艇对"
     ],
@@ -34747,7 +34704,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 128.6s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9306,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -34777,8 +34734,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0306_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0306.jpg",
+      "masked": "exam_video_v15/video1/0306_hide.jpg",
+      "answer": "exam_video_v15/video1/0306.jpg",
       "boxCount": 5,
       "time": 128.6,
       "video": "录屏1",
@@ -34802,7 +34759,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 128.9s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9307,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -34832,8 +34789,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0307_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0307.jpg",
+      "masked": "exam_video_v15/video1/0307_hide.jpg",
+      "answer": "exam_video_v15/video1/0307.jpg",
       "boxCount": 2,
       "time": 128.9,
       "video": "录屏1",
@@ -34855,7 +34812,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 129.5s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9308,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -34885,8 +34842,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0308_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0308.jpg",
+      "masked": "exam_video_v15/video1/0308_hide.jpg",
+      "answer": "exam_video_v15/video1/0308.jpg",
       "boxCount": 6,
       "time": 129.5,
       "video": "录屏1",
@@ -34895,7 +34852,6 @@ window.KNOWLEDGE_ITEMS = [
     "isVideoExam": true,
     "pageClozeTextLines": [
       "BER 办公自动化131 word",
-      "ward开始选斋上 tee e",
       "1. 数字字号中 ([[数值越大]])、 (字体越",
       "大),汉字字号中值越大、 ([[字体越小]])",
       "m A 的"
@@ -34911,7 +34867,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 129.8s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9309,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -34941,8 +34897,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0309_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0309.jpg",
+      "masked": "exam_video_v15/video1/0309_hide.jpg",
+      "answer": "exam_video_v15/video1/0309.jpg",
       "boxCount": 5,
       "time": 129.8,
       "video": "录屏1",
@@ -34951,7 +34907,6 @@ window.KNOWLEDGE_ITEMS = [
     "isVideoExam": true,
     "pageClozeTextLines": [
       "第三章办公自动化1 3.1 word",
-      "word开始选项卡 We te te ae",
       "1在Word中,使用 ([[定位]]) 功能,可 (te",
       "速地跳转到对应页面)",
       "2. 定位的快捷键 ([[Ctrl+G]])",
@@ -34968,7 +34923,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 130.1s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9310,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -34998,8 +34953,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0310_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0310.jpg",
+      "masked": "exam_video_v15/video1/0310_hide.jpg",
+      "answer": "exam_video_v15/video1/0310.jpg",
       "boxCount": 5,
       "time": 130.1,
       "video": "录屏1",
@@ -35008,7 +34963,6 @@ window.KNOWLEDGE_ITEMS = [
     "isVideoExam": true,
     "pageClozeTextLines": [
       "第三章办公自动化1 3.1 word",
-      "word开始选项卡 tetetw",
       "1.在Word中, 使用 ([[定位]]) 功能,可 (快",
       "速地跳转到对应页面)",
       "2. 定位的快捷键 ([[Ctrl+G]])",
@@ -35025,7 +34979,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 130.4s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9311,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -35055,8 +35009,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0311_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0311.jpg",
+      "masked": "exam_video_v15/video1/0311_hide.jpg",
+      "answer": "exam_video_v15/video1/0311.jpg",
       "boxCount": 2,
       "time": 130.4,
       "video": "录屏1",
@@ -35081,7 +35035,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 131.4s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9312,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -35111,8 +35065,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0312_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0312.jpg",
+      "masked": "exam_video_v15/video1/0312_hide.jpg",
+      "answer": "exam_video_v15/video1/0312.jpg",
       "boxCount": 8,
       "time": 131.4,
       "video": "录屏1",
@@ -35121,7 +35075,6 @@ window.KNOWLEDGE_ITEMS = [
     "isVideoExam": true,
     "pageClozeTextLines": [
       "第三章办公自动化1 3 word",
-      "word开始选项卡 ete te te",
       "1. 请写出排版功能的名字: ([[拼音指南]])",
       "框) Al、 ([[着重号]])"
     ],
@@ -35136,7 +35089,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 131.7s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9313,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -35166,8 +35119,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0313_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0313.jpg",
+      "masked": "exam_video_v15/video1/0313_hide.jpg",
+      "answer": "exam_video_v15/video1/0313.jpg",
       "boxCount": 7,
       "time": 131.7,
       "video": "录屏1",
@@ -35191,7 +35144,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 132.9s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9314,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -35221,8 +35174,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0314_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0314.jpg",
+      "masked": "exam_video_v15/video1/0314_hide.jpg",
+      "answer": "exam_video_v15/video1/0314.jpg",
       "boxCount": 3,
       "time": 132.9,
       "video": "录屏1",
@@ -35232,7 +35185,7 @@ window.KNOWLEDGE_ITEMS = [
     "pageClozeTextLines": [
       "第三章办公自动化 / 3.1 word",
       "显示/隐藏标记 ee",
-      "1, 显示/隐藏编辑标记位于 ([[“开始选项卡]])",
+      "1, 显示/隐藏编辑标记位于 ([[开始选项卡]])",
       "的段落组",
       "门w 全"
     ],
@@ -35247,7 +35200,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 134.5s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9315,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -35277,8 +35230,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0315_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0315.jpg",
+      "masked": "exam_video_v15/video1/0315_hide.jpg",
+      "answer": "exam_video_v15/video1/0315.jpg",
       "boxCount": 2,
       "time": 134.5,
       "video": "录屏1",
@@ -35287,7 +35240,7 @@ window.KNOWLEDGE_ITEMS = [
     "isVideoExam": true,
     "pageClozeTextLines": [
       "word开始选项卡雄真三二",
-      "1 Word中的“样式功能,可建立个性化样式",
+      "1 Word中的样式功能,可建立个性化样式",
       "它可以引用,([[可以修改]])"
     ],
     "pagePlainText": "样式\nword开始选项卡 雄真三二\n1 Word中的“样式\"功能,可建立个性化样式,\n它可以引用,【 可以修改 ) .\n; Be | A Gy a"
@@ -35301,7 +35254,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 134.8s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9316,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -35331,8 +35284,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0316_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0316.jpg",
+      "masked": "exam_video_v15/video1/0316_hide.jpg",
+      "answer": "exam_video_v15/video1/0316.jpg",
       "boxCount": 5,
       "time": 134.8,
       "video": "录屏1",
@@ -35341,8 +35294,7 @@ window.KNOWLEDGE_ITEMS = [
     "isVideoExam": true,
     "pageClozeTextLines": [
       "页眉页肝 a",
-      "ord插入选项卡 tek ie",
-      "1. 在Word中,插入页眉页脚后可以在“选项组",
+      "1. 在Word中,插入页眉页脚后可以在选项组",
       "Aik ([[不同]])、 ([[奇偶页]]) 不同和显示",
       "文档文字",
       "2. 页眉页脚可设置为; 不同、奇偶页不",
@@ -35361,7 +35313,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 135.4s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9317,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -35391,8 +35343,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0317_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0317.jpg",
+      "masked": "exam_video_v15/video1/0317_hide.jpg",
+      "answer": "exam_video_v15/video1/0317.jpg",
       "boxCount": 5,
       "time": 135.4,
       "video": "录屏1",
@@ -35416,7 +35368,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 135.7s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9318,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -35446,8 +35398,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0318_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0318.jpg",
+      "masked": "exam_video_v15/video1/0318_hide.jpg",
+      "answer": "exam_video_v15/video1/0318.jpg",
       "boxCount": 3,
       "time": 135.7,
       "video": "录屏1",
@@ -35456,8 +35408,7 @@ window.KNOWLEDGE_ITEMS = [
     "isVideoExam": true,
     "pageClozeTextLines": [
       "第三章办公自动化1 3.1 word",
-      "插入分页符 Ww",
-      "1. 插入分页符的快捷键是 ([[Ctrl+Enter]])"
+      "插入分页符 Ww"
     ],
     "pagePlainText": "第三章 办公自动化1 3.1 word\n插入分页符 Ww\n1. 插入分页符的快捷键是 ( Ctrl+Enter ) .\nom | A Gy a"
   },
@@ -35470,7 +35421,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 136.9s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9319,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -35500,8 +35451,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0319_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0319.jpg",
+      "masked": "exam_video_v15/video1/0319_hide.jpg",
+      "answer": "exam_video_v15/video1/0319.jpg",
       "boxCount": 6,
       "time": 136.9,
       "video": "录屏1",
@@ -35510,9 +35461,7 @@ window.KNOWLEDGE_ITEMS = [
     "isVideoExam": true,
     "pageClozeTextLines": [
       "表格工具-布局 a",
-      "ord插入选项卡 eee tek",
       "1. 在Word中,拆分表格的快捷键是",
-      "([[Ctrl+Shift+Enter]]),从当前选中行的",
       "([[上]]) 面分割",
       "2. Word中的表格计算函数中有四种参数,分别"
     ],
@@ -35527,7 +35476,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 137.3s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9320,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -35557,8 +35506,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0320_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0320.jpg",
+      "masked": "exam_video_v15/video1/0320_hide.jpg",
+      "answer": "exam_video_v15/video1/0320.jpg",
       "boxCount": 6,
       "time": 137.3,
       "video": "录屏1",
@@ -35567,9 +35516,7 @@ window.KNOWLEDGE_ITEMS = [
     "isVideoExam": true,
     "pageClozeTextLines": [
       "表格工具-布局 ee",
-      "vaord插入选项卡 ekeiok",
       "1. 在Word中,拆分表格的快捷键是",
-      "([[Ctrl+Shift+Enter]]),从当前选中行的",
       "2. Word中的表格计算函数中有四种参数,分别"
     ],
     "pagePlainText": "表格工具-布局 ee\nvaord插入选项卡 ekeiok\n1. 在Word中,拆分表格的快捷键是\n( Ctrl+Shift+Enter ) ,从当前选中行的\n(上 ) Boal.\n2. Word中的表格计算函数中有四种参数,分别\n是 (above) 、left、(right ) 、\n(below) .\n; Be | A» Gy a"
@@ -35583,7 +35530,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 137.6s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9321,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -35613,8 +35560,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0321_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0321.jpg",
+      "masked": "exam_video_v15/video1/0321_hide.jpg",
+      "answer": "exam_video_v15/video1/0321.jpg",
       "boxCount": 4,
       "time": 137.6,
       "video": "录屏1",
@@ -35639,7 +35586,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 138.5s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9322,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -35669,8 +35616,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0322_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0322.jpg",
+      "masked": "exam_video_v15/video1/0322_hide.jpg",
+      "answer": "exam_video_v15/video1/0322.jpg",
       "boxCount": 5,
       "time": 138.5,
       "video": "录屏1",
@@ -35694,7 +35641,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 138.8s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9323,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -35724,8 +35671,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0323_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0323.jpg",
+      "masked": "exam_video_v15/video1/0323_hide.jpg",
+      "answer": "exam_video_v15/video1/0323.jpg",
       "boxCount": 6,
       "time": 138.8,
       "video": "录屏1",
@@ -35749,7 +35696,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 139.1s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9324,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -35779,8 +35726,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0324_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0324.jpg",
+      "masked": "exam_video_v15/video1/0324_hide.jpg",
+      "answer": "exam_video_v15/video1/0324.jpg",
       "boxCount": 6,
       "time": 139.1,
       "video": "录屏1",
@@ -35803,7 +35750,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 139.4s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9325,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -35833,8 +35780,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0325_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0325.jpg",
+      "masked": "exam_video_v15/video1/0325_hide.jpg",
+      "answer": "exam_video_v15/video1/0325.jpg",
       "boxCount": 7,
       "time": 139.4,
       "video": "录屏1",
@@ -35858,7 +35805,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 139.7s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9326,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -35888,8 +35835,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0326_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0326.jpg",
+      "masked": "exam_video_v15/video1/0326_hide.jpg",
+      "answer": "exam_video_v15/video1/0326.jpg",
       "boxCount": 10,
       "time": 139.7,
       "video": "录屏1",
@@ -35899,9 +35846,9 @@ window.KNOWLEDGE_ITEMS = [
     "pageClozeTextLines": [
       "表格与文本互换 wv",
       "1.在Word中,文本与表格可以相互 (转",
-      "2. 文本转换为表格功能位于 (“插入选项",
-      "3. 表格转换为文本功能位于 (“表格工具-布",
-      "局选项卡) 的([[“数据组]])"
+      "2. 文本转换为表格功能位于 (插入选项",
+      "3. 表格转换为文本功能位于 (表格工具-布",
+      "局选项卡) 的([[数据组]])"
     ],
     "pagePlainText": "表格与文本互换 wv\n1.在Word中,文本与表格可以相互 ( 转\n2. 文本转换为表格功能位于 (“插入\"选项\n卡) 中.\n3. 表格转换为文本功能位于 (“表格工具-布\n局\"选项卡) 的( “数据\"组 ) .\nfs | A» toy a"
   },
@@ -35914,7 +35861,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 140.4s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9327,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -35944,8 +35891,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0327_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0327.jpg",
+      "masked": "exam_video_v15/video1/0327_hide.jpg",
+      "answer": "exam_video_v15/video1/0327.jpg",
       "boxCount": 4,
       "time": 140.4,
       "video": "录屏1",
@@ -35964,7 +35911,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 141.0s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9328,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -35994,8 +35941,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0328_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0328.jpg",
+      "masked": "exam_video_v15/video1/0328_hide.jpg",
+      "answer": "exam_video_v15/video1/0328.jpg",
       "boxCount": 6,
       "time": 141.0,
       "video": "录屏1",
@@ -36004,10 +35951,8 @@ window.KNOWLEDGE_ITEMS = [
     "isVideoExam": true,
     "pageClozeTextLines": [
       "第三章办公自动化1 3.1 word",
-      "ord插入选项卡 tee iek",
-      "1. Word中的域是一组用于告诉Word在文档中",
       "([[自动插入]])、计算或 (显示特定信息的代",
-      "2. 要在域代码的“结果”视图和“代码”视图之间",
+      "2. 要在域代码的结果视图和代码视图之间",
       "快速全局切换,应使用的快捷键是"
     ],
     "pagePlainText": "第三章 办公自动化1 3.1 word\n域 wy\nord插入选项卡 tee iek\n1. Word中的域是一组用于告诉Word在文档中\n( 自动插入 ) 、计算或 ( 显示特定信息的代\n2. 要在域代码的“结果”视图和“代码”视图之间\n快速全局切换,应使用的快捷键是\n(Alt+F9 ) .\nf] “As F Py ae"
@@ -36021,7 +35966,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 141.3s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9329,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -36051,8 +35996,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0329_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0329.jpg",
+      "masked": "exam_video_v15/video1/0329_hide.jpg",
+      "answer": "exam_video_v15/video1/0329.jpg",
       "boxCount": 4,
       "time": 141.3,
       "video": "录屏1",
@@ -36060,7 +36005,7 @@ window.KNOWLEDGE_ITEMS = [
     },
     "isVideoExam": true,
     "pageClozeTextLines": [
-      "1文件选项卡下([[信息]]) 功能中的“保护文",
+      "1文件选项卡下([[信息]]) 功能中的保护文",
       "档可以给当前文档设置 ([[访问权限]]),增强",
       "安全性"
     ],
@@ -36075,7 +36020,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 141.6s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9330,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -36105,8 +36050,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0330_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0330.jpg",
+      "masked": "exam_video_v15/video1/0330_hide.jpg",
+      "answer": "exam_video_v15/video1/0330.jpg",
       "boxCount": 4,
       "time": 141.6,
       "video": "录屏1",
@@ -36115,7 +36060,7 @@ window.KNOWLEDGE_ITEMS = [
     "isVideoExam": true,
     "pageClozeTextLines": [
       "第三章办公自动化131word",
-      "1. “SETAE ([[188]]) 功能中的“保护文",
+      "1. SETAE ([[188]]) 功能中的保护文",
       "档可以给当前文档设置 ([[访问权限]]),增强",
       "安全性"
     ],
@@ -36130,7 +36075,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 142.2s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9331,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -36160,8 +36105,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0331_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0331.jpg",
+      "masked": "exam_video_v15/video1/0331_hide.jpg",
+      "answer": "exam_video_v15/video1/0331.jpg",
       "boxCount": 3,
       "time": 142.2,
       "video": "录屏1",
@@ -36171,7 +36116,7 @@ window.KNOWLEDGE_ITEMS = [
     "pageClozeTextLines": [
       "第三章办公自动化13.1 word",
       "1, 绘制一个标准的正方形的正确的操作方法",
-      "是,先在“绘图工具栏中选择“和矩形”,然后按",
+      "是,先在绘图工具栏中选择和矩形,然后按",
       "f£ ([[Shift]]) 键用鼠标拖动出正方形"
     ],
     "pagePlainText": "第三章 办公自动化13.1 word\n形状 Ww\n1, 绘制一个标准的正方形的正确的操作方法\n是,先在“绘图\"工具栏中选择“和矩形”,然后按\nf£ (Shift) 键用鼠标拖动出正方形.\nf 了] A ty a"
@@ -36185,7 +36130,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 143.1s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9332,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -36215,8 +36160,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0332_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0332.jpg",
+      "masked": "exam_video_v15/video1/0332_hide.jpg",
+      "answer": "exam_video_v15/video1/0332.jpg",
       "boxCount": 3,
       "time": 143.1,
       "video": "录屏1",
@@ -36238,7 +36183,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 143.5s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9333,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -36268,8 +36213,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0333_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0333.jpg",
+      "masked": "exam_video_v15/video1/0333_hide.jpg",
+      "answer": "exam_video_v15/video1/0333.jpg",
       "boxCount": 13,
       "time": 143.5,
       "video": "录屏1",
@@ -36299,7 +36244,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 143.8s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9334,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -36329,8 +36274,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0334_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0334.jpg",
+      "masked": "exam_video_v15/video1/0334_hide.jpg",
+      "answer": "exam_video_v15/video1/0334.jpg",
       "boxCount": 13,
       "time": 143.8,
       "video": "录屏1",
@@ -36361,7 +36306,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 144.4s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9335,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -36391,8 +36336,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0335_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0335.jpg",
+      "masked": "exam_video_v15/video1/0335_hide.jpg",
+      "answer": "exam_video_v15/video1/0335.jpg",
       "boxCount": 4,
       "time": 144.4,
       "video": "录屏1",
@@ -36414,7 +36359,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 146.6s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9336,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -36444,8 +36389,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0336_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0336.jpg",
+      "masked": "exam_video_v15/video1/0336_hide.jpg",
+      "answer": "exam_video_v15/video1/0336.jpg",
       "boxCount": 6,
       "time": 146.6,
       "video": "录屏1",
@@ -36469,7 +36414,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 146.9s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9337,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -36499,8 +36444,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0337_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0337.jpg",
+      "masked": "exam_video_v15/video1/0337_hide.jpg",
+      "answer": "exam_video_v15/video1/0337.jpg",
       "boxCount": 7,
       "time": 146.9,
       "video": "录屏1",
@@ -36524,7 +36469,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 147.2s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9338,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -36554,8 +36499,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0338_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0338.jpg",
+      "masked": "exam_video_v15/video1/0338_hide.jpg",
+      "answer": "exam_video_v15/video1/0338.jpg",
       "boxCount": 6,
       "time": 147.2,
       "video": "录屏1",
@@ -36564,7 +36509,7 @@ window.KNOWLEDGE_ITEMS = [
     "isVideoExam": true,
     "pageClozeTextLines": [
       "1 题注的作用是为([[图片]])、 ([[表格]])、",
-      "([[公式]])、 ([[BR]]) 等对象添加标准化说"
+      "([[公式]])、 ([[图灵]]) 等对象添加标准化说"
     ],
     "pagePlainText": "题注 Ww\nOrs IFT tei\n1 题注的作用是为(图片) 、 (表格 ) 、\n( 公式 ) 、 (BR) 等对象添加标准化说\n‘a | A» toy a"
   },
@@ -36577,7 +36522,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 147.5s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9339,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -36607,8 +36552,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0339_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0339.jpg",
+      "masked": "exam_video_v15/video1/0339_hide.jpg",
+      "answer": "exam_video_v15/video1/0339.jpg",
       "boxCount": 6,
       "time": 147.5,
       "video": "录屏1",
@@ -36617,8 +36562,8 @@ window.KNOWLEDGE_ITEMS = [
     "isVideoExam": true,
     "pageClozeTextLines": [
       "第三草办公自动化131word",
-      "1. 题注的作用是为 ([[BR]]). ([[RH]])",
-      "([[公式]])、 ([[BR]]) 等对象添加标准化说"
+      "1. 题注的作用是为 ([[图灵]]). ([[RH]])",
+      "([[公式]])、 ([[图灵]]) 等对象添加标准化说"
     ],
     "pagePlainText": "第三草 办公自动化131word\n题注 ona\nWords IRIE etek\n1. 题注的作用是为 (BR). (RH).\n(公式 ) 、 (BR) 等对象添加标准化说"
   },
@@ -36631,7 +36576,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 147.8s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9340,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -36661,8 +36606,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0340_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0340.jpg",
+      "masked": "exam_video_v15/video1/0340_hide.jpg",
+      "answer": "exam_video_v15/video1/0340.jpg",
       "boxCount": 10,
       "time": 147.8,
       "video": "录屏1",
@@ -36673,15 +36618,15 @@ window.KNOWLEDGE_ITEMS = [
       "第三章办公自动化1 3.1 word",
       "邮件合并的步骤 wv",
       "([[1]]) 打开主文档,(单击 ([[邮件]])选项卡中的",
-      "“开始邮件合并按钮),在下拉列表中选择",
-      "([[2]]) RR ([[“选择收件人按钮]]),在下",
-      "拉列表中选择使用现有列表”选项)",
+      "开始邮件合并按钮),在下拉列表中选择",
+      "([[2]]) RR ([[选择收件人按钮]]),在下",
+      "拉列表中选择使用现有列表选项)",
       "([[3]]) 在弹出的选择数据源对话框,选择需要",
       "的数据源",
       "([[4]]) 将光标定位到合适的位置,(选择插入",
       "合并域按钮),在下拉列表中逐一选择需要",
       "插入的选项",
-      "([[5]]) 邮件编辑后,(单击并合并”",
+      "([[5]]) 邮件编辑后,(单击并合并",
       "按钮),在下列列表中选择编辑单个文档和",
       "项,邮件合并.利用邮件合并工具,可以",
       "将数据源合并到主文档,得到目标文档.合并",
@@ -36698,7 +36643,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 148.1s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9341,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -36728,8 +36673,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0341_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0341.jpg",
+      "masked": "exam_video_v15/video1/0341_hide.jpg",
+      "answer": "exam_video_v15/video1/0341.jpg",
       "boxCount": 11,
       "time": 148.1,
       "video": "录屏1",
@@ -36740,15 +36685,15 @@ window.KNOWLEDGE_ITEMS = [
       "第三章办公自动化 1 3.1 word",
       "邮件合并的步骤 wv",
       "([[1]]) 打开主文档,(单击([[邮件]])选项卡中的",
-      "“开始邮件合并按钮),在下拉列表中选择",
-      "([[2]]) 然后单击 ([[“选择收件人按钮]]),在下",
+      "开始邮件合并按钮),在下拉列表中选择",
+      "([[2]]) 然后单击 ([[选择收件人按钮]]),在下",
       "HARA ([[选择使用现有列表选项]])",
-      "([[3]]) 在弹出的“选择数据源”对话框,选择需要",
+      "([[3]]) 在弹出的选择数据源对话框,选择需要",
       "的数据源",
-      "([[4]]) 将光标定位到合适的位置,(选择“插入",
+      "([[4]]) 将光标定位到合适的位置,(选择插入",
       "合并域按钮),在下拉列表中逐一选择需要",
       "插入的选项",
-      "([[5]]) 邮件编辑后,(单击“并合并”",
+      "([[5]]) 邮件编辑后,(单击并合并",
       "按钮),在下列列表中选择编辑单个文档选",
       "项,邮件合并.利用邮件合并工具,可以",
       "将数据源合并到主文档,得到目标文档.合并",
@@ -36765,7 +36710,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 148.4s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9342,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -36795,8 +36740,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0342_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0342.jpg",
+      "masked": "exam_video_v15/video1/0342_hide.jpg",
+      "answer": "exam_video_v15/video1/0342.jpg",
       "boxCount": 5,
       "time": 148.4,
       "video": "录屏1",
@@ -36821,7 +36766,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 149.3s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9343,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -36851,8 +36796,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0343_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0343.jpg",
+      "masked": "exam_video_v15/video1/0343_hide.jpg",
+      "answer": "exam_video_v15/video1/0343.jpg",
       "boxCount": 4,
       "time": 149.3,
       "video": "录屏1",
@@ -36877,7 +36822,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 149.7s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9344,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -36907,8 +36852,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0344_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0344.jpg",
+      "masked": "exam_video_v15/video1/0344_hide.jpg",
+      "answer": "exam_video_v15/video1/0344.jpg",
       "boxCount": 6,
       "time": 149.7,
       "video": "录屏1",
@@ -36918,7 +36863,7 @@ window.KNOWLEDGE_ITEMS = [
     "pageClozeTextLines": [
       "第三章办公自动化 / 3.1 word",
       "批注 a",
-      "1“审阅选项卡里的([[修订]]) 功能是文档所做",
+      "1审阅选项卡里的([[修订]]) 功能是文档所做",
       "的插入和删除操作,属于文档的一部分,而批",
       "注是〔 审阅者) 对文档提出的(相关注",
       "释),本身不是文档的一部分"
@@ -36934,7 +36879,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 150.0s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9345,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -36964,8 +36909,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0345_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0345.jpg",
+      "masked": "exam_video_v15/video1/0345_hide.jpg",
+      "answer": "exam_video_v15/video1/0345.jpg",
       "boxCount": 7,
       "time": 150.0,
       "video": "录屏1",
@@ -36974,7 +36919,7 @@ window.KNOWLEDGE_ITEMS = [
     "isVideoExam": true,
     "pageClozeTextLines": [
       "第三章办公自动化1 3.1 word",
-      "1“审阅选项卡里的 ([[修订]]) 功能是文档所做",
+      "1审阅选项卡里的 ([[修订]]) 功能是文档所做",
       "的插入和删除操作,属于文档的一部分,而批",
       "注是([[审阅者]]) 对文档提出的相关注",
       "B),本身不是文档的一部分"
@@ -36990,7 +36935,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 150.6s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9346,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -37020,8 +36965,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0346_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0346.jpg",
+      "masked": "exam_video_v15/video1/0346_hide.jpg",
+      "answer": "exam_video_v15/video1/0346.jpg",
       "boxCount": 7,
       "time": 150.6,
       "video": "录屏1",
@@ -37032,7 +36977,7 @@ window.KNOWLEDGE_ITEMS = [
       "第三章办公自动化1 3.1 word",
       "校对区",
       "word审阅选项卡 we",
-      "1“审阅选项卡中的“校对”组包括 (拼写和语",
+      "1审阅选项卡中的校对组包括 (拼写和语",
       "法)、同义词库和 ([[字数统计]]) 三个功能",
       "2. 拼写和语法中,红色波浪线表示 (HS",
       "误),蓝色波浪线表示 ([[语法错误]])"
@@ -37048,7 +36993,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 151.2s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9347,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -37078,8 +37023,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0347_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0347.jpg",
+      "masked": "exam_video_v15/video1/0347_hide.jpg",
+      "answer": "exam_video_v15/video1/0347.jpg",
       "boxCount": 4,
       "time": 151.2,
       "video": "录屏1",
@@ -37089,7 +37034,7 @@ window.KNOWLEDGE_ITEMS = [
     "pageClozeTextLines": [
       "页面视图 ad",
       "1. ([[RB]]) 视图模式显示和打印的效果一模一",
-      "样,称为“所见即所得”"
+      "样,称为所见即所得"
     ],
     "pagePlainText": "页面视图 ad\nordi ak\n1. (RB) 视图模式显示和打印的效果一模一\n样,称为“所见即所得”.\n加| ies ty) a"
   },
@@ -37102,7 +37047,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 151.5s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9348,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -37132,8 +37077,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0348_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0348.jpg",
+      "masked": "exam_video_v15/video1/0348_hide.jpg",
+      "answer": "exam_video_v15/video1/0348.jpg",
       "boxCount": 3,
       "time": 151.5,
       "video": "录屏1",
@@ -37143,7 +37088,7 @@ window.KNOWLEDGE_ITEMS = [
     "pageClozeTextLines": [
       "页面视图 x",
       "1. ([[RB]]) 视图模式显示和打印的效果一模一",
-      "样,称为“所见即所得”"
+      "样,称为所见即所得"
     ],
     "pagePlainText": "页面视图 x\norden tee\n1. (RB) 视图模式显示和打印的效果一模一\n样,称为“所见即所得”.\n站 Oo 加"
   },
@@ -37156,7 +37101,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 152.4s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9349,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -37186,8 +37131,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0349_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0349.jpg",
+      "masked": "exam_video_v15/video1/0349_hide.jpg",
+      "answer": "exam_video_v15/video1/0349.jpg",
       "boxCount": 5,
       "time": 152.4,
       "video": "录屏1",
@@ -37206,7 +37151,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 152.7s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9350,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -37236,8 +37181,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0350_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0350.jpg",
+      "masked": "exam_video_v15/video1/0350_hide.jpg",
+      "answer": "exam_video_v15/video1/0350.jpg",
       "boxCount": 6,
       "time": 152.7,
       "video": "录屏1",
@@ -37256,7 +37201,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 153.4s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9351,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -37286,8 +37231,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0351_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0351.jpg",
+      "masked": "exam_video_v15/video1/0351_hide.jpg",
+      "answer": "exam_video_v15/video1/0351.jpg",
       "boxCount": 7,
       "time": 153.4,
       "video": "录屏1",
@@ -37298,7 +37243,7 @@ window.KNOWLEDGE_ITEMS = [
       "第三章办公自动化 3.1 word",
       "导航窗格要",
       "1. 导航窗格的作用是 ([[快速定位文档标题]])",
-      "2视图”选项卡下的“显示”组包括 (标",
+      "2视图选项卡下的显示组包括 (标",
       "尺)、 ([[网格线]]) 和 ([[导航窗格]])",
       "A 全 a"
     ],
@@ -37313,7 +37258,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 154.6s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9352,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -37343,8 +37288,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0352_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0352.jpg",
+      "masked": "exam_video_v15/video1/0352_hide.jpg",
+      "answer": "exam_video_v15/video1/0352.jpg",
       "boxCount": 4,
       "time": 154.6,
       "video": "录屏1",
@@ -37369,7 +37314,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 154.9s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9353,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -37399,8 +37344,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0353_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0353.jpg",
+      "masked": "exam_video_v15/video1/0353_hide.jpg",
+      "answer": "exam_video_v15/video1/0353.jpg",
       "boxCount": 4,
       "time": 154.9,
       "video": "录屏1",
@@ -37424,7 +37369,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 157.1s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9354,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -37454,8 +37399,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0354_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0354.jpg",
+      "masked": "exam_video_v15/video1/0354_hide.jpg",
+      "answer": "exam_video_v15/video1/0354.jpg",
       "boxCount": 4,
       "time": 157.1,
       "video": "录屏1",
@@ -37481,7 +37426,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 157.4s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9355,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -37511,8 +37456,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0355_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0355.jpg",
+      "masked": "exam_video_v15/video1/0355_hide.jpg",
+      "answer": "exam_video_v15/video1/0355.jpg",
       "boxCount": 4,
       "time": 157.4,
       "video": "录屏1",
@@ -37538,7 +37483,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 158.0s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9356,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -37568,8 +37513,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0356_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0356.jpg",
+      "masked": "exam_video_v15/video1/0356_hide.jpg",
+      "answer": "exam_video_v15/video1/0356.jpg",
       "boxCount": 4,
       "time": 158.0,
       "video": "录屏1",
@@ -37588,7 +37533,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 158.6s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9357,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -37618,8 +37563,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0357_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0357.jpg",
+      "masked": "exam_video_v15/video1/0357_hide.jpg",
+      "answer": "exam_video_v15/video1/0357.jpg",
       "boxCount": 3,
       "time": 158.6,
       "video": "录屏1",
@@ -37638,7 +37583,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏1 158.9s",
     "sourceFile": "15e0eb64-c0bf-4361-9eda-e26335565160.mp4",
     "order": 9358,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -37668,8 +37613,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏1/0358_hide.jpg",
-      "answer": "exam_video_v15/录屏1/0358.jpg",
+      "masked": "exam_video_v15/video1/0358_hide.jpg",
+      "answer": "exam_video_v15/video1/0358.jpg",
       "boxCount": 3,
       "time": 158.9,
       "video": "录屏1",
@@ -37688,7 +37633,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 2.4s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9360,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -37724,8 +37669,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0002_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0002.jpg",
+      "masked": "exam_video_v15/video2/0002_hide.jpg",
+      "answer": "exam_video_v15/video2/0002.jpg",
       "boxCount": 12,
       "time": 2.4,
       "video": "录屏2",
@@ -37744,7 +37689,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 2.7s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9361,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -37780,8 +37725,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0003_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0003.jpg",
+      "masked": "exam_video_v15/video2/0003_hide.jpg",
+      "answer": "exam_video_v15/video2/0003.jpg",
       "boxCount": 10,
       "time": 2.7,
       "video": "录屏2",
@@ -37810,7 +37755,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 3.9s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9362,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -37846,8 +37791,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0004_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0004.jpg",
+      "masked": "exam_video_v15/video2/0004_hide.jpg",
+      "answer": "exam_video_v15/video2/0004.jpg",
       "boxCount": 13,
       "time": 3.9,
       "video": "录屏2",
@@ -37866,7 +37811,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 4.2s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9363,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -37902,8 +37847,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0005_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0005.jpg",
+      "masked": "exam_video_v15/video2/0005_hide.jpg",
+      "answer": "exam_video_v15/video2/0005.jpg",
       "boxCount": 13,
       "time": 4.2,
       "video": "录屏2",
@@ -37922,7 +37867,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 4.5s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9364,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -37958,8 +37903,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0006_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0006.jpg",
+      "masked": "exam_video_v15/video2/0006_hide.jpg",
+      "answer": "exam_video_v15/video2/0006.jpg",
       "boxCount": 12,
       "time": 4.5,
       "video": "录屏2",
@@ -37978,7 +37923,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 4.9s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9365,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -38014,8 +37959,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0007_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0007.jpg",
+      "masked": "exam_video_v15/video2/0007_hide.jpg",
+      "answer": "exam_video_v15/video2/0007.jpg",
       "boxCount": 12,
       "time": 4.9,
       "video": "录屏2",
@@ -38034,7 +37979,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 5.2s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9366,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -38070,8 +38015,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0008_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0008.jpg",
+      "masked": "exam_video_v15/video2/0008_hide.jpg",
+      "answer": "exam_video_v15/video2/0008.jpg",
       "boxCount": 12,
       "time": 5.2,
       "video": "录屏2",
@@ -38090,7 +38035,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 5.5s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9367,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -38126,8 +38071,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0009_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0009.jpg",
+      "masked": "exam_video_v15/video2/0009_hide.jpg",
+      "answer": "exam_video_v15/video2/0009.jpg",
       "boxCount": 11,
       "time": 5.5,
       "video": "录屏2",
@@ -38146,7 +38091,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 5.8s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9368,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -38182,8 +38127,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0010_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0010.jpg",
+      "masked": "exam_video_v15/video2/0010_hide.jpg",
+      "answer": "exam_video_v15/video2/0010.jpg",
       "boxCount": 13,
       "time": 5.8,
       "video": "录屏2",
@@ -38202,7 +38147,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 6.1s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9369,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -38238,8 +38183,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0011_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0011.jpg",
+      "masked": "exam_video_v15/video2/0011_hide.jpg",
+      "answer": "exam_video_v15/video2/0011.jpg",
       "boxCount": 13,
       "time": 6.1,
       "video": "录屏2",
@@ -38258,7 +38203,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 6.4s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9370,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -38294,8 +38239,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0012_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0012.jpg",
+      "masked": "exam_video_v15/video2/0012_hide.jpg",
+      "answer": "exam_video_v15/video2/0012.jpg",
       "boxCount": 9,
       "time": 6.4,
       "video": "录屏2",
@@ -38323,7 +38268,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 6.7s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9371,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -38359,8 +38304,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0013_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0013.jpg",
+      "masked": "exam_video_v15/video2/0013_hide.jpg",
+      "answer": "exam_video_v15/video2/0013.jpg",
       "boxCount": 10,
       "time": 6.7,
       "video": "录屏2",
@@ -38388,7 +38333,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 7.0s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9372,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -38424,8 +38369,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0014_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0014.jpg",
+      "masked": "exam_video_v15/video2/0014_hide.jpg",
+      "answer": "exam_video_v15/video2/0014.jpg",
       "boxCount": 17,
       "time": 7.0,
       "video": "录屏2",
@@ -38449,7 +38394,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 7.3s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9373,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -38485,8 +38430,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0015_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0015.jpg",
+      "masked": "exam_video_v15/video2/0015_hide.jpg",
+      "answer": "exam_video_v15/video2/0015.jpg",
       "boxCount": 16,
       "time": 7.3,
       "video": "录屏2",
@@ -38512,7 +38457,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 7.6s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9374,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -38548,8 +38493,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0016_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0016.jpg",
+      "masked": "exam_video_v15/video2/0016_hide.jpg",
+      "answer": "exam_video_v15/video2/0016.jpg",
       "boxCount": 10,
       "time": 7.6,
       "video": "录屏2",
@@ -38574,7 +38519,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 7.9s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9375,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -38610,8 +38555,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0017_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0017.jpg",
+      "masked": "exam_video_v15/video2/0017_hide.jpg",
+      "answer": "exam_video_v15/video2/0017.jpg",
       "boxCount": 10,
       "time": 7.9,
       "video": "录屏2",
@@ -38637,7 +38582,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 8.2s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9376,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -38673,8 +38618,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0018_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0018.jpg",
+      "masked": "exam_video_v15/video2/0018_hide.jpg",
+      "answer": "exam_video_v15/video2/0018.jpg",
       "boxCount": 12,
       "time": 8.2,
       "video": "录屏2",
@@ -38702,7 +38647,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 8.5s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9377,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -38738,8 +38683,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0019_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0019.jpg",
+      "masked": "exam_video_v15/video2/0019_hide.jpg",
+      "answer": "exam_video_v15/video2/0019.jpg",
       "boxCount": 14,
       "time": 8.5,
       "video": "录屏2",
@@ -38767,7 +38712,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 9.1s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9378,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -38803,8 +38748,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0020_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0020.jpg",
+      "masked": "exam_video_v15/video2/0020_hide.jpg",
+      "answer": "exam_video_v15/video2/0020.jpg",
       "boxCount": 6,
       "time": 9.1,
       "video": "录屏2",
@@ -38834,7 +38779,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 9.7s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9379,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -38870,8 +38815,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0021_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0021.jpg",
+      "masked": "exam_video_v15/video2/0021_hide.jpg",
+      "answer": "exam_video_v15/video2/0021.jpg",
       "boxCount": 9,
       "time": 9.7,
       "video": "录屏2",
@@ -38895,7 +38840,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 10.3s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9380,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -38931,8 +38876,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0022_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0022.jpg",
+      "masked": "exam_video_v15/video2/0022_hide.jpg",
+      "answer": "exam_video_v15/video2/0022.jpg",
       "boxCount": 15,
       "time": 10.3,
       "video": "录屏2",
@@ -38961,7 +38906,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 10.6s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9381,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -38997,8 +38942,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0023_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0023.jpg",
+      "masked": "exam_video_v15/video2/0023_hide.jpg",
+      "answer": "exam_video_v15/video2/0023.jpg",
       "boxCount": 11,
       "time": 10.6,
       "video": "录屏2",
@@ -39026,7 +38971,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 10.9s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9382,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -39062,8 +39007,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0024_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0024.jpg",
+      "masked": "exam_video_v15/video2/0024_hide.jpg",
+      "answer": "exam_video_v15/video2/0024.jpg",
       "boxCount": 11,
       "time": 10.9,
       "video": "录屏2",
@@ -39090,7 +39035,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 11.5s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9383,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -39126,8 +39071,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0025_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0025.jpg",
+      "masked": "exam_video_v15/video2/0025_hide.jpg",
+      "answer": "exam_video_v15/video2/0025.jpg",
       "boxCount": 17,
       "time": 11.5,
       "video": "录屏2",
@@ -39138,7 +39083,7 @@ window.KNOWLEDGE_ITEMS = [
       "‘SA: 主要用于([[有生命名词]]),少量固定",
       "无生命",
       "人单数名词在未尾加([[s]])",
-      "@ 复数名词一般在未尾加(“)",
+      "@ 复数名词一般在未尾加()",
       "@ 不规则复数名词后加([[s]])",
       "@ 表示([[各自]])的所有关系时, 各名词未尾(都",
       "表示([[共有]])的所有关系时在(最后一词未"
@@ -39154,7 +39099,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 12.1s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9384,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -39190,8 +39135,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0026_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0026.jpg",
+      "masked": "exam_video_v15/video2/0026_hide.jpg",
+      "answer": "exam_video_v15/video2/0026.jpg",
       "boxCount": 4,
       "time": 12.1,
       "video": "录屏2",
@@ -39216,7 +39161,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 12.7s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9385,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -39252,8 +39197,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0027_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0027.jpg",
+      "masked": "exam_video_v15/video2/0027_hide.jpg",
+      "answer": "exam_video_v15/video2/0027.jpg",
       "boxCount": 16,
       "time": 12.7,
       "video": "录屏2",
@@ -39261,9 +39206,9 @@ window.KNOWLEDGE_ITEMS = [
     },
     "isVideoExam": true,
     "pageClozeTextLines": [
-      "fee: 主要用于([[有生命名词]]), 少量固定 ” 生",
+      "fee: 主要用于([[有生命名词]]), 少量固定生",
       ") 单数名词在末尾加([[s]])",
-      ") 复数名词一般在未尾加(“)",
+      ") 复数名词一般在未尾加()",
       "不规则复数名词后加([[s]])",
       "d 表示([[各自]])的所有关系时, 各名词未尾(都",
       "表示([[共有]])的所有关系时在(最后一词未"
@@ -39279,7 +39224,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 13.0s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9386,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -39315,8 +39260,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0028_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0028.jpg",
+      "masked": "exam_video_v15/video2/0028_hide.jpg",
+      "answer": "exam_video_v15/video2/0028.jpg",
       "boxCount": 13,
       "time": 13.0,
       "video": "录屏2",
@@ -39343,7 +39288,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 13.3s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9387,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -39379,8 +39324,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0029_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0029.jpg",
+      "masked": "exam_video_v15/video2/0029_hide.jpg",
+      "answer": "exam_video_v15/video2/0029.jpg",
       "boxCount": 11,
       "time": 13.3,
       "video": "录屏2",
@@ -39407,7 +39352,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 14.0s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9388,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -39443,8 +39388,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0030_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0030.jpg",
+      "masked": "exam_video_v15/video2/0030_hide.jpg",
+      "answer": "exam_video_v15/video2/0030.jpg",
       "boxCount": 19,
       "time": 14.0,
       "video": "录屏2",
@@ -39472,7 +39417,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 14.6s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9389,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -39508,8 +39453,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0031_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0031.jpg",
+      "masked": "exam_video_v15/video2/0031_hide.jpg",
+      "answer": "exam_video_v15/video2/0031.jpg",
       "boxCount": 15,
       "time": 14.6,
       "video": "录屏2",
@@ -39535,7 +39480,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 14.9s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9390,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -39571,8 +39516,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0032_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0032.jpg",
+      "masked": "exam_video_v15/video2/0032_hide.jpg",
+      "answer": "exam_video_v15/video2/0032.jpg",
       "boxCount": 11,
       "time": 14.9,
       "video": "录屏2",
@@ -39597,7 +39542,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 15.2s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9391,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -39633,8 +39578,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0033_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0033.jpg",
+      "masked": "exam_video_v15/video2/0033_hide.jpg",
+      "answer": "exam_video_v15/video2/0033.jpg",
       "boxCount": 13,
       "time": 15.2,
       "video": "录屏2",
@@ -39648,7 +39593,7 @@ window.KNOWLEDGE_ITEMS = [
       "([[manya]]) 许多; +([[单数名词]]),谓语动词用",
       "([[more than one]]) 许多; +([[单数名词]]),谓",
       "语动词用([[单数]])",
-      "numbers of ”大量的([[多批]])"
+      "numbers of 大量的([[多批]])"
     ],
     "pagePlainText": "只能修饰可数名词的限定词 wv\n(anumber of) —#; 谓语动词用( 复数 )\n( the number of ) .….的数量; 谓语动词用\n(单数 )\n(manya) 许多; +( 单数名词 ),谓语动词用\n(单数 )\n(more than one ) 许多; +( 单数名词 ),谓\n语动词用( 单数 )\nnumbers of ”大量的(多批)\nboth 两者都\na good/great many 非常多\nseveral 几个\n门 < | es"
   },
@@ -39661,7 +39606,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 15.5s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9392,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -39697,8 +39642,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0034_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0034.jpg",
+      "masked": "exam_video_v15/video2/0034_hide.jpg",
+      "answer": "exam_video_v15/video2/0034.jpg",
       "boxCount": 13,
       "time": 15.5,
       "video": "录屏2",
@@ -39725,7 +39670,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 15.8s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9393,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -39761,8 +39706,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0035_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0035.jpg",
+      "masked": "exam_video_v15/video2/0035_hide.jpg",
+      "answer": "exam_video_v15/video2/0035.jpg",
       "boxCount": 10,
       "time": 15.8,
       "video": "录屏2",
@@ -39784,7 +39729,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 16.1s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9394,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -39820,8 +39765,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0036_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0036.jpg",
+      "masked": "exam_video_v15/video2/0036_hide.jpg",
+      "answer": "exam_video_v15/video2/0036.jpg",
       "boxCount": 10,
       "time": 16.1,
       "video": "录屏2",
@@ -39845,7 +39790,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 16.7s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9395,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -39881,8 +39826,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0037_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0037.jpg",
+      "masked": "exam_video_v15/video2/0037_hide.jpg",
+      "answer": "exam_video_v15/video2/0037.jpg",
       "boxCount": 7,
       "time": 16.7,
       "video": "录屏2",
@@ -39911,7 +39856,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 17.0s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9396,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -39947,8 +39892,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0038_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0038.jpg",
+      "masked": "exam_video_v15/video2/0038_hide.jpg",
+      "answer": "exam_video_v15/video2/0038.jpg",
       "boxCount": 5,
       "time": 17.0,
       "video": "录屏2",
@@ -39978,7 +39923,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 17.3s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9397,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -40014,8 +39959,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0039_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0039.jpg",
+      "masked": "exam_video_v15/video2/0039_hide.jpg",
+      "answer": "exam_video_v15/video2/0039.jpg",
       "boxCount": 5,
       "time": 17.3,
       "video": "录屏2",
@@ -40044,7 +39989,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 17.6s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9398,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -40080,8 +40025,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0040_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0040.jpg",
+      "masked": "exam_video_v15/video2/0040_hide.jpg",
+      "answer": "exam_video_v15/video2/0040.jpg",
       "boxCount": 5,
       "time": 17.6,
       "video": "录屏2",
@@ -40110,7 +40055,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 17.9s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9399,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -40146,8 +40091,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0041_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0041.jpg",
+      "masked": "exam_video_v15/video2/0041_hide.jpg",
+      "answer": "exam_video_v15/video2/0041.jpg",
       "boxCount": 5,
       "time": 17.9,
       "video": "录屏2",
@@ -40177,7 +40122,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 18.2s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9400,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -40213,8 +40158,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0042_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0042.jpg",
+      "masked": "exam_video_v15/video2/0042_hide.jpg",
+      "answer": "exam_video_v15/video2/0042.jpg",
       "boxCount": 5,
       "time": 18.2,
       "video": "录屏2",
@@ -40243,7 +40188,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 18.8s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9401,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -40279,8 +40224,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0043_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0043.jpg",
+      "masked": "exam_video_v15/video2/0043_hide.jpg",
+      "answer": "exam_video_v15/video2/0043.jpg",
       "boxCount": 8,
       "time": 18.8,
       "video": "录屏2",
@@ -40299,7 +40244,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 19.1s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9402,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -40335,8 +40280,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0044_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0044.jpg",
+      "masked": "exam_video_v15/video2/0044_hide.jpg",
+      "answer": "exam_video_v15/video2/0044.jpg",
       "boxCount": 14,
       "time": 19.1,
       "video": "录屏2",
@@ -40364,7 +40309,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 19.7s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9403,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -40400,8 +40345,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0045_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0045.jpg",
+      "masked": "exam_video_v15/video2/0045_hide.jpg",
+      "answer": "exam_video_v15/video2/0045.jpg",
       "boxCount": 12,
       "time": 19.7,
       "video": "录屏2",
@@ -40429,7 +40374,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 20.0s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9404,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -40465,8 +40410,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0046_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0046.jpg",
+      "masked": "exam_video_v15/video2/0046_hide.jpg",
+      "answer": "exam_video_v15/video2/0046.jpg",
       "boxCount": 14,
       "time": 20.0,
       "video": "录屏2",
@@ -40490,7 +40435,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 20.3s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9405,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -40526,8 +40471,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0047_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0047.jpg",
+      "masked": "exam_video_v15/video2/0047_hide.jpg",
+      "answer": "exam_video_v15/video2/0047.jpg",
       "boxCount": 12,
       "time": 20.3,
       "video": "录屏2",
@@ -40552,7 +40497,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 20.9s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9406,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -40588,8 +40533,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0048_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0048.jpg",
+      "masked": "exam_video_v15/video2/0048_hide.jpg",
+      "answer": "exam_video_v15/video2/0048.jpg",
       "boxCount": 10,
       "time": 20.9,
       "video": "录屏2",
@@ -40613,7 +40558,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 21.2s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9407,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -40649,8 +40594,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0049_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0049.jpg",
+      "masked": "exam_video_v15/video2/0049_hide.jpg",
+      "answer": "exam_video_v15/video2/0049.jpg",
       "boxCount": 10,
       "time": 21.2,
       "video": "录屏2",
@@ -40673,7 +40618,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 21.5s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9408,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -40709,8 +40654,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0050_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0050.jpg",
+      "masked": "exam_video_v15/video2/0050_hide.jpg",
+      "answer": "exam_video_v15/video2/0050.jpg",
       "boxCount": 10,
       "time": 21.5,
       "video": "录屏2",
@@ -40734,7 +40679,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 21.8s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9409,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -40770,8 +40715,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0051_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0051.jpg",
+      "masked": "exam_video_v15/video2/0051_hide.jpg",
+      "answer": "exam_video_v15/video2/0051.jpg",
       "boxCount": 21,
       "time": 21.8,
       "video": "录屏2",
@@ -40796,7 +40741,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 22.1s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9410,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -40832,8 +40777,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0052_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0052.jpg",
+      "masked": "exam_video_v15/video2/0052_hide.jpg",
+      "answer": "exam_video_v15/video2/0052.jpg",
       "boxCount": 21,
       "time": 22.1,
       "video": "录屏2",
@@ -40858,7 +40803,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 22.4s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9411,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -40894,8 +40839,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0053_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0053.jpg",
+      "masked": "exam_video_v15/video2/0053_hide.jpg",
+      "answer": "exam_video_v15/video2/0053.jpg",
       "boxCount": 15,
       "time": 22.4,
       "video": "录屏2",
@@ -40917,7 +40862,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 22.7s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9412,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -40953,8 +40898,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0054_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0054.jpg",
+      "masked": "exam_video_v15/video2/0054_hide.jpg",
+      "answer": "exam_video_v15/video2/0054.jpg",
       "boxCount": 15,
       "time": 22.7,
       "video": "录屏2",
@@ -40977,7 +40922,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 23.1s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9413,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -41013,8 +40958,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0055_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0055.jpg",
+      "masked": "exam_video_v15/video2/0055_hide.jpg",
+      "answer": "exam_video_v15/video2/0055.jpg",
       "boxCount": 15,
       "time": 23.1,
       "video": "录屏2",
@@ -41036,7 +40981,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 23.4s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9414,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -41072,8 +41017,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0056_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0056.jpg",
+      "masked": "exam_video_v15/video2/0056_hide.jpg",
+      "answer": "exam_video_v15/video2/0056.jpg",
       "boxCount": 15,
       "time": 23.4,
       "video": "录屏2",
@@ -41097,7 +41042,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 23.7s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9415,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -41133,8 +41078,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0057_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0057.jpg",
+      "masked": "exam_video_v15/video2/0057_hide.jpg",
+      "answer": "exam_video_v15/video2/0057.jpg",
       "boxCount": 9,
       "time": 23.7,
       "video": "录屏2",
@@ -41160,7 +41105,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 24.6s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9416,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -41196,8 +41141,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0058_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0058.jpg",
+      "masked": "exam_video_v15/video2/0058_hide.jpg",
+      "answer": "exam_video_v15/video2/0058.jpg",
       "boxCount": 15,
       "time": 24.6,
       "video": "录屏2",
@@ -41220,7 +41165,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 24.9s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9417,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -41256,8 +41201,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0059_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0059.jpg",
+      "masked": "exam_video_v15/video2/0059_hide.jpg",
+      "answer": "exam_video_v15/video2/0059.jpg",
       "boxCount": 15,
       "time": 24.9,
       "video": "录屏2",
@@ -41280,7 +41225,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 25.2s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9418,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -41316,8 +41261,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0060_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0060.jpg",
+      "masked": "exam_video_v15/video2/0060_hide.jpg",
+      "answer": "exam_video_v15/video2/0060.jpg",
       "boxCount": 11,
       "time": 25.2,
       "video": "录屏2",
@@ -41342,7 +41287,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 25.5s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9419,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -41378,8 +41323,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0061_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0061.jpg",
+      "masked": "exam_video_v15/video2/0061_hide.jpg",
+      "answer": "exam_video_v15/video2/0061.jpg",
       "boxCount": 12,
       "time": 25.5,
       "video": "录屏2",
@@ -41404,7 +41349,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 25.8s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9420,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -41440,8 +41385,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0062_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0062.jpg",
+      "masked": "exam_video_v15/video2/0062_hide.jpg",
+      "answer": "exam_video_v15/video2/0062.jpg",
       "boxCount": 14,
       "time": 25.8,
       "video": "录屏2",
@@ -41469,7 +41414,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 26.7s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9421,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -41505,8 +41450,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0063_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0063.jpg",
+      "masked": "exam_video_v15/video2/0063_hide.jpg",
+      "answer": "exam_video_v15/video2/0063.jpg",
       "boxCount": 6,
       "time": 26.7,
       "video": "录屏2",
@@ -41537,7 +41482,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 27.6s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9422,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -41573,8 +41518,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0064_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0064.jpg",
+      "masked": "exam_video_v15/video2/0064_hide.jpg",
+      "answer": "exam_video_v15/video2/0064.jpg",
       "boxCount": 5,
       "time": 27.6,
       "video": "录屏2",
@@ -41602,7 +41547,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 27.9s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9423,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -41638,8 +41583,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0065_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0065.jpg",
+      "masked": "exam_video_v15/video2/0065_hide.jpg",
+      "answer": "exam_video_v15/video2/0065.jpg",
       "boxCount": 5,
       "time": 27.9,
       "video": "录屏2",
@@ -41668,7 +41613,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 28.2s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9424,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -41704,8 +41649,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0066_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0066.jpg",
+      "masked": "exam_video_v15/video2/0066_hide.jpg",
+      "answer": "exam_video_v15/video2/0066.jpg",
       "boxCount": 11,
       "time": 28.2,
       "video": "录屏2",
@@ -41729,7 +41674,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 28.5s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9425,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -41765,8 +41710,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0067_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0067.jpg",
+      "masked": "exam_video_v15/video2/0067_hide.jpg",
+      "answer": "exam_video_v15/video2/0067.jpg",
       "boxCount": 10,
       "time": 28.5,
       "video": "录屏2",
@@ -41789,7 +41734,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 29.1s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9426,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -41825,8 +41770,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0068_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0068.jpg",
+      "masked": "exam_video_v15/video2/0068_hide.jpg",
+      "answer": "exam_video_v15/video2/0068.jpg",
       "boxCount": 16,
       "time": 29.1,
       "video": "录屏2",
@@ -41855,7 +41800,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 29.4s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9427,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -41891,8 +41836,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0069_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0069.jpg",
+      "masked": "exam_video_v15/video2/0069_hide.jpg",
+      "answer": "exam_video_v15/video2/0069.jpg",
       "boxCount": 16,
       "time": 29.4,
       "video": "录屏2",
@@ -41920,7 +41865,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 29.7s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9428,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -41956,8 +41901,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0070_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0070.jpg",
+      "masked": "exam_video_v15/video2/0070_hide.jpg",
+      "answer": "exam_video_v15/video2/0070.jpg",
       "boxCount": 12,
       "time": 29.7,
       "video": "录屏2",
@@ -41971,7 +41916,7 @@ window.KNOWLEDGE_ITEMS = [
       "([[many a]]) 许多; +([[单数名词]]),谓语动词用",
       "([[more than one]]) 许多; +([[单数名词]]),谓",
       "语动词用([[单数]])",
-      "numbers of “大量的([[多批]])"
+      "numbers of 大量的([[多批]])"
     ],
     "pagePlainText": "只能修饰可数名词的限定词 六\n名词的数 &\n( the number of ) .….的数量; 谓语动词用\n(单数 )\n( many a) 许多; +( 单数名词 ),谓语动词用\n(单数 )\n(more than one ) 许多; +( 单数名词 ),谓\n语动词用( 单数 )\nnumbers of “大量的(多批)\nboth 两者都\na good/great many 非常多\nseveral 几个\nfol “A (3) oe"
   },
@@ -41984,7 +41929,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 30.0s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9429,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -42020,8 +41965,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0071_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0071.jpg",
+      "masked": "exam_video_v15/video2/0071_hide.jpg",
+      "answer": "exam_video_v15/video2/0071.jpg",
       "boxCount": 13,
       "time": 30.0,
       "video": "录屏2",
@@ -42048,7 +41993,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 30.3s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9430,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -42084,8 +42029,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0072_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0072.jpg",
+      "masked": "exam_video_v15/video2/0072_hide.jpg",
+      "answer": "exam_video_v15/video2/0072.jpg",
       "boxCount": 11,
       "time": 30.3,
       "video": "录屏2",
@@ -42113,7 +42058,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 30.6s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9431,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -42149,8 +42094,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0073_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0073.jpg",
+      "masked": "exam_video_v15/video2/0073_hide.jpg",
+      "answer": "exam_video_v15/video2/0073.jpg",
       "boxCount": 9,
       "time": 30.6,
       "video": "录屏2",
@@ -42176,7 +42121,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 30.9s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9432,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -42212,8 +42157,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0074_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0074.jpg",
+      "masked": "exam_video_v15/video2/0074_hide.jpg",
+      "answer": "exam_video_v15/video2/0074.jpg",
       "boxCount": 8,
       "time": 30.9,
       "video": "录屏2",
@@ -42239,7 +42184,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 31.2s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9433,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -42275,8 +42220,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0075_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0075.jpg",
+      "masked": "exam_video_v15/video2/0075_hide.jpg",
+      "answer": "exam_video_v15/video2/0075.jpg",
       "boxCount": 8,
       "time": 31.2,
       "video": "录屏2",
@@ -42303,7 +42248,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 31.5s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9434,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -42339,8 +42284,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0076_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0076.jpg",
+      "masked": "exam_video_v15/video2/0076_hide.jpg",
+      "answer": "exam_video_v15/video2/0076.jpg",
       "boxCount": 19,
       "time": 31.5,
       "video": "录屏2",
@@ -42351,7 +42296,7 @@ window.KNOWLEDGE_ITEMS = [
       "‘SIA: 主要用于([[有生命名词]]),少量固定",
       "无生命",
       "人单数名词在未尾加([[s]])",
-      "@ 复数名词一般在未尾加(“)",
+      "@ 复数名词一般在未尾加()",
       "@ 不规则复数名词后加([[s]])",
       "@ 表示([[各自]])的所有关系时, 各名词末尾(都",
       "表示([[共有]])的所有关系时在(最后一词未"
@@ -42367,7 +42312,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 31.8s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9435,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -42403,8 +42348,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0077_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0077.jpg",
+      "masked": "exam_video_v15/video2/0077_hide.jpg",
+      "answer": "exam_video_v15/video2/0077.jpg",
       "boxCount": 14,
       "time": 31.8,
       "video": "录屏2",
@@ -42417,7 +42362,7 @@ window.KNOWLEDGE_ITEMS = [
       "@ 不规则复数名词后加([[S]])",
       "@ 表示([[各自]])的所有关系时, 各名词未尾(都",
       "表示([[共有]])的所有关系时在(最后一词未",
-      "G@) 表示“某人家?或“店铺”所有格后名词省"
+      "G@) 表示某人家?或店铺所有格后名词省"
     ],
     "pagePlainText": "'s所有格\n@ 复数名词一般在未尾加(' ) :\n( Teachers' Day ) 教师节\n@ 不规则复数名词后加( 'S ) :\n( Children's Day ) 儿童节\n@ 表示( 各自 )的所有关系时, 各名词未尾( 都\n加's ):\nJane's and Mary's mothers\n© 表示( 共有 )的所有关系时在( 最后一词未\n加's ):\nJane and Mary's mother\nG@) 表示“某人家?或“店铺”所有格后名词省\nthe doctor's, the barber's, my uncle's\n|| < YN oe"
   },
@@ -42430,7 +42375,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 32.2s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9436,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -42466,8 +42411,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0078_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0078.jpg",
+      "masked": "exam_video_v15/video2/0078_hide.jpg",
+      "answer": "exam_video_v15/video2/0078.jpg",
       "boxCount": 12,
       "time": 32.2,
       "video": "录屏2",
@@ -42478,7 +42423,7 @@ window.KNOWLEDGE_ITEMS = [
       "s所有格 ¥",
       "@ 表示([[各自]])的所有关系时, 各名词未尾(都",
       "表示([[共有]])的所有关系时在(最后一词未",
-      "G@@) 表示“某人家?或店铺” 所有格后名词省"
+      "G@@) 表示某人家?或店铺所有格后名词省"
     ],
     "pagePlainText": "'s所有格 ¥\n( Children's Day ) 儿童节\n@ 表示( 各自 )的所有关系时, 各名词未尾( 都\n加's ):\nJane's and Mary's mothers\n© 表示( 共有 )的所有关系时在( 最后一词未\n加's ):\nJane and Mary's mother\nG@@) 表示“某人家?或店铺” 所有格后名词省\nthe doctor's, the barber's, my uncle's\n|| < YN oe"
   },
@@ -42491,7 +42436,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 32.5s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9437,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -42527,8 +42472,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0079_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0079.jpg",
+      "masked": "exam_video_v15/video2/0079_hide.jpg",
+      "answer": "exam_video_v15/video2/0079.jpg",
       "boxCount": 12,
       "time": 32.5,
       "video": "录屏2",
@@ -42540,7 +42485,7 @@ window.KNOWLEDGE_ITEMS = [
       "@ 不规则复数名词后加([[s]])",
       "@ 表示([[各自]])的所有关系时, 各名词未尾(都",
       "表示([[共有]])的所有关系时在(最后一词未",
-      "G@) 表示“某人家?或“店铺所有格后名词省"
+      "G@) 表示某人家?或店铺所有格后名词省"
     ],
     "pagePlainText": "'s所有格 ¥\n@ 不规则复数名词后加( 's ):\n( Children's Day ) 儿童节\n@ 表示( 各自 )的所有关系时, 各名词未尾( 都\n加's ):\nJane's and Mary's mothers\n© 表示( 共有 )的所有关系时在( 最后一词未\n加's ):\nJane and Mary's mother\nG@) 表示“某人家?或“店铺 所有格后名词省\nthe doctor's, the barber's, my uncle's\n|| < YN oe"
   },
@@ -42553,7 +42498,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 32.8s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9438,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -42589,8 +42534,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0080_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0080.jpg",
+      "masked": "exam_video_v15/video2/0080_hide.jpg",
+      "answer": "exam_video_v15/video2/0080.jpg",
       "boxCount": 11,
       "time": 32.8,
       "video": "录屏2",
@@ -42602,7 +42547,7 @@ window.KNOWLEDGE_ITEMS = [
       "@ 不规则复数名词后加([[s]])",
       "@@ 表示([[各自]])的所有关系时, 各名词未尾(都",
       "表示([[共有]])的所有关系时在(最后一词未",
-      "G@) 表示“某人家?或店铺” 所有格后名词省"
+      "G@) 表示某人家?或店铺所有格后名词省"
     ],
     "pagePlainText": "'s所有格\n@ 不规则复数名词后加( 's ):\n( Children's Day ) 儿童节\n@@ 表示( 各自 )的所有关系时, 各名词未尾( 都\n加's ):\nJane's and Mary's mothers\n© 表示( 共有 )的所有关系时在( 最后一词未\n加's ):\nJane and Mary's mother\nG@) 表示“某人家?或店铺” 所有格后名词省\nthe doctor's, the barber's, my uncle's\n|| < YN oe"
   },
@@ -42615,7 +42560,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 33.1s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9439,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -42651,8 +42596,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0081_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0081.jpg",
+      "masked": "exam_video_v15/video2/0081_hide.jpg",
+      "answer": "exam_video_v15/video2/0081.jpg",
       "boxCount": 4,
       "time": 33.1,
       "video": "录屏2",
@@ -42676,7 +42621,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 33.4s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9440,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -42712,8 +42657,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0082_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0082.jpg",
+      "masked": "exam_video_v15/video2/0082_hide.jpg",
+      "answer": "exam_video_v15/video2/0082.jpg",
       "boxCount": 4,
       "time": 33.4,
       "video": "录屏2",
@@ -42737,7 +42682,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 34.6s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9441,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -42773,8 +42718,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0083_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0083.jpg",
+      "masked": "exam_video_v15/video2/0083_hide.jpg",
+      "answer": "exam_video_v15/video2/0083.jpg",
       "boxCount": 7,
       "time": 34.6,
       "video": "录屏2",
@@ -42799,7 +42744,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 34.9s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9442,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -42835,8 +42780,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0084_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0084.jpg",
+      "masked": "exam_video_v15/video2/0084_hide.jpg",
+      "answer": "exam_video_v15/video2/0084.jpg",
       "boxCount": 6,
       "time": 34.9,
       "video": "录屏2",
@@ -42862,7 +42807,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 35.2s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9443,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -42898,8 +42843,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0085_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0085.jpg",
+      "masked": "exam_video_v15/video2/0085_hide.jpg",
+      "answer": "exam_video_v15/video2/0085.jpg",
       "boxCount": 9,
       "time": 35.2,
       "video": "录屏2",
@@ -42915,8 +42860,8 @@ window.KNOWLEDGE_ITEMS = [
       "themselves 他们自己",
       "常见固定搭配",
       "([[enjoy oneself]]) 玩得开心",
-      "“help oneself) 随便吃/用",
-      "Oneself at home) “别客气/随意",
+      "help oneself) 随便吃/用",
+      "Oneself at home) 别客气/随意",
       "ito oneself) 心里想/自言自"
     ],
     "pagePlainText": "反身代词 全\n表示: ( 某人自己 )\nmyself 我自己, ourselves 我们自己,\nyourself 你自己, yourselves 你们自己\nhimself/herselffitself 他/她/它自 =F\nthemselves 他们自己\n常见固定搭配:\n( by oneself ) 独自地\n( enjoy oneself ) 玩得开心\n“help oneself ) 随便吃/用\nach oneself ) 自学\nOneself at home ) “别客气/随意\n-ito oneself ) 心里想/自言自\n( behave oneself ) SPRUE\n门 ww 从 ae"
@@ -42930,7 +42875,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 35.5s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9444,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -42966,8 +42911,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0086_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0086.jpg",
+      "masked": "exam_video_v15/video2/0086_hide.jpg",
+      "answer": "exam_video_v15/video2/0086.jpg",
       "boxCount": 10,
       "time": 35.5,
       "video": "录屏2",
@@ -42983,7 +42928,7 @@ window.KNOWLEDGE_ITEMS = [
       "常见固定搭配",
       "([[enjoy oneself]]) 玩得开心",
       "([[help oneself]]) 随便吃/用",
-      "([[make oneself at home]]) “别客气/随意",
+      "([[make oneself at home]]) 别客气/随意",
       "([[say to oneself]]) 心里想/自言自"
     ],
     "pagePlainText": "Rata *\n表示: ( 某人自己 )\nmyself 我自己, ourselves 我们自己,\nyourself 你自己, yourselves 你们自己\nhimself/herselffitself 他/她/它自己,\nthemselves 他们自己\n常见固定搭配:\n( by oneself ) 独自地\n( enjoy oneself ) 玩得开心\n( help oneself ) 随便吃/用\n(teach oneself ) 自学\n(make oneself at home ) “别客气/随意\n( say to oneself ) 心里想/自言自\n( behave oneself ) 守规矩\n‘| A» (>) oe"
@@ -42997,7 +42942,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 35.8s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9445,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -43033,8 +42978,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0087_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0087.jpg",
+      "masked": "exam_video_v15/video2/0087_hide.jpg",
+      "answer": "exam_video_v15/video2/0087.jpg",
       "boxCount": 15,
       "time": 35.8,
       "video": "录屏2",
@@ -43049,7 +42994,7 @@ window.KNOWLEDGE_ITEMS = [
       "常见固定搭配",
       "([[enjoy oneself]]) 玩得开心",
       "([[help oneself]]) 随便吃/用",
-      "([[make oneself at home]]) “别客气/随意",
+      "([[make oneself at home]]) 别客气/随意",
       "([[say to oneself]]) 心里想/自言自",
       "([[hurt oneself]]) 伤到自己",
       "([[come to oneself]]) 苏醒过来"
@@ -43065,7 +43010,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 36.1s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9446,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -43101,8 +43046,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0088_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0088.jpg",
+      "masked": "exam_video_v15/video2/0088_hide.jpg",
+      "answer": "exam_video_v15/video2/0088.jpg",
       "boxCount": 12,
       "time": 36.1,
       "video": "录屏2",
@@ -43114,7 +43059,7 @@ window.KNOWLEDGE_ITEMS = [
       "反身代词 &",
       "([[enjoy oneself]]) 玩得开心",
       "([[help oneself]]) 随便吃/用",
-      "([[make oneself athome]]) “别客气/随意",
+      "([[make oneself athome]]) 别客气/随意",
       "([[say to oneself]]) 心里想/自言自",
       "([[hurt oneself]]) 伤到自己",
       "([[come to oneself]]) 苏醒过来"
@@ -43130,7 +43075,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 36.4s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9447,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -43166,8 +43111,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0089_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0089.jpg",
+      "masked": "exam_video_v15/video2/0089_hide.jpg",
+      "answer": "exam_video_v15/video2/0089.jpg",
       "boxCount": 13,
       "time": 36.4,
       "video": "录屏2",
@@ -43180,7 +43125,7 @@ window.KNOWLEDGE_ITEMS = [
       "反身代词 &",
       "([[enjoy oneself]]) 玩得开心",
       "([[help oneself]]) 随便吃/用",
-      "([[make oneself at home]]) “别客气/随意",
+      "([[make oneself at home]]) 别客气/随意",
       "([[say to oneself]]) 心里想/自言自",
       "([[hurt oneself]]) 伤到自己",
       "([[come to oneself]]) 苏醒过来"
@@ -43196,7 +43141,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 36.7s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9448,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -43232,8 +43177,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0090_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0090.jpg",
+      "masked": "exam_video_v15/video2/0090_hide.jpg",
+      "answer": "exam_video_v15/video2/0090.jpg",
       "boxCount": 13,
       "time": 36.7,
       "video": "录屏2",
@@ -43244,7 +43189,7 @@ window.KNOWLEDGE_ITEMS = [
       "第一章基础语法 / (tia",
       "([[enjoy oneself]]) 玩得开心",
       "([[help oneself]]) 随便吃/用",
-      "([[make oneself at home]]) “别客气/随意",
+      "([[make oneself at home]]) 别客气/随意",
       "([[say to oneself]]) 心里想/自言自",
       "([[hurt oneself]]) 伤到自己",
       "([[come to oneself]]) 苏醒过来"
@@ -43260,7 +43205,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 37.3s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9449,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -43296,8 +43241,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0091_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0091.jpg",
+      "masked": "exam_video_v15/video2/0091_hide.jpg",
+      "answer": "exam_video_v15/video2/0091.jpg",
       "boxCount": 8,
       "time": 37.3,
       "video": "录屏2",
@@ -43324,7 +43269,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 38.2s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9450,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -43360,8 +43305,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0092_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0092.jpg",
+      "masked": "exam_video_v15/video2/0092_hide.jpg",
+      "answer": "exam_video_v15/video2/0092.jpg",
       "boxCount": 8,
       "time": 38.2,
       "video": "录屏2",
@@ -43387,7 +43332,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 39.1s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9451,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -43423,8 +43368,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0093_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0093.jpg",
+      "masked": "exam_video_v15/video2/0093_hide.jpg",
+      "answer": "exam_video_v15/video2/0093.jpg",
       "boxCount": 6,
       "time": 39.1,
       "video": "录屏2",
@@ -43448,7 +43393,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 39.7s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9452,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -43484,8 +43429,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0094_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0094.jpg",
+      "masked": "exam_video_v15/video2/0094_hide.jpg",
+      "answer": "exam_video_v15/video2/0094.jpg",
       "boxCount": 7,
       "time": 39.7,
       "video": "录屏2",
@@ -43511,7 +43456,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 40.3s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9453,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -43547,8 +43492,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0095_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0095.jpg",
+      "masked": "exam_video_v15/video2/0095_hide.jpg",
+      "answer": "exam_video_v15/video2/0095.jpg",
       "boxCount": 10,
       "time": 40.3,
       "video": "录屏2",
@@ -43573,7 +43518,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 40.9s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9454,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -43609,8 +43554,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0096_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0096.jpg",
+      "masked": "exam_video_v15/video2/0096_hide.jpg",
+      "answer": "exam_video_v15/video2/0096.jpg",
       "boxCount": 15,
       "time": 40.9,
       "video": "录屏2",
@@ -43641,7 +43586,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 41.3s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9455,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -43677,8 +43622,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0097_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0097.jpg",
+      "masked": "exam_video_v15/video2/0097_hide.jpg",
+      "answer": "exam_video_v15/video2/0097.jpg",
       "boxCount": 15,
       "time": 41.3,
       "video": "录屏2",
@@ -43709,7 +43654,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 41.6s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9456,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -43745,8 +43690,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0098_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0098.jpg",
+      "masked": "exam_video_v15/video2/0098_hide.jpg",
+      "answer": "exam_video_v15/video2/0098.jpg",
       "boxCount": 15,
       "time": 41.6,
       "video": "录屏2",
@@ -43773,7 +43718,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 41.9s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9457,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -43809,8 +43754,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0099_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0099.jpg",
+      "masked": "exam_video_v15/video2/0099_hide.jpg",
+      "answer": "exam_video_v15/video2/0099.jpg",
       "boxCount": 14,
       "time": 41.9,
       "video": "录屏2",
@@ -43838,7 +43783,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 42.2s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9458,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -43874,8 +43819,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0100_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0100.jpg",
+      "masked": "exam_video_v15/video2/0100_hide.jpg",
+      "answer": "exam_video_v15/video2/0100.jpg",
       "boxCount": 14,
       "time": 42.2,
       "video": "录屏2",
@@ -43902,7 +43847,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 42.5s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9459,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -43938,8 +43883,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0101_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0101.jpg",
+      "masked": "exam_video_v15/video2/0101_hide.jpg",
+      "answer": "exam_video_v15/video2/0101.jpg",
       "boxCount": 13,
       "time": 42.5,
       "video": "录屏2",
@@ -43966,7 +43911,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 43.1s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9460,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -44002,8 +43947,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0102_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0102.jpg",
+      "masked": "exam_video_v15/video2/0102_hide.jpg",
+      "answer": "exam_video_v15/video2/0102.jpg",
       "boxCount": 13,
       "time": 43.1,
       "video": "录屏2",
@@ -44029,7 +43974,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 43.4s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9461,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -44065,8 +44010,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0103_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0103.jpg",
+      "masked": "exam_video_v15/video2/0103_hide.jpg",
+      "answer": "exam_video_v15/video2/0103.jpg",
       "boxCount": 13,
       "time": 43.4,
       "video": "录屏2",
@@ -44092,7 +44037,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 43.7s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9462,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -44128,8 +44073,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0104_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0104.jpg",
+      "masked": "exam_video_v15/video2/0104_hide.jpg",
+      "answer": "exam_video_v15/video2/0104.jpg",
       "boxCount": 22,
       "time": 43.7,
       "video": "录屏2",
@@ -44141,7 +44086,7 @@ window.KNOWLEDGE_ITEMS = [
       "不定代词 tetoke",
       "指代范围含义用法",
       "([[泛指]]) 其他的修饰([[可数复数n./不可数n.]])",
-      "([[特指]]) ([[两者中另一个]]) ”修饰([[单数mn.]])",
+      "([[特指]]) ([[两者中另一个]]) 修饰([[单数mn.]])",
       "([[特指]]) ([[范围内其余全部]]) 修饰([[复数n.]])",
       "others =([[other+复数名词]])",
       "([[泛指]]) 其他的部分 ([[不修饰名词]])",
@@ -44160,7 +44105,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 44.0s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9463,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -44196,8 +44141,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0105_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0105.jpg",
+      "masked": "exam_video_v15/video2/0105_hide.jpg",
+      "answer": "exam_video_v15/video2/0105.jpg",
       "boxCount": 20,
       "time": 44.0,
       "video": "录屏2",
@@ -44208,7 +44153,7 @@ window.KNOWLEDGE_ITEMS = [
       "不定代词辨析([[6]]): other, the",
       "指代范围含义用法",
       "([[泛指]]) 其他的修饰([[可数复数n./不可数nm.]])",
-      "([[特指]]) ([[两者中另一个]]) ”修饰([[单数n.]])",
+      "([[特指]]) ([[两者中另一个]]) 修饰([[单数n.]])",
       "([[特指]]) ([[范围内其余全部]]) 修饰([[复数n.]])",
       "@) others =([[other+复数名词]])",
       "([[泛指]]) 其他的部分 ([[不修饰名词]])",
@@ -44227,7 +44172,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 44.3s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9464,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -44263,8 +44208,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0106_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0106.jpg",
+      "masked": "exam_video_v15/video2/0106_hide.jpg",
+      "answer": "exam_video_v15/video2/0106.jpg",
       "boxCount": 18,
       "time": 44.3,
       "video": "录屏2",
@@ -44274,7 +44219,7 @@ window.KNOWLEDGE_ITEMS = [
     "pageClozeTextLines": [
       "不证代词关析[[[6]]]: other the",
       "不定代词 ee",
-      "([[448]]) ([[两者中另一个]]) ”修饰([[单数mn.]])",
+      "([[448]]) ([[两者中另一个]]) 修饰([[单数mn.]])",
       "([[特指]]) ([[范围内其余全部]]) 修饰([[复数n.]])",
       "others =([[other+复数名词]])",
       "([[泛指]]) 其他的部分 ([[不修饰名词]])",
@@ -44293,7 +44238,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 44.6s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9465,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -44329,8 +44274,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0107_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0107.jpg",
+      "masked": "exam_video_v15/video2/0107_hide.jpg",
+      "answer": "exam_video_v15/video2/0107.jpg",
       "boxCount": 17,
       "time": 44.6,
       "video": "录屏2",
@@ -44339,7 +44284,7 @@ window.KNOWLEDGE_ITEMS = [
     "isVideoExam": true,
     "pageClozeTextLines": [
       "二本有所[6 other the",
-      "([[特指]]) ([[两者中另一个]]) ”修饰([[单数mn.]])",
+      "([[特指]]) ([[两者中另一个]]) 修饰([[单数mn.]])",
       "([[特指]]) ([[范围内其余全部]]) 修饰([[复数n.]])",
       "others =([[other+复数名词]])",
       "([[泛指]]) 其他的部分 ([[不修饰名词]])",
@@ -44358,7 +44303,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 44.9s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9466,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -44394,8 +44339,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0108_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0108.jpg",
+      "masked": "exam_video_v15/video2/0108_hide.jpg",
+      "answer": "exam_video_v15/video2/0108.jpg",
       "boxCount": 19,
       "time": 44.9,
       "video": "录屏2",
@@ -44403,7 +44348,7 @@ window.KNOWLEDGE_ITEMS = [
     },
     "isVideoExam": true,
     "pageClozeTextLines": [
-      "([[特指]]) ([[两者中另一个]]) ”修饰([[单数mn.]])",
+      "([[特指]]) ([[两者中另一个]]) 修饰([[单数mn.]])",
       "([[特指]]) ([[范围内其余全部]]) 修饰([[复数n.]])",
       "others =([[other+复数名词]])",
       "([[泛指]]) 其他的部分 ([[不修饰名词]])",
@@ -44422,7 +44367,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 45.2s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9467,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -44458,8 +44403,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0109_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0109.jpg",
+      "masked": "exam_video_v15/video2/0109_hide.jpg",
+      "answer": "exam_video_v15/video2/0109.jpg",
       "boxCount": 10,
       "time": 45.2,
       "video": "录屏2",
@@ -44486,7 +44431,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 46.1s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9468,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -44522,8 +44467,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0110_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0110.jpg",
+      "masked": "exam_video_v15/video2/0110_hide.jpg",
+      "answer": "exam_video_v15/video2/0110.jpg",
       "boxCount": 11,
       "time": 46.1,
       "video": "录屏2",
@@ -44548,7 +44493,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 46.7s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9469,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -44584,8 +44529,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0111_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0111.jpg",
+      "masked": "exam_video_v15/video2/0111_hide.jpg",
+      "answer": "exam_video_v15/video2/0111.jpg",
       "boxCount": 17,
       "time": 46.7,
       "video": "录屏2",
@@ -44614,7 +44559,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 47.3s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9470,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -44650,8 +44595,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0112_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0112.jpg",
+      "masked": "exam_video_v15/video2/0112_hide.jpg",
+      "answer": "exam_video_v15/video2/0112.jpg",
       "boxCount": 11,
       "time": 47.3,
       "video": "录屏2",
@@ -44678,7 +44623,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 47.6s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9471,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -44714,8 +44659,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0113_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0113.jpg",
+      "masked": "exam_video_v15/video2/0113_hide.jpg",
+      "answer": "exam_video_v15/video2/0113.jpg",
       "boxCount": 13,
       "time": 47.6,
       "video": "录屏2",
@@ -44742,7 +44687,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 47.9s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9472,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -44778,8 +44723,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0114_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0114.jpg",
+      "masked": "exam_video_v15/video2/0114_hide.jpg",
+      "answer": "exam_video_v15/video2/0114.jpg",
       "boxCount": 22,
       "time": 47.9,
       "video": "录屏2",
@@ -44809,7 +44754,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 48.2s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9473,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -44845,8 +44790,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0115_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0115.jpg",
+      "masked": "exam_video_v15/video2/0115_hide.jpg",
+      "answer": "exam_video_v15/video2/0115.jpg",
       "boxCount": 23,
       "time": 48.2,
       "video": "录屏2",
@@ -44875,7 +44820,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 48.5s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9474,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -44911,8 +44856,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0116_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0116.jpg",
+      "masked": "exam_video_v15/video2/0116_hide.jpg",
+      "answer": "exam_video_v15/video2/0116.jpg",
       "boxCount": 22,
       "time": 48.5,
       "video": "录屏2",
@@ -44941,7 +44886,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 48.8s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9475,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -44977,8 +44922,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0117_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0117.jpg",
+      "masked": "exam_video_v15/video2/0117_hide.jpg",
+      "answer": "exam_video_v15/video2/0117.jpg",
       "boxCount": 16,
       "time": 48.8,
       "video": "录屏2",
@@ -45006,7 +44951,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 49.1s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9476,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -45042,8 +44987,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0118_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0118.jpg",
+      "masked": "exam_video_v15/video2/0118_hide.jpg",
+      "answer": "exam_video_v15/video2/0118.jpg",
       "boxCount": 13,
       "time": 49.1,
       "video": "录屏2",
@@ -45069,7 +45014,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 49.4s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9477,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -45105,8 +45050,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0119_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0119.jpg",
+      "masked": "exam_video_v15/video2/0119_hide.jpg",
+      "answer": "exam_video_v15/video2/0119.jpg",
       "boxCount": 14,
       "time": 49.4,
       "video": "录屏2",
@@ -45132,7 +45077,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 49.7s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9478,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -45168,8 +45113,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0120_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0120.jpg",
+      "masked": "exam_video_v15/video2/0120_hide.jpg",
+      "answer": "exam_video_v15/video2/0120.jpg",
       "boxCount": 16,
       "time": 49.7,
       "video": "录屏2",
@@ -45195,7 +45140,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 50.3s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9479,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -45231,8 +45176,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0121_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0121.jpg",
+      "masked": "exam_video_v15/video2/0121_hide.jpg",
+      "answer": "exam_video_v15/video2/0121.jpg",
       "boxCount": 26,
       "time": 50.3,
       "video": "录屏2",
@@ -45259,7 +45204,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 50.7s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9480,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -45295,8 +45240,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0122_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0122.jpg",
+      "masked": "exam_video_v15/video2/0122_hide.jpg",
+      "answer": "exam_video_v15/video2/0122.jpg",
       "boxCount": 25,
       "time": 50.7,
       "video": "录屏2",
@@ -45323,7 +45268,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 51.0s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9481,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -45359,8 +45304,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0123_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0123.jpg",
+      "masked": "exam_video_v15/video2/0123_hide.jpg",
+      "answer": "exam_video_v15/video2/0123.jpg",
       "boxCount": 20,
       "time": 51.0,
       "video": "录屏2",
@@ -45387,7 +45332,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 51.3s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9482,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -45423,8 +45368,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0124_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0124.jpg",
+      "masked": "exam_video_v15/video2/0124_hide.jpg",
+      "answer": "exam_video_v15/video2/0124.jpg",
       "boxCount": 18,
       "time": 51.3,
       "video": "录屏2",
@@ -45448,7 +45393,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 51.6s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9483,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -45484,8 +45429,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0125_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0125.jpg",
+      "masked": "exam_video_v15/video2/0125_hide.jpg",
+      "answer": "exam_video_v15/video2/0125.jpg",
       "boxCount": 19,
       "time": 51.6,
       "video": "录屏2",
@@ -45510,7 +45455,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 51.9s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9484,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -45546,8 +45491,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0126_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0126.jpg",
+      "masked": "exam_video_v15/video2/0126_hide.jpg",
+      "answer": "exam_video_v15/video2/0126.jpg",
       "boxCount": 19,
       "time": 51.9,
       "video": "录屏2",
@@ -45572,7 +45517,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 52.2s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9485,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -45608,8 +45553,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0127_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0127.jpg",
+      "masked": "exam_video_v15/video2/0127_hide.jpg",
+      "answer": "exam_video_v15/video2/0127.jpg",
       "boxCount": 11,
       "time": 52.2,
       "video": "录屏2",
@@ -45633,7 +45578,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 52.5s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9486,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -45669,8 +45614,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0128_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0128.jpg",
+      "masked": "exam_video_v15/video2/0128_hide.jpg",
+      "answer": "exam_video_v15/video2/0128.jpg",
       "boxCount": 7,
       "time": 52.5,
       "video": "录屏2",
@@ -45694,7 +45639,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 52.8s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9487,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -45730,8 +45675,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0129_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0129.jpg",
+      "masked": "exam_video_v15/video2/0129_hide.jpg",
+      "answer": "exam_video_v15/video2/0129.jpg",
       "boxCount": 7,
       "time": 52.8,
       "video": "录屏2",
@@ -45756,7 +45701,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 53.1s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9488,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -45792,8 +45737,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0130_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0130.jpg",
+      "masked": "exam_video_v15/video2/0130_hide.jpg",
+      "answer": "exam_video_v15/video2/0130.jpg",
       "boxCount": 3,
       "time": 53.1,
       "video": "录屏2",
@@ -45815,7 +45760,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 54.3s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9489,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -45851,8 +45796,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0131_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0131.jpg",
+      "masked": "exam_video_v15/video2/0131_hide.jpg",
+      "answer": "exam_video_v15/video2/0131.jpg",
       "boxCount": 4,
       "time": 54.3,
       "video": "录屏2",
@@ -45875,7 +45820,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 54.6s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9490,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -45911,8 +45856,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0132_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0132.jpg",
+      "masked": "exam_video_v15/video2/0132_hide.jpg",
+      "answer": "exam_video_v15/video2/0132.jpg",
       "boxCount": 11,
       "time": 54.6,
       "video": "录屏2",
@@ -45925,7 +45870,7 @@ window.KNOWLEDGE_ITEMS = [
       "([[2]]) 不加定冠词the的情况",
       "序数词作([[副词]])",
       "@ 前面已([[有其他限定词]])",
-      "@ 表示([[“又一/再一”]]),用不定冠词([[alan]])"
+      "@ 表示([[又一/再一]]),用不定冠词([[alan]])"
     ],
     "pagePlainText": "序数词用法 wv\n序数词 eke\n(1) 序数词前需加定冠词( the )\n(2) 不加定冠词the的情况:\n© 序数词作( 副词 )\n@ 前面已( 有其他限定词 )\n@ 表示(“又一/再一” ),用不定冠词( alan )\n( First ), you must make a clear plan.\nYou are ( my first ) lover.\nPlease give me (a ) second chance.\nfal A» (>) oe"
   },
@@ -45938,7 +45883,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 54.9s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9491,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -45974,8 +45919,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0133_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0133.jpg",
+      "masked": "exam_video_v15/video2/0133_hide.jpg",
+      "answer": "exam_video_v15/video2/0133.jpg",
       "boxCount": 13,
       "time": 54.9,
       "video": "录屏2",
@@ -45988,7 +45933,7 @@ window.KNOWLEDGE_ITEMS = [
       "([[2]]) 不加定冠词the的情况",
       "序数词作([[副词]])",
       "@ 前面已([[有其他限定词]])",
-      "@ 表示([[“又一/再一”]]),用不定冠词([[a/an]])"
+      "@ 表示([[又一/再一]]),用不定冠词([[a/an]])"
     ],
     "pagePlainText": "序数词用法 六\n(1) 序数词前需加定冠词( the )\n(2) 不加定冠词the的情况:\n® 序数词作( 副词 )\n@ 前面已( 有其他限定词 )\n@ 表示(“又一/再一” ),用不定冠词( a/an )\n( First ), you must make a clear plan.\nYou are ( my first ) lover.\nPlease give me ( a) second chance.\ni | A» (>) oe"
   },
@@ -46001,7 +45946,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 55.5s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9492,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -46037,8 +45982,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0134_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0134.jpg",
+      "masked": "exam_video_v15/video2/0134_hide.jpg",
+      "answer": "exam_video_v15/video2/0134.jpg",
       "boxCount": 10,
       "time": 55.5,
       "video": "录屏2",
@@ -46057,7 +46002,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 56.4s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9493,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -46093,8 +46038,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0135_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0135.jpg",
+      "masked": "exam_video_v15/video2/0135_hide.jpg",
+      "answer": "exam_video_v15/video2/0135.jpg",
       "boxCount": 9,
       "time": 56.4,
       "video": "录屏2",
@@ -46103,7 +46048,7 @@ window.KNOWLEDGE_ITEMS = [
     "isVideoExam": true,
     "pageClozeTextLines": [
       "O 分子用([[基数词]]),分母用([[序数词]])",
-      "@ 当分子超过“1人”时,分母用([[复数]])",
+      "@ 当分子超过1人时,分母用([[复数]])",
       "@ 分子或分母数目较大时, 两者都用基数词, 中",
       "间用in/overout of 连接",
       "三分之一: ([[one third]])",
@@ -46122,7 +46067,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 57.0s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9494,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -46158,8 +46103,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0136_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0136.jpg",
+      "masked": "exam_video_v15/video2/0136_hide.jpg",
+      "answer": "exam_video_v15/video2/0136.jpg",
       "boxCount": 5,
       "time": 57.0,
       "video": "录屏2",
@@ -46168,7 +46113,7 @@ window.KNOWLEDGE_ITEMS = [
     "isVideoExam": true,
     "pageClozeTextLines": [
       "第一章基础语法 / Bua",
-      "@ 当分子超过“1人时,分母用([[复数]])",
+      "@ 当分子超过1人时,分母用([[复数]])",
       "@ 分子或分母数目较大时, 两者都用基数词, 中",
       "间用in/over/out of 连接",
       "三分之一: ([[one third]])",
@@ -46187,7 +46132,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 57.3s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9495,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -46223,8 +46168,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0137_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0137.jpg",
+      "masked": "exam_video_v15/video2/0137_hide.jpg",
+      "answer": "exam_video_v15/video2/0137.jpg",
       "boxCount": 4,
       "time": 57.3,
       "video": "录屏2",
@@ -46251,7 +46196,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 57.6s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9496,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -46287,8 +46232,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0138_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0138.jpg",
+      "masked": "exam_video_v15/video2/0138_hide.jpg",
+      "answer": "exam_video_v15/video2/0138.jpg",
       "boxCount": 6,
       "time": 57.6,
       "video": "录屏2",
@@ -46315,7 +46260,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 57.9s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9497,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -46351,8 +46296,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0139_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0139.jpg",
+      "masked": "exam_video_v15/video2/0139_hide.jpg",
+      "answer": "exam_video_v15/video2/0139.jpg",
       "boxCount": 12,
       "time": 57.9,
       "video": "录屏2",
@@ -46361,7 +46306,7 @@ window.KNOWLEDGE_ITEMS = [
     "isVideoExam": true,
     "pageClozeTextLines": [
       "前面有([[具体数字]]) ([[不加s]]),([[不加of]])",
-      "@ 表成百上千、成千上万”模糊数量加(S",
+      "@ 表成百上千、成千上万模糊数量加(S",
       "即: ([[s 和 of 要么者有,要么都没有]])",
       "上百/数百/成百上干: ([[hundrs of]])"
     ],
@@ -46376,7 +46321,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 58.5s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9498,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -46412,8 +46357,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0140_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0140.jpg",
+      "masked": "exam_video_v15/video2/0140_hide.jpg",
+      "answer": "exam_video_v15/video2/0140.jpg",
       "boxCount": 10,
       "time": 58.5,
       "video": "录屏2",
@@ -46439,7 +46384,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 58.8s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9499,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -46475,8 +46420,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0141_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0141.jpg",
+      "masked": "exam_video_v15/video2/0141_hide.jpg",
+      "answer": "exam_video_v15/video2/0141.jpg",
       "boxCount": 10,
       "time": 58.8,
       "video": "录屏2",
@@ -46503,7 +46448,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 59.4s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9500,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -46539,8 +46484,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0142_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0142.jpg",
+      "masked": "exam_video_v15/video2/0142_hide.jpg",
+      "answer": "exam_video_v15/video2/0142.jpg",
       "boxCount": 5,
       "time": 59.4,
       "video": "录屏2",
@@ -46563,7 +46508,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 59.8s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9501,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -46599,8 +46544,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0143_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0143.jpg",
+      "masked": "exam_video_v15/video2/0143_hide.jpg",
+      "answer": "exam_video_v15/video2/0143.jpg",
       "boxCount": 8,
       "time": 59.8,
       "video": "录屏2",
@@ -46624,7 +46569,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 60.1s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9502,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -46660,8 +46605,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0144_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0144.jpg",
+      "masked": "exam_video_v15/video2/0144_hide.jpg",
+      "answer": "exam_video_v15/video2/0144.jpg",
       "boxCount": 9,
       "time": 60.1,
       "video": "录屏2",
@@ -46685,7 +46630,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 60.4s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9503,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -46721,8 +46666,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0145_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0145.jpg",
+      "masked": "exam_video_v15/video2/0145_hide.jpg",
+      "answer": "exam_video_v15/video2/0145.jpg",
       "boxCount": 26,
       "time": 60.4,
       "video": "录屏2",
@@ -46741,7 +46686,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 60.7s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9504,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -46777,8 +46722,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0146_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0146.jpg",
+      "masked": "exam_video_v15/video2/0146_hide.jpg",
+      "answer": "exam_video_v15/video2/0146.jpg",
       "boxCount": 25,
       "time": 60.7,
       "video": "录屏2",
@@ -46797,7 +46742,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 61.3s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9505,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -46833,8 +46778,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0147_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0147.jpg",
+      "masked": "exam_video_v15/video2/0147_hide.jpg",
+      "answer": "exam_video_v15/video2/0147.jpg",
       "boxCount": 18,
       "time": 61.3,
       "video": "录屏2",
@@ -46853,7 +46798,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 61.6s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9506,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -46889,8 +46834,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0148_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0148.jpg",
+      "masked": "exam_video_v15/video2/0148_hide.jpg",
+      "answer": "exam_video_v15/video2/0148.jpg",
       "boxCount": 20,
       "time": 61.6,
       "video": "录屏2",
@@ -46909,7 +46854,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 61.9s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9507,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -46945,8 +46890,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0149_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0149.jpg",
+      "masked": "exam_video_v15/video2/0149_hide.jpg",
+      "answer": "exam_video_v15/video2/0149.jpg",
       "boxCount": 20,
       "time": 61.9,
       "video": "录屏2",
@@ -46965,7 +46910,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 62.2s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9508,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -47001,8 +46946,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0150_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0150.jpg",
+      "masked": "exam_video_v15/video2/0150_hide.jpg",
+      "answer": "exam_video_v15/video2/0150.jpg",
       "boxCount": 13,
       "time": 62.2,
       "video": "录屏2",
@@ -47027,7 +46972,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 63.1s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9509,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -47063,8 +47008,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0151_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0151.jpg",
+      "masked": "exam_video_v15/video2/0151_hide.jpg",
+      "answer": "exam_video_v15/video2/0151.jpg",
       "boxCount": 9,
       "time": 63.1,
       "video": "录屏2",
@@ -47093,7 +47038,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 63.4s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9510,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -47129,8 +47074,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0152_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0152.jpg",
+      "masked": "exam_video_v15/video2/0152_hide.jpg",
+      "answer": "exam_video_v15/video2/0152.jpg",
       "boxCount": 9,
       "time": 63.4,
       "video": "录屏2",
@@ -47159,7 +47104,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 64.0s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9511,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -47195,8 +47140,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0153_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0153.jpg",
+      "masked": "exam_video_v15/video2/0153_hide.jpg",
+      "answer": "exam_video_v15/video2/0153.jpg",
       "boxCount": 9,
       "time": 64.0,
       "video": "录屏2",
@@ -47222,7 +47167,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 64.3s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9512,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -47258,8 +47203,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0154_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0154.jpg",
+      "masked": "exam_video_v15/video2/0154_hide.jpg",
+      "answer": "exam_video_v15/video2/0154.jpg",
       "boxCount": 8,
       "time": 64.3,
       "video": "录屏2",
@@ -47285,7 +47230,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 64.6s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9513,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -47321,8 +47266,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0155_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0155.jpg",
+      "masked": "exam_video_v15/video2/0155_hide.jpg",
+      "answer": "exam_video_v15/video2/0155.jpg",
       "boxCount": 7,
       "time": 64.6,
       "video": "录屏2",
@@ -47348,7 +47293,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 64.9s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9514,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -47384,8 +47329,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0156_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0156.jpg",
+      "masked": "exam_video_v15/video2/0156_hide.jpg",
+      "answer": "exam_video_v15/video2/0156.jpg",
       "boxCount": 12,
       "time": 64.9,
       "video": "录屏2",
@@ -47413,7 +47358,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 65.2s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9515,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -47449,8 +47394,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0157_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0157.jpg",
+      "masked": "exam_video_v15/video2/0157_hide.jpg",
+      "answer": "exam_video_v15/video2/0157.jpg",
       "boxCount": 11,
       "time": 65.2,
       "video": "录屏2",
@@ -47478,7 +47423,7 @@ window.KNOWLEDGE_ITEMS = [
     "range": "录屏2 68.9s",
     "sourceFile": "bbc90a9c-7a49-45c4-ba1b-4d86726d96e1.mp4",
     "order": 9516,
-    "oneLine": "录屏黄色考点：先默写，再核对原图答案。",
+    "oneLine": "录屏黄色重点页；原图答案在“PDF原图/干净整理”，填空区为紧凑默写版。",
     "keywords": [
       "考点必背",
       "黄色高亮",
@@ -47514,8 +47459,8 @@ window.KNOWLEDGE_ITEMS = [
       "这页是否需要加入抗遗忘复习？"
     ],
     "pageCloze": {
-      "masked": "exam_video_v15/录屏2/0158_hide.jpg",
-      "answer": "exam_video_v15/录屏2/0158.jpg",
+      "masked": "exam_video_v15/video2/0158_hide.jpg",
+      "answer": "exam_video_v15/video2/0158.jpg",
       "boxCount": 18,
       "time": 68.9,
       "video": "录屏2",
@@ -47543,14 +47488,13 @@ window.KNOWLEDGE_ITEMS = [
       "名词的单复数刘 Ten years ([[is]]) a",
       "可数名词单数变复数的不规则变1",
       "名词的单复数",
-      "只能修饰不可数名词的限定词 nq “4"
+      "只能修饰不可数名词的限定词 nq 4"
     ],
     "pagePlainText": "第一章 基础语法 / 数词\n数词里的主谓一\n章 基础语法 主谓一致 wk kkk\n名词 @ ( 分数/百分数人\n名词的可数与不可数性 Bana: Be\n名词的可数与不可数性 诬 、_\n名词: 不可数名放\n常见不可数名词第1组\n常见不可数名词 去 名词: THRE\n常见不可数名词第2组\neer @ 时间、距离、:\n常见不可数名词第3组 (aaa):\n常见不可数名词 wwe 谓语动词: ( 单数\n常见不可数名词第4组\naa Three fifths of tt\n可数名词单数变复数的规则变化( —_ Forty percent of\n名词的单复数 & Chongqing.\n可数名词单数变复数的规则变化(\n名词的单复数 刘 Ten years (is ) a\n可数名词单数变复数的不规则变1\n名词的单复数 *\n可数名词单数变复数的不规则变1\n只能修饰不可数名词的限定词 nq “4"
   }
 ];
-
 window.KNOWLEDGE_META = {
-  "version": "v15",
+  "version": "v18 手机修复版",
   "name": "录屏考点必背修正版",
   "totalCards": 593,
   "notes": [
@@ -47589,7 +47533,8 @@ window.KNOWLEDGE_META = {
     "录屏1": 358,
     "录屏2": 159
   },
-  "removedOldExamCards": 33
+  "removedOldExamCards": 33,
+  "note": "修复移动端图片路径、压缩填空排版、过滤明显乱码、调整输入框宽度。"
 };
 
 window.KNOWLEDGE_SECTIONS = {

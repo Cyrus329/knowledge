@@ -66,7 +66,7 @@ function renderTasks(){
 }
 function quick(i){return i.oneLine || ((i.clozeLines||[])[0]||'').replace(/\[\[(.*?)\]\]/g,'$1') || ((i.memoBlocks||[])[0]?.mnemonic||[])[0] || ((i.memoBlocks||[])[0]?.mustKnow||[])[0] || (i.outline||[])[0] || ''}
 function renderList(){const arr=filtered(); if(!arr.length){$('#itemList').innerHTML='<div class="nores">没有匹配结果</div>'; return} if(!state.selected||!arr.some(i=>i.id===state.selected)) state.selected=arr[0].id; $('#itemList').innerHTML=arr.map(i=>{const s=st(i.id); return `<button class="row ${i.id===state.selected?'active':''}" data-id="${esc(i.id)}" data-subject="${esc(i.subject)}"><span class="num">${String(i.order||'').padStart(3,'0')}</span><span class="rmain"><b>${esc(i.title)}</b><em>${esc(i.subject)} · ${esc(i.chapter)} · ${esc(i.range||'')}</em><small>${esc(quick(i)).slice(0,62)}</small></span><span class="marks">${s.starred?'★':''}${s.mastered?'✓':''}</span></button>`}).join('')}
-function sec(title, html, open=false){return `<details class="sec" ${open?'open':''}><summary>${esc(title)}</summary><div class="inside">${html}</div></details>`}
+function sec(title, html, open=false){if(!String(html||'').trim())return '';return `<details class="sec" ${open?'open':''}><summary>${esc(title)}</summary><div class="inside">${html}</div></details>`}
 function tableHTML(t){return `<div class="table-wrap"><table><thead><tr>${(t.headers||[]).map(h=>`<th>${esc(h)}</th>`).join('')}</tr></thead><tbody>${(t.rows||[]).map(r=>`<tr>${r.map(c=>`<td>${esc(c)}</td>`).join('')}</tr>`).join('')}</tbody></table></div>`}
 function examplesHTML(ex){return ex&&ex.length?`<div class="examples">${ex.map(e=>`<div class="example"><b>${esc(e.en)}</b><span>${esc(e.cn)}</span><em>${esc(e.note||'')}</em></div>`).join('')}</div>`:'<p class="muted">暂无例句</p>'}
 function confusionHTML(cs){return cs&&cs.length?`<div class="confusion">${cs.map(c=>`<div class="conf-item"><b>${esc(c[0])} ${c[1]?`/ ${esc(c[1])}`:''}</b><p>${esc(c[2]||'')}</p></div>`).join('')}</div>`:'<p class="muted">暂无易混点</p>'}
@@ -88,12 +88,12 @@ function mediaHTML(i){
   if(i.pageCloze){
     const p=i.pageCloze;
     const files=i.sourceFile?`<p class="source-files">来源：${esc(i.sourceFile)} · ${esc(p.video||'录屏')} · ${esc(p.time||'')}s</p>`:'';
-    return `${files}<div class="page-gallery"><figure><div class="page-label">考点必背原图 / 答案页</div><img class="zoom" loading="lazy" src="${esc(p.answer)}" alt="${esc(i.title)} 原图答案"></figure></div>`;
+    return `${files}<div class="page-gallery exam-answer-gallery"><figure><div class="page-label">考点必背原图 / 答案页</div><img class="zoom" loading="lazy" decoding="async" src="${esc(p.answer)}" alt="${esc(i.title)} 原图答案" onerror="this.closest('figure').classList.add('img-error')"><div class="img-error-msg">图片没加载出来：上传 GitHub 时必须把 exam_video_v15 文件夹一起上传，不能只传 index.html。</div></figure></div>`;
   }
   const imgs=i.images&&i.images.length?i.images:(i.image?[i.image]:[]);
   const pdf=i.pdf?`<a class="pdf" href="${esc(i.pdf)}" target="_blank" rel="noopener">打开完整 PDF / 原图</a>`:'';
   const files=i.sourceFiles?.length?`<p class="source-files">来源：${esc(i.sourceFiles.join('；'))}</p>`:(i.sourceFile?`<p class="source-files">来源：${esc(i.sourceFile)}</p>`:'');
-  const gal=imgs.length?`<div class="page-gallery">${imgs.map((src,idx)=>`<figure><div class="page-label">第 ${idx+1} / ${imgs.length} 页</div><img class="zoom" loading="lazy" src="${esc(src)}" alt="${esc(i.title)} 第${idx+1}页"></figure>`).join('')}</div>`:'';
+  const gal=imgs.length?`<div class="page-gallery">${imgs.map((src,idx)=>`<figure><div class="page-label">第 ${idx+1} / ${imgs.length} 页</div><img class="zoom" loading="lazy" decoding="async" src="${esc(src)}" alt="${esc(i.title)} 第${idx+1}页" onerror="this.closest('figure').classList.add('img-error')"><div class="img-error-msg">图片没加载出来：请确认 images 文件夹已完整上传。</div></figure>`).join('')}</div>`:'';
   return `${pdf}${files}${gal}` || '<p class="muted">暂无原图</p>'
 }
 
@@ -137,15 +137,21 @@ function resetTimer(){pauseTimer(); timer.left=25*60; renderTimer()}
 
 
 function normAns(s){return String(s||'').trim().toLowerCase().replace(/\s+/g,'').replace(/[，。；;,.]/g,'')}
-function clozeLineHTML(line, idx){return '<p class="cloze-line">'+esc(line).replace(/\[\[(.*?)\]\]/g,(m,ans)=>{const n=Math.max(2,Math.min(10,[...ans].length+1));return `<span class="cloze-blank"><input data-cloze-input="1" data-answer="${esc(ans)}" aria-label="填空" autocomplete="off" style="--blank-ch:${n}ch"><span class="cloze-answer">${esc(ans)}</span></span>`})+'</p>'}
+function clozeLineHTML(line, idx){
+  const html=esc(line).replace(/\[\[(.*?)\]\]/g,(m,ans)=>{
+    const n=Math.max(3,Math.min(18,[...ans].length+2));
+    return `<span class="cloze-blank"><input data-cloze-input="1" data-answer="${esc(ans)}" aria-label="填空" autocomplete="off" spellcheck="false" style="--blank-ch:${n}ch"><span class="cloze-answer">${esc(ans)}</span></span>`
+  });
+  return '<p class="cloze-line">'+html+'</p>'
+}
 function clozeHTML(i){
   if(i.pageCloze){
     const lines=i.pageClozeTextLines||[];
     if(!lines.length){
-      return `<div class="cloze-box"><div class="cloze-head"><b>录屏文字填空</b><span>这一页暂时没有提取到稳定文字，请到“PDF原图/干净整理”查看原图核对。</span></div></div>`;
+      return `<div class="cloze-box compact-cloze"><div class="cloze-head slim"><b>这一页文字识别不稳定</b><span>为避免乱码，不显示自动文字。请在“PDF原图/干净整理”看原图默写。</span></div></div>`;
     }
     const p=i.pageCloze;
-    return `<div class="cloze-box video-text-cloze"><div class="cloze-head"><b>录屏文字填空</b><span>这里是录屏黄色重点的纯文字版；原图答案放在“PDF原图/干净整理”。</span></div><div class="cloze-actions"><button data-cloze-check="1">检查</button><button class="ghost" data-cloze-reveal="1">答案</button><button class="ghost" data-cloze-clear="1">清空</button></div><div class="cloze-lines">${lines.map(clozeLineHTML).join('')}</div><p class="muted">来源：${esc(p.video||'录屏')} · ${esc(p.time||'')}s · 约 ${esc(p.boxCount||0)} 处黄色重点。以原图答案为准。</p></div>`;
+    return `<div class="cloze-box video-text-cloze compact-cloze"><div class="cloze-head slim"><b>填空</b><span>原图答案在“PDF原图/干净整理”。</span></div><div class="cloze-actions"><button data-cloze-check="1">检查</button><button class="ghost" data-cloze-reveal="1">答案</button><button class="ghost" data-cloze-clear="1">清空</button></div><div class="cloze-lines">${lines.map(clozeLineHTML).join('')}</div><p class="muted small-note">${esc(p.video||'录屏')} · ${esc(p.time||'')}s · ${esc(p.boxCount||0)}处黄色重点。</p></div>`;
   }
   const lines=(i.pdfClozeLines&&i.pdfClozeLines.length)?i.pdfClozeLines:(i.clozeLines||[]);
   if(!lines.length)return '<p class="muted">这张卡没有填空内容。</p>';
@@ -194,7 +200,9 @@ document.addEventListener('click',e=>{
   const img=e.target.closest('.zoom'); if(img){$('#dialogImage').src=img.src; $('#imageDialog').showModal()}
 });
 function markRead(id){if(!st(id).read){data.study[id]={...st(id),read:true,updatedAt:new Date().toISOString()}; save()}}
-document.addEventListener('input',e=>{if(e.target.id==='searchInput'){state.q=e.target.value; state.selected=''; renderList(); renderDetail()} if(e.target.id==='hideMastered'){state.hideMastered=e.target.checked; state.selected=''; render()} if(e.target.id==='detailMode'){state.detailMode=e.target.checked; document.body.classList.toggle('detail-on',state.detailMode)} if(e.target.dataset.note){data.study[e.target.dataset.note]={...st(e.target.dataset.note),note:e.target.value,updatedAt:new Date().toISOString()}; save()}});
+document.addEventListener('input',e=>{
+  const ci=e.target.closest('[data-cloze-input]'); if(ci){const len=Math.max(3,Math.min(22,ci.value.length+2, (ci.dataset.answer||'').length+3)); ci.style.setProperty('--blank-ch',len+'ch'); return}
+if(e.target.id==='searchInput'){state.q=e.target.value; state.selected=''; renderList(); renderDetail()} if(e.target.id==='hideMastered'){state.hideMastered=e.target.checked; state.selected=''; render()} if(e.target.id==='detailMode'){state.detailMode=e.target.checked; document.body.classList.toggle('detail-on',state.detailMode)} if(e.target.dataset.note){data.study[e.target.dataset.note]={...st(e.target.dataset.note),note:e.target.value,updatedAt:new Date().toISOString()}; save()}});
 $('#chapterFilter').addEventListener('change',e=>{state.chapter=e.target.value;state.selected='';render()});
 $('#statusFilter').addEventListener('change',e=>{state.status=e.target.value;state.selected='';render()});
 $('#closeDialog').addEventListener('click',()=>$('#imageDialog').close());
