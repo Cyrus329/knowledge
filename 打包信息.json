@@ -1,26 +1,28 @@
 {
-  "version": "v6",
-  "name": "英语PDF完整分区版",
-  "total_items": 60,
-  "computer_items": 50,
-  "english_items": 10,
-  "english_pdf_pages": {
-    "EN-001": 10,
-    "EN-002": 9,
-    "EN-003": 11,
-    "EN-004": 5,
-    "EN-005": 4,
-    "EN-006": 10,
-    "EN-007": 7,
-    "EN-008": 3,
-    "EN-009": 9,
-    "EN-010": 17
-  },
-  "excluded": [
-    "158页超长英语书",
-    "名词及冠词练习题答案",
-    "形容词副词练习题答案",
-    "情态动词后面的练习册题"
+  "version": "v11",
+  "name": "考点必背全页版",
+  "source": "two user mp4 recordings",
+  "sample_interval_seconds": 0.5,
+  "added_page_cards": 526,
+  "video_breakdown": [
+    [
+      "录屏1",
+      192.83333333333334,
+      385
+    ],
+    [
+      "录屏2",
+      70.63333333333333,
+      141
+    ]
   ],
-  "progress": "所有旧 ID 保持不变；localStorage key 保持 zsb-knowledge-pwa:v1"
+  "total_cards": 602,
+  "features": [
+    "每页一张卡",
+    "黄色高亮遮挡",
+    "原图答案核对",
+    "自由输入默写",
+    "25分钟专注",
+    "抗遗忘复习"
+  ]
 }

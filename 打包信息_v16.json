@@ -1,0 +1,12 @@
+{
+  "version": "v16",
+  "name": "录屏文字填空版",
+  "source": "v15",
+  "total_cards": 591,
+  "video_exam_cards": 515,
+  "computer_video_cards": 358,
+  "english_video_cards": 157,
+  "dropped_directory_pages": 2,
+  "cloze_blank_count": 2400,
+  "note": "考点必背原图放入 PDF原图/干净整理；填空背诵改为录屏OCR纯文字填空。"
+}

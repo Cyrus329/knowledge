@@ -3,72 +3,94 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover" />
-  <title>专升本知识点速记本</title>
-  <meta name="theme-color" content="#0f766e" />
+  <title>专升本知识点速记本 · v17清爽填空修正版</title>
+  <meta name="theme-color" content="#2563eb" />
   <link rel="manifest" href="./manifest.webmanifest" />
   <link rel="icon" href="./icon-192.png" />
   <link rel="stylesheet" href="./styles.css" />
 </head>
 <body>
-  <header class="top">
+<header class="topbar">
+  <div class="brand">
+    <span class="logo">升</span>
     <div>
-      <p>专升本 · 计算机 + 英语 · PDF完整分区版</p>
-      <h1>知识点速记本</h1>
-      <span>计算机按章节，英语按语法章节；短讲义 PDF 完整保留，进度 ID 不改</span>
+      <p>计算机 + 英语 + 考点必背 · 清爽填空 + 25分钟专注 + 抗遗忘</p>
+      <h1>专升本知识点速记本</h1>
     </div>
-    <button id="installBtn" class="install hidden" type="button">安装</button>
-  </header>
+  </div>
+  <div class="top-actions">
+    <button id="themeBtn" class="ghost">夜间</button>
+    <button id="installBtn" class="ghost hidden">安装</button>
+  </div>
+</header>
 
-  <section class="tools" aria-label="筛选工具">
-    <input id="searchInput" type="search" placeholder="搜索：如 计算机、英语、名词、代词、情态动词、二进制、CPU..." autocomplete="off" />
+<section class="dashboard">
+  <div class="stat-card"><span>总卡片</span><b id="totalCount">0</b><em id="shownCount">0 个正在显示</em></div>
+  <div class="stat-card"><span>计算机进度</span><b id="compPct">0%</b><div class="bar"><i id="compBar"></i></div></div>
+  <div class="stat-card"><span>英语进度</span><b id="engPct">0%</b><div class="bar"><i id="engBar"></i></div></div>
+  <div class="stat-card"><span>学习时长</span><b id="timeTotal">0m</b><em>今日 <span id="timeToday">0m</span></em></div>
+  <div class="stat-card"><span>打卡</span><b id="streak">0 天</b><button id="checkinBtn">今日打卡</button></div>
+  <div class="stat-card timer-card">
+    <span>25分钟专注</span>
+    <b id="focusTimer">25:00</b>
+    <em>已完成 <span id="focusCount">0</span> 轮</em>
+    <div class="timer-actions">
+      <button id="timerStart">开始</button>
+      <button id="timerPause" class="ghost">暂停</button>
+      <button id="timerReset" class="ghost">重置</button>
+    </div>
+  </div>
+  <div class="stat-card"><span>抗遗忘复习</span><b id="reviewDue">0 张</b><em>按 1/2/4/7/15/30 天复习</em></div>
+</section>
 
-    <div class="subject-tabs" role="tablist" aria-label="科目分区">
-      <button type="button" data-subject="">全部</button>
-      <button type="button" data-subject="计算机">计算机</button>
-      <button type="button" data-subject="英语">英语</button>
-    </div>
-    <div class="filters">
-      <select id="chapterFilter" aria-label="章节筛选"><option value="">全部章节</option></select>
-      <select id="statusFilter" aria-label="状态筛选">
-        <option value="">全部状态</option>
-        <option value="unread">未看</option>
-        <option value="read">已看</option>
-        <option value="starred">重点</option>
-        <option value="mastered">已掌握</option>
-      </select>
-    </div>
-    <div class="tabs" role="tablist" aria-label="学习状态快捷筛选">
-      <button type="button" data-status="">全部 <span id="totalCount">0</span></button>
-      <button type="button" data-status="unread">未看 <span id="unreadCount">0</span></button>
-      <button type="button" data-status="starred">重点 <span id="starCount">0</span></button>
-      <button type="button" data-status="mastered">掌握 <span id="masteredCount">0</span></button>
-    </div>
-  </section>
+<section class="today">
+  <div><h2>今日任务</h2><p>默认给你排计算机 + 英语，优先未掌握、未看的卡。</p></div>
+  <div id="todayTasks" class="task-list"></div>
+</section>
 
-  <main class="layout">
-    <aside class="list-pane">
-      <div class="list-head">
-        <strong>知识点列表</strong>
-        <span id="shownCount">0</span>
-      </div>
-      <div id="itemList" class="item-list"></div>
-    </aside>
-    <article id="detailPane" class="detail-pane">
-      <div class="empty">点左侧/列表中的一个知识点开始背。</div>
-    </article>
+<section class="review-panel">
+  <div>
+    <h2>抗遗忘复习</h2>
+    <p>按遗忘曲线安排：第1天、第2天、第4天、第7天、第15天、第30天复习。点“加入抗遗忘”后会自动排期。</p>
+  </div>
+  <div class="review-tools">
+    <button id="reviewTodayBtn">查看今日复习</button>
+    <button id="reviewAllBtn" class="ghost">查看全部抗遗忘</button>
+  </div>
+  <div id="reviewList" class="review-list"></div>
+</section>
+
+<div class="layout">
+  <aside class="sidebar">
+    <div class="subject-tabs" id="subjectTabs">
+      <button data-subject="" class="active">全部</button>
+      <button data-subject="计算机">计算机</button>
+      <button data-subject="英语">英语</button>
+      <button data-subject="考点必背">考点必背</button>
+    </div>
+    <input id="searchInput" class="search" placeholder="搜：冠词 / 情态动词 / ASCII / RAM / 黄色字..." />
+    <div class="mode-box">
+      <label><input type="checkbox" id="hideMastered" /> 隐藏已掌握</label>
+      <label><input type="checkbox" id="detailMode" checked /> 详细学习模式</label>
+    </div>
+    <select id="chapterFilter"><option value="">全部章节</option></select>
+    <select id="statusFilter"><option value="">全部状态</option><option value="unread">未看</option><option value="read">已看</option><option value="starred">重点</option><option value="mastered">已掌握</option></select>
+    <nav class="tree" id="treeNav"></nav>
+    <div class="io-box">
+      <button id="exportBtn">导出记录</button>
+      <label class="import">导入记录<input id="importInput" type="file" accept="application/json"></label>
+    </div>
+  </aside>
+
+  <main class="main">
+    <section class="list" id="itemList"></section>
+    <section class="detail" id="detailPane"><div class="empty">点一个知识点开始。</div></section>
   </main>
+</div>
 
-  <footer class="bottom">
-    <button id="exportBtn" type="button">导出记录</button>
-    <label for="importInput">导入记录<input id="importInput" type="file" accept="application/json,.json" /></label>
-  </footer>
+<dialog id="imageDialog"><button id="closeDialog">×</button><img id="dialogImage" alt="页面预览"></dialog>
 
-  <dialog id="imageDialog" class="image-dialog">
-    <button id="closeDialog" class="close-btn" type="button">关闭</button>
-    <img id="dialogImage" alt="原图预览" />
-  </dialog>
-
-  <script src="./knowledge-data.js"></script>
-  <script src="./app.js"></script>
+<script src="./knowledge-data.js"></script>
+<script src="./app.js"></script>
 </body>
 </html>

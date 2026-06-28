@@ -1,0 +1,12 @@
+{
+  "version": "v14PDF原文填空修正版",
+  "base": "v13填空框优化版",
+  "total_cards": 109,
+  "removed_video_page_cards": 526,
+  "changes": [
+    "移除录屏遮挡页和目录页",
+    "考点必背改成PDF原文逐句填空",
+    "能提取文字的PDF按原文完整显示",
+    "不对图片型PDF强行OCR"
+  ]
+}

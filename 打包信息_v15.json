@@ -1,0 +1,13 @@
+{
+  "version": "v15",
+  "base": "v14",
+  "totalCards": 593,
+  "baseItemsKept": 76,
+  "videoExamCards": 517,
+  "videoCounts": {
+    "录屏1": 358,
+    "录屏2": 159
+  },
+  "removedOldExamCards": 33,
+  "sampling": "0.3s, yellow_count>200, frame difference>3, filtered directory/loading pages"
+}
