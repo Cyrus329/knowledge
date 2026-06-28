@@ -132,3 +132,25 @@ body.dark .compact-cloze, body.dark .video-fallback, body.dark .video-text-cloze
 .small-note{font-size:11px!important;margin-top:6px!important;color:#64748b!important}.show-answers .cloze-blank input{display:none!important}.show-answers .cloze-answer{display:inline-block!important}
 @media(max-width:700px){.panel{padding:10px!important}.video-text-cloze.compact-cloze .cloze-lines{padding:7px 8px}.video-text-cloze.compact-cloze .cloze-line{font-size:13px!important;line-height:1.45!important;padding:2px 0}.video-text-cloze.compact-cloze .cloze-blank input{height:1.45em!important;max-width:20ch!important}.compact-cloze .cloze-head span{display:none}.exam-answer-gallery{grid-template-columns:1fr!important}.exam-answer-gallery figure{max-width:100%!important}.page-gallery figure{border-radius:12px}.page-label{font-size:11px;padding:6px 8px}.source-files{font-size:11px!important;line-height:1.45}.tabs{gap:6px}.tabs button{font-size:13px;padding:7px 9px;border-radius:10px}.dhead h2{font-size:18px!important}.dhead p{font-size:12px!important}}
 body.dark .video-text-cloze.compact-cloze .cloze-lines, body.dark .cloze-box.compact-cloze{background:#0f172a;border-color:#263244}body.dark .video-text-cloze.compact-cloze .cloze-line{color:#e5e7eb}body.dark .video-text-cloze.compact-cloze .cloze-blank input{background:#251f10!important;color:#fef3c7!important}
+
+
+/* v19：首页分区收纳 + 详情瘦身 */
+.home-sections{max-width:1480px;margin:10px auto 14px;padding:0 18px;display:grid;gap:8px}
+.home-section{background:var(--card);border:1px solid var(--line);border-radius:16px;box-shadow:var(--shadow);overflow:hidden}
+.home-section>summary{list-style:none;display:flex;align-items:center;justify-content:space-between;gap:10px;padding:12px 14px;cursor:pointer;font-weight:900;color:var(--text)}
+.home-section>summary::-webkit-details-marker{display:none}
+.home-section>summary:before{content:'+';display:inline-grid;place-items:center;width:22px;height:22px;border-radius:8px;background:var(--bg);border:1px solid var(--line);margin-right:2px;font-weight:900;flex:0 0 auto}
+.home-section[open]>summary:before{content:'−'}
+.home-section>summary span{flex:1}.home-section>summary em{font-style:normal;color:var(--muted);font-size:12px;font-weight:600;text-align:right;line-height:1.35}
+.home-section .dashboard{padding:10px 12px 12px;grid-template-columns:repeat(auto-fit,minmax(150px,1fr))}
+.home-section .stat-card{min-height:72px;padding:10px;border-radius:14px;box-shadow:none}.home-section .stat-card b{font-size:22px;margin:3px 0}.home-section .stat-card span{font-size:12px}.home-section .stat-card em{font-size:11px}
+.home-section .today{margin:0;padding:12px;border:0;box-shadow:none;border-radius:0;background:transparent}.home-section .today h2{font-size:16px}.home-section .today p{font-size:12px}.home-section .task{padding:7px 10px;font-size:13px}
+.home-section .review-panel{margin:0;max-width:none;border:0;border-radius:0;box-shadow:none;background:transparent;padding:12px;grid-template-columns:1fr auto}.home-section .review-panel h2{font-size:16px}.home-section .review-panel p{font-size:12px}.home-section .review-card{box-shadow:none}.home-section .review-tools button{padding:8px 10px;font-size:13px}
+.slim-head{border-bottom:1px solid var(--line);padding-bottom:10px;margin-bottom:10px}.slim-head h2{font-size:24px;margin-top:3px}.slim-head p{margin:0;color:var(--muted);font-size:13px;line-height:1.5}.slim-head span{opacity:.12;font-size:46px}
+.pills,.quick-grid{display:none!important}.slim-ops{margin-top:2px}.slim-tabs{margin-top:10px}.slim-tip{border:1px dashed var(--line);border-radius:12px;padding:10px 12px;background:var(--bg);margin:0;line-height:1.65}
+/* 录屏考点卡只保留真正要用的区域：填空 / 原图，不再显示废话说明 */
+.row[data-subject="考点必背"] .rmain small{display:none}
+.detail .panel[data-panel-box="learn"] .muted.slim-tip{font-size:13px;color:var(--muted)}
+@media(max-width:700px){
+  .home-sections{padding:0 10px;margin:8px auto 10px}.home-section>summary{padding:10px 12px}.home-section>summary em{display:none}.home-section .dashboard{grid-template-columns:1fr 1fr;padding:8px}.home-section .stat-card{min-height:auto}.home-section .stat-card b{font-size:20px}.home-section .review-panel{grid-template-columns:1fr}.home-section .review-list{grid-template-columns:1fr}.slim-head h2{font-size:19px!important}.slim-head span{font-size:38px}.slim-ops button{padding:9px 12px}.tabs.slim-tabs button{font-size:13px;padding:7px 9px}.detail{padding:12px!important}.panel{padding:8px!important}
+}

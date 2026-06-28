@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover" />
-  <title>专升本知识点速记本 · v18手机修复版</title>
+  <title>专升本知识点速记本 · v19分区瘦身版</title>
   <meta name="theme-color" content="#2563eb" />
   <link rel="manifest" href="./manifest.webmanifest" />
   <link rel="icon" href="./icon-192.png" />
@@ -14,7 +14,7 @@
   <div class="brand">
     <span class="logo">升</span>
     <div>
-      <p>计算机 + 英语 + 考点必背 · 清爽填空 + 25分钟专注 + 抗遗忘</p>
+      <p>计算机 + 英语 + 考点必背 · 分区收纳 + 清爽填空 + 抗遗忘</p>
       <h1>专升本知识点速记本</h1>
     </div>
   </div>
@@ -24,40 +24,51 @@
   </div>
 </header>
 
-<section class="dashboard">
-  <div class="stat-card"><span>总卡片</span><b id="totalCount">0</b><em id="shownCount">0 个正在显示</em></div>
-  <div class="stat-card"><span>计算机进度</span><b id="compPct">0%</b><div class="bar"><i id="compBar"></i></div></div>
-  <div class="stat-card"><span>英语进度</span><b id="engPct">0%</b><div class="bar"><i id="engBar"></i></div></div>
-  <div class="stat-card"><span>学习时长</span><b id="timeTotal">0m</b><em>今日 <span id="timeToday">0m</span></em></div>
-  <div class="stat-card"><span>打卡</span><b id="streak">0 天</b><button id="checkinBtn">今日打卡</button></div>
-  <div class="stat-card timer-card">
-    <span>25分钟专注</span>
-    <b id="focusTimer">25:00</b>
-    <em>已完成 <span id="focusCount">0</span> 轮</em>
-    <div class="timer-actions">
-      <button id="timerStart">开始</button>
-      <button id="timerPause" class="ghost">暂停</button>
-      <button id="timerReset" class="ghost">重置</button>
-    </div>
-  </div>
-  <div class="stat-card"><span>抗遗忘复习</span><b id="reviewDue">0 张</b><em>按 1/2/4/7/15/30 天复习</em></div>
-</section>
+<section class="home-sections">
+  <details class="home-section" id="statsZone">
+    <summary><span>学习统计 / 25分钟</span><em>进度、时长、打卡、计时器收在这里</em></summary>
+    <section class="dashboard">
+      <div class="stat-card"><span>总卡片</span><b id="totalCount">0</b><em id="shownCount">0 个正在显示</em></div>
+      <div class="stat-card"><span>计算机进度</span><b id="compPct">0%</b><div class="bar"><i id="compBar"></i></div></div>
+      <div class="stat-card"><span>英语进度</span><b id="engPct">0%</b><div class="bar"><i id="engBar"></i></div></div>
+      <div class="stat-card"><span>学习时长</span><b id="timeTotal">0m</b><em>今日 <span id="timeToday">0m</span></em></div>
+      <div class="stat-card"><span>打卡</span><b id="streak">0 天</b><button id="checkinBtn">今日打卡</button></div>
+      <div class="stat-card timer-card">
+        <span>25分钟专注</span>
+        <b id="focusTimer">25:00</b>
+        <em>已完成 <span id="focusCount">0</span> 轮</em>
+        <div class="timer-actions">
+          <button id="timerStart">开始</button>
+          <button id="timerPause" class="ghost">暂停</button>
+          <button id="timerReset" class="ghost">重置</button>
+        </div>
+      </div>
+      <div class="stat-card"><span>抗遗忘复习</span><b id="reviewDue">0 张</b><em>按 1/2/4/7/15/30 天复习</em></div>
+    </section>
+  </details>
 
-<section class="today">
-  <div><h2>今日任务</h2><p>默认给你排计算机 + 英语，优先未掌握、未看的卡。</p></div>
-  <div id="todayTasks" class="task-list"></div>
-</section>
+  <details class="home-section" id="taskZone">
+    <summary><span>今日任务</span><em>默认安排未掌握、未看的卡</em></summary>
+    <section class="today">
+      <div><h2>今日任务</h2><p>默认给你排计算机 + 英语 + 考点必背，优先未掌握、未看的卡。</p></div>
+      <div id="todayTasks" class="task-list"></div>
+    </section>
+  </details>
 
-<section class="review-panel">
-  <div>
-    <h2>抗遗忘复习</h2>
-    <p>按遗忘曲线安排：第1天、第2天、第4天、第7天、第15天、第30天复习。点“加入抗遗忘”后会自动排期。</p>
-  </div>
-  <div class="review-tools">
-    <button id="reviewTodayBtn">查看今日复习</button>
-    <button id="reviewAllBtn" class="ghost">查看全部抗遗忘</button>
-  </div>
-  <div id="reviewList" class="review-list"></div>
+  <details class="home-section" id="reviewZone">
+    <summary><span>抗遗忘复习</span><em>1/2/4/7/15/30 天复习计划</em></summary>
+    <section class="review-panel">
+      <div>
+        <h2>抗遗忘复习</h2>
+        <p>点“加入抗遗忘”后自动排期；到期的卡会显示在这里。</p>
+      </div>
+      <div class="review-tools">
+        <button id="reviewTodayBtn">今日复习</button>
+        <button id="reviewAllBtn" class="ghost">全部抗遗忘</button>
+      </div>
+      <div id="reviewList" class="review-list"></div>
+    </section>
+  </details>
 </section>
 
 <div class="layout">
